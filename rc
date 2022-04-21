@@ -1,7 +1,5 @@
 #EXTM3U 
 
-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://i.mjh.nz/Plex/all.xml" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" tvg-url="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
-
 ##### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
 
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://milionariohomeoffice.com.br/imagens/logoadrenalinafreezone.jpg" group-title="Brasil: cinema em português",Adrenalina Freezone
