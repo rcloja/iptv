@@ -1,57 +1,66 @@
-#EXTM3U 
+#EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
 ##### Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ############# Brasil: cinema ######
-#EXTINF:-1 tvg-logo="https://milionariohomeoffice.com.br/imagens/logocindie.jpg" group-title="Brasil: cinema em português",Cindie Lite | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
 
-#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="http://milionariohomeoffice.com.br/imagens/logocinedrama.jpg" group-title="Brasil: cinema em português",Cine Drama | Brasil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="http://milionariohomeoffice.com.br/imagens/logocinefamilia.jpg" group-title="Brasil: cinema em português",Cine Família | Brasil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="http://milionariohomeoffice.com.br/imagens/logocineromance.jpg" group-title="Brasil: cinema em português",Cine Romance | Brasil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="http://milionariohomeoffice.com.br/imagens/logocinesucessos.jpg" group-title="Brasil: cinema em português",Cine Sucessos | Brasil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="http://milionariohomeoffice.com.br/imagens/logocineterror.jpg" group-title="Brasil: cinema em português",Cine Terror | Brasil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ff7f4f3-233d-4e09-bbf7-e36a061d79f7&userIserverSideAds=true
-
-#EXTINF:-1 tvg-id="http://milionariohomeoffice.com.br/imagens/logoficcaocientifica.jpg" group-title="Brasil: cinema em português", Ficção Científica 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="http://milionariohomeoffice.com.br/imagens/logofilmesacao.jpg" group-title="Brasil: cinema em português",Filmes Ação
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="http://milionariohomeoffice.com.br/imagens/logofilmesnacionais.jpg" group-title="Brasil: cinema em português",Filmes Nacionais
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5762a61-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8784fb7f-5209-406d-b66a-2fe035ee1a18&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="http://milionariohomeoffice.com.br/imagens/logofilmessuspense.jpg" group-title="Brasil: cinema em português",Filmes Suspense
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/imagens/logomytimemovienetwork.jpg" group-title="Brasil: cinema em português",MyTime Movie Network | Brasil
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="Brasil: cinema em português",Cindie Lite
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
+="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Clássicos | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Comédia | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Drama | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Família | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Romance | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Sucessos | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Brasil: cinema em português",Cine Terror | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema em português",DarkFlix HD | Brasil
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEaW5zX.png" group-title="Brasil: cinema em português",Dark Matter TV | Brasil
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Brasil: cinema em português",Ficção Científica | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Ação | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Nacionais | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Brasil: cinema em português",Filmes Suspense | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema em português",MyTime Movie Network | Brasil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+
 #### Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ######## Brasil: cristianismo em português ####
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/imagens/logogospelmovietv.jpg" group-title="Brasil: cristianismo em português",Gospel Movies | Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qqhdkym.png" group-title="Brasil: cristianismo em português",Gospel Movies | Brasil
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJmJ44y.jpg" group-title="Brasil: cristianismo em português",Gospel Music | Brasil
+https://stmv1.srvstm.com/gmusic/gmusic/chunklist_w637142895.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/imagens/logogospelmusic.jpg" group-title="Brasil: cristianismo em português",Gospel Music | Brasil
-https://stmv1.srvif.com/gmusic/gmusic/chunklist_w637142895.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/Ez1nnbc.png" group-title="Brasil: cristianismo em português", Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="http://milionariohomeoffice.com.br/imagens/logokuriakostv.jpg" group-title="Brasil: cristianismo em português",Kuriakos TV | Portugal 
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Brasil: cristianismo em português",Kuriakos TV | Portugal 
 http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 
 
 ######################### Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ############## Brasil: educativos e documentários ########
 
-#EXTINF:-1 tvg-id="culturapara" tvg-logo="http://milionariohomeoffice.com.br/imagens/logoculturadopara.jpg"Brasil: educativos e documentários",Cultura do Pará | Brasil
+#EXTINF:-1 tvg-id="culturapara" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="Brasil: educativos e documentários",Cultura do Pará | Brasil
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TVE.br" tvg-logo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg" group-title="Brasil: educativos e documentários",TV Brasil | TVE (RS)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="Brasil: variedades em português",TV Brasil Central | Goiás
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+
 ############## Brasil: esportes lifestyle realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## ############## Brasil: realities ############## 
 
 #EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="Brasil: esportes - lifestyle - realities",All Sports | Brasil
@@ -119,6 +128,13 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="Brasil: notícias em português",Bloomberg - inglês e português | Brasil
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Brasil: variedades em português",Nova Era TV | Lages SC Brasil
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKM7X9G.png" group-title="Brasil: variedades em português",Sagres TV | YT Goiânia
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SagresTV/live
+
 
 #EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="Brasil: notícias em português",TV Alego | Brasil
 https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
@@ -605,7 +621,6 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/127164
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107822
 
 
-
 #EXTINF:-1 tvg-id="band.rio.br" tvg-name="BAND RJ FHD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND RJ FHD
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276460
 
@@ -1016,273 +1031,6 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/276385
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108367
 #EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMO HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/ZOOMO.png" group-title="CANAIS | INFANTIL",ZOOMO HD
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108379
-#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 Palavrinhas" tvg-logo="https://i.pinimg.com/originals/a8/e2/37/a8e237fb48130ae7604b9485f508552b.png" group-title="CANAIS | DESENHOS 24h",[24H] 3 Palavrinhas
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305299
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Culpa é do Cabral 01" tvg-logo="https://pbs.twimg.com/profile_images/885884436012822529/SNd15R7Q_400x400.jpg" group-title="CANAIS | YOUTUBE",[24H] A Culpa é do Cabral 01
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305364
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A Mansão Foster" tvg-logo="https://i.imgur.com/Sa5rAwp.png" group-title="CANAIS | DESENHOS 24h",[24H] A Mansão Foster
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305378
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="https://i.imgur.com/o8VZkjv.jpg" group-title="CANAIS | DESENHOS 24h",[24H] As Meninas Superpoderosas
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305384
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Bita e os Animais" tvg-logo="https://i.pinimg.com/originals/14/0b/bf/140bbfad44a3b969fccb5e9bfe21c5ac.png" group-title="CANAIS | DESENHOS 24h",[24h] Bita e os Animais
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305302
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caillou" tvg-logo="https://i.imgur.com/sA1jMNy.jpg" group-title="CANAIS | DESENHOS 24h",[24H] Caillou
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305396
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão A Turma da Monica" tvg-logo="https://i.imgur.com/hOk9met.png" group-title="CANAIS | DESENHOS 24h",[24H] Cascão A Turma da Monica
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305397
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="CANAIS | DESENHOS 24h",[24H] Cavaleiros do Zodiaco 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305398
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="CANAIS | DESENHOS 24h",[24H] Cavaleiros do Zodiaco 2
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305399
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="CANAIS | DESENHOS 24h",[24H] Cavaleiros do Zodiaco 3
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305400
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão 1" tvg-logo="https://i.imgur.com/Zfq2vFX.png" group-title="CANAIS | DESENHOS 24h",[24H] Caverna do Dragão 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305404
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chapolin 1" tvg-logo="https://i.imgur.com/IHMrdOR.jpg" group-title="CANAIS | SERIADOS 24h",[24H] Chapolin 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305570
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves" tvg-logo="https://i.imgur.com/dP6qZEi.png" group-title="CANAIS | SERIADOS 24h",[24H] Chaves
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305571
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 1" tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="CANAIS | DESENHOS 24h",[24H] Coragem o Cão Covarde 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305408
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="CANAIS | DESENHOS 24h",[24H] Corrida Maluca 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305410
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 1" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="CANAIS | DESENHOS 24h",[24H] Digimon 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305414
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 15º Aniversário" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="CANAIS | DESENHOS 24h",[24H] Digimon 15º Aniversário
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305415
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dois Homens e Meio 01" tvg-logo="https://i.imgur.com/SXmbDK3.jpg" group-title="CANAIS | SERIADOS 24h",[24H] Dois Homens e Meio 01
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305572
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 1" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="CANAIS | DESENHOS 24h",[24H] Dragon Ball 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305425
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 2" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="CANAIS | DESENHOS 24h",[24H] Dragon Ball 2
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305426
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Heroes" tvg-logo="https://i.imgur.com/xd4GpvA.jpg" group-title="CANAIS | DESENHOS 24h",[24H] Dragon Ball Heroes
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305427
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 1" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="CANAIS | DESENHOS 24h",[24H] Dragon Ball Super 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305428
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 2" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="CANAIS | DESENHOS 24h",[24H] Dragon Ball Super 2
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305429
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 3" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="CANAIS | DESENHOS 24h",[24H] Dragon Ball Super 3
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305430
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 1" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="CANAIS | DESENHOS 24h",[24H] Dragon Ball Z 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305431
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 2" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="CANAIS | DESENHOS 24h",[24H] Dragon Ball Z 2
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305432
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 1" tvg-logo="https://i.imgur.com/VCaWyT0.png" group-title="CANAIS | SERIADOS 24h",[24H] Eu a Patroa e as Crianças 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305585
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Eu a Patroa e as Crianças 2" tvg-logo="https://i.imgur.com/VCaWyT0.png" group-title="CANAIS | SERIADOS 24h",[24H] Eu a Patroa e as Crianças 2
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305586
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Formiga Atômica" tvg-logo="https://i.pinimg.com/originals/50/2b/5f/502b5f78a8fc9084c6bfde4005629982.png" group-title="CANAIS | DESENHOS 24h",[24H] Formiga Atômica
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305242
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Friends 01" tvg-logo="https://i.imgur.com/S380vq7.png" group-title="CANAIS | SERIADOS 24h",[24H] Friends 01
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305590
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/ysPcVsC.png" group-title="CANAIS | DESENHOS 24h",[24H] Futurama
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305438
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Guardiões da Galaxia" tvg-logo="https://www.universalmusic.com.br/wp-content/themes/universalmusicbr-dw_universalmusicbr-dw/guardioes-assets/base-personagens-celular.png" group-title="CANAIS | DESENHOS 24h",[24h] Guardiões da Galaxia
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305244
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://http2.mlstatic.com/pacote-vetores-looney-tunes-para-corel-draw-D_NQ_NP_726158-MLB31610362629_072019-F.jpg" group-title="CANAIS | DESENHOS 24h",[24H] Looney Tunes
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305463
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="CANAIS | DESENHOS 24h",[24H] Luluzinha 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305464
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/QbjuwXD.png" group-title="CANAIS | DESENHOS 24h",[24H] Masha e o Urso
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305466
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="CANAIS | DESENHOS 24h",[24H] Moranguinho 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305469
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="CANAIS | DESENHOS 24h",[24H] Naruto
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305471
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://i.imgur.com/LKCd5a3.jpg" group-title="CANAIS | DESENHOS 24h",[24H] O Clube das Winx
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305472
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://i.imgur.com/RGNAPZt.png" group-title="CANAIS | DESENHOS 24h",[24H] Os Flinstones
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305475
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="CANAIS | DESENHOS 24h",[24H] Os Padrinhos Mágicos
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305477
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="CANAIS | DESENHOS 24h",[24H] Os Padrinhos Mágicos 02
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305478
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="CANAIS | DESENHOS 24h",[24H] Os Simpsons 01
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305483
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="CANAIS | DESENHOS 24h",[24H] Os Simpsons 02
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305484
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="CANAIS | DESENHOS 24h",[24H] Os Simpsons 03
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305485
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="CANAIS | DESENHOS 24h",[24H] Os Simpsons 04
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305486
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Patrulha Canina 1" tvg-logo="https://i.imgur.com/4WTqBCZ.png" group-title="CANAIS | DESENHOS 24h",[24H] Patrulha Canina 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305493
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="CANAIS | DESENHOS 24h",[24H] Pica Pau 01
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305501
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://i.imgur.com/b3SSmrG.png" group-title="CANAIS | DESENHOS 24h",[24H] Pink-e-Cerebro
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305504
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://i.imgur.com/CNpsqgv.png" group-title="CANAIS | DESENHOS 24h",[24H] PJ Masks
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305507
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="CANAIS | DESENHOS 24h",[24H] Popeye
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305510
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Porta dos Fundos 01" tvg-logo="https://i.imgur.com/mKAB0K3.png" group-title="CANAIS | YOUTUBE",[24H] Porta dos Fundos 01
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305367
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://i.imgur.com/YCGbUDc.png" group-title="CANAIS | DESENHOS 24h",[24H] Show da Luna
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305527
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 1" tvg-logo="https://i.imgur.com/NO9Qd9n.jpg" group-title="CANAIS | SERIADOS 24h",[24H] Todo Mundo Odeia o Chris 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305629
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Todo Mundo Odeia o Chris 2" tvg-logo="https://i.imgur.com/NO9Qd9n.jpg" group-title="CANAIS | SERIADOS 24h",[24H] Todo Mundo Odeia o Chris 2
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305630
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://imagensemoldes.com.br/wp-content/uploads/2021/04/Ilustracao-Tom-And-Jerry-PNG.png" group-title="CANAIS | DESENHOS 24h",[24H] Tom & Jerry
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305290
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 1" tvg-logo="https://i.imgur.com/CQiytSl.png" group-title="CANAIS | SERIADOS 24h",[24H] Um Maluco no Pedaço 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305638
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Um Maluco no Pedaço 2" tvg-logo="https://i.imgur.com/CQiytSl.png" group-title="CANAIS | SERIADOS 24h",[24H] Um Maluco no Pedaço 2
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305639
-#EXTINF:-1 tvg-id="" tvg-name="[24h] Ursinhos Carinhos" tvg-logo="https://i.pinimg.com/originals/e8/b0/d0/e8b0d0967c7e434cfd20136facbf594b.png" group-title="CANAIS | DESENHOS 24h",[24h] Ursinhos Carinhos
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305294
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 1" tvg-logo="https://i.ibb.co/qCtwqyp/images.jpg" group-title="CANAIS | SERIADOS 24h",[24H] Vai que Cola 1
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305645
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Vai que Cola 2" tvg-logo="https://i.ibb.co/qCtwqyp/images.jpg" group-title="CANAIS | SERIADOS 24h",[24H] Vai que Cola 2
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305646
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 01" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="CANAIS | YOUTUBE",[24H] YT-Delegado Dacunha 01
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305370
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 02" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="CANAIS | YOUTUBE",[24H] YT-Delegado Dacunha 02
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305371
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Investigação Criminal" tvg-logo="https://i.imgur.com/Zyxwj1j.jpg" group-title="CANAIS | YOUTUBE",[24H] YT-Investigação Criminal
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305374
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Policia Militar" tvg-logo="https://i.imgur.com/4w1cvok.png" group-title="CANAIS | YOUTUBE",[24H] YT-Policia Militar
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305375
-#EXTINF:-1 tvg-id="" tvg-name="24h Pagode" tvg-logo="https://w7.pngwing.com/pngs/88/255/png-transparent-pagode-music-musica-sertaneja-television-show-forro-others-blue-angle-video-game.png" group-title="CANAIS | MÚSICAS 24h",24h Pagode
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/290516
-#EXTINF:-1 tvg-id="" tvg-name="24h Peppa Pig" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2020/01/peppa_pig_capa_galeria_2020.png" group-title="CANAIS | DESENHOS 24h",24h Peppa Pig
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/290519
-#EXTINF:-1 tvg-id="" tvg-name="24h TikTok" tvg-logo="https://logospng.org/download/tiktok/logo-tiktok-icone-1024.png" group-title="CANAIS | MÚSICAS 24h",24h TikTok
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/290517
-#EXTINF:-1 tvg-id="" tvg-name="24h Trap" tvg-logo="https://www.kindpng.com/picc/m/142-1426965_trap-png-transparent-png.png" group-title="CANAIS | MÚSICAS 24h",24h Trap
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/290518
-#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",ALADIN 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305222
-#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",As Meninas Superpoderosas 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305223
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",BEN 10 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305224
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",BOB ESPONJA 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305225
-#EXTINF:-1 tvg-id="" tvg-name="CAO CORAGEM 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",CAO CORAGEM 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305227
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Caverna do Dragão 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305228
-#EXTINF:-1 tvg-id="" tvg-name="CENTRAL KIDS 24HRS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",CENTRAL KIDS 24HRS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305320
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Chapolin Colorado 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305229
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",CHAVES DESENHO 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305231
-#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24HRS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",CINE KIDS 24HRS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305327
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Maluca" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Corrida Maluca
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305308
-#EXTINF:-1 tvg-id="" tvg-name="Denis o Pimentinha 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Denis o Pimentinha 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305232
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Desenhos Biblicos 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305233
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Disney 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Desenhos Disney 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305234
-#EXTINF:-1 tvg-id="" tvg-name="Digimon 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Digimon 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305235
-#EXTINF:-1 tvg-id="" tvg-name="Doug 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Doug 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305237
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",DRAGON BALL 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305238
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",DRAGON BALL SUPER 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305239
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",DRAGON BALL Z 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305240
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Galinha Pintadinha 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305243
-#EXTINF:-1 tvg-id="" tvg-name="He-Man 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",He-Man 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305245
-#EXTINF:-1 tvg-id="" tvg-name="Historias Disney 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Historias Disney 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305247
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",HOMEM ARANHA 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305248
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Homem de Ferro 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305249
-#EXTINF:-1 tvg-id="" tvg-name="Hércules 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Hércules 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305246
-#EXTINF:-1 tvg-id="" tvg-name="Jack-Chan 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Jack-Chan 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305252
-#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Jaspion 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305253
-#EXTINF:-1 tvg-id="" tvg-name="JIRAYA O Incrível Ninja 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",JIRAYA O Incrível Ninja 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305254
-#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Kenan e Kel 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305255
-#EXTINF:-1 tvg-id="" tvg-name="KPOP TV" tvg-logo="http://cdn.liveboxtv.xyz:80/images/c73612c6f429a3dfe66610fdfc8fd761.png" group-title="CANAIS | MÚSICAS 24h",KPOP TV
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/100232
-#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Liga da Justica 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305303
-#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Luluzinha 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305256
-#EXTINF:-1 tvg-id="" tvg-name="Medabots 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Medabots 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305257
-#EXTINF:-1 tvg-id="" tvg-name="MegaMan 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",MegaMan 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305258
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Mortal Kombat 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305259
-#EXTINF:-1 tvg-id="" tvg-name="Mr.Ben 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Mr.Ben 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305260
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden DUB 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Naruto Shippuden DUB 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305262
-#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Bobby 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",O Fantástico Mundo de Bobby 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305263
-#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",O MASKARA 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305265
-#EXTINF:-1 tvg-id="" tvg-name="Os Anjinhos - Rugrats 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Os Anjinhos - Rugrats 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305266
-#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",OS CAVALEIROS DO ZODIACO 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305267
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",OS FLINTSTONES 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305268
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",OS SIMPSONS 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305269
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Os Vingadores 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305270
-#EXTINF:-1 tvg-id="" tvg-name="Papa-Léguas 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Papa-Léguas 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305271
-#EXTINF:-1 tvg-id="" tvg-name="PEQUENOS ESPIOES 24 HRS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",PEQUENOS ESPIOES 24 HRS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305321
-#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",PERNALONGA 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305273
-#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Phineas e Ferb 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305274
-#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",PICA PAU 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305275
-#EXTINF:-1 tvg-id="" tvg-name="Pink-e-Cerebro 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Pink-e-Cerebro 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305276
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",POKEMON 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305277
-#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Popeye O Marinheiro 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305278
-#EXTINF:-1 tvg-id="" tvg-name="Rambo 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Rambo 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305279
-#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Scooby-Doo 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305280
-#EXTINF:-1 tvg-id="" tvg-name="South Park 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",South Park 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305283
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Super Choque 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305306
-#EXTINF:-1 tvg-id="" tvg-name="Superman 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Superman 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305285
-#EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",TARTARUGAS NINJAS 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305286
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Thundercats 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305287
-#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",TIMAO E PUMBA 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305288
-#EXTINF:-1 tvg-id="" tvg-name="Tres Espias Demais 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Tres Espias Demais 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305291
-#EXTINF:-1 tvg-id="" tvg-name="Uma Família da Pesada 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",Uma Família da Pesada 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305293
-#EXTINF:-1 tvg-id="" tvg-name="X-MAN 24HS" tvg-logo="" group-title="CANAIS | DESENHOS 24h",X-MAN 24HS
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305295
-#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",YU-GI-OH 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305297
-#EXTINF:-1 tvg-id="" tvg-name="YU-YU-Hakusho 24hs" tvg-logo="" group-title="CANAIS | DESENHOS 24h",YU-YU-Hakusho 24hs
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/305298
-
 
 
 
@@ -3581,6 +3329,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60cba3e49c6d850013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6008733ab7b339001a477d9a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6008733eb7b339001a477dfa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Infantil", O Arraiá do Atchim e Espirro BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6008733eb7b339001a477dfa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+
+
+
+
+
 
 
 
