@@ -762,7 +762,7 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/108358
 #EXTINF:-1 tvg-id="HOPECHANNEL" tvg-name="HOPECHANNEL" tvg-logo="https://www.pngitem.com/pimgs/m/400-4007344_w20cq-d-logo-hope-channel-logo-png-transparent.png" group-title="RELIGIOSOS", HOPECHANNEL
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b4192000.m3u8
 
-#EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="https://cdn-radiotime-logos.tunein.com/s174617g.png" group-title="RELIGIOSOS", NUEVO TIEMPO
+#EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="https://aws-noticias-es.s3.amazonaws.com/2014/11/logotipont.jpg" group-title="RELIGIOSOS", NUEVO TIEMPO
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 
 #EXTINF:-1 tvg-id="EURONEWS" tvg-name="https://yt3.ggpht.com/ytc/AKedOLTEnrXglCFfThny1h-FYyyD6cZ50kDl0u_maFrSIw=s900-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS", EURONEWS
