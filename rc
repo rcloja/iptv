@@ -759,14 +759,11 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/108356
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="TV PAI ETERNO HD" tvg-logo="https://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="RELIGIOSOS",TV PAI ETERNO
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108358
 
-#EXTINF:-1 tvg-id="HOPECHANNEL" tvg-name="HOPECHANNEL" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/Design1/Images/HopeChannel-horizontal.svg" group-title="RELIGIOSOS", HOPECHANNEL
-https://streamer1.streamhost.org/salive/logosH/chunklist_w2066021306.m3u8
-
-#EXTINF:-1 tvg-id="LOGOSTV" tvg-name="LOGOSTV" tvg-logo="https://logostv.es/img/pwa/splash-2048-2732.png" group-title="RELIGIOSOS", LOGOS TV
+#EXTINF:-1 tvg-id="HOPECHANNEL" tvg-name="HOPECHANNEL" tvg-logo="https://www.pngitem.com/pimgs/m/400-4007344_w20cq-d-logo-hope-channel-logo-png-transparent.png" group-title="RELIGIOSOS", HOPECHANNEL
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b4192000.m3u8
 
-#EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="https://nuevotiempo.ar/wp-content/uploads/2020/09/cropped-logont.png" group-title="RELIGIOSOS", NUEVO TIEMPO
-https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b4192000.m3u8
+#EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="https://cdn-radiotime-logos.tunein.com/s174617g.png" group-title="RELIGIOSOS", NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 
 #EXTINF:-1 tvg-id="EURONEWS" tvg-name="https://yt3.ggpht.com/ytc/AKedOLTEnrXglCFfThny1h-FYyyD6cZ50kDl0u_maFrSIw=s900-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS", EURONEWS
 https://pt.euronews.com/live
