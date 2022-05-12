@@ -22,7 +22,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032
 #EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="FILMES",CINE ROMANCE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="FILMES",CINE SUCESSOS
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="FILMES",FILMES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="FILMES",CINE TERROR
@@ -539,247 +539,252 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/126647
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="ABERTOS",CNN BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107890
 
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="COMÉDIA",COMEDY CENTRAL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/126666
 
-
-#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER FHD" tvg-logo="https://lh3.googleusercontent.com/-D5d1wcnqfj8/YT009l6rOZI/AAAAAAAAKkg/4OfFErGZ7SQMWnYU2FlKYzcryCsbKRjQQCLcBGAsYHQ/super.png" group-title="CANAIS | RELIGIOSOS",REDE SUPER FHD
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER FHD" tvg-logo="https://lh3.googleusercontent.com/-D5d1wcnqfj8/YT009l6rOZI/AAAAAAAAKkg/4OfFErGZ7SQMWnYU2FlKYzcryCsbKRjQQCLcBGAsYHQ/super.png" group-title="RELIGIOSOS",REDE SUPER
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276540
 
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS",REDE TV
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="ABERTOS",REDE TV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108237
 
-#EXTINF:-1 tvg-id="rede.belem.br" tvg-name="REDE TV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS",REDE TV FHD (H265)
+#EXTINF:-1 tvg-id="rede.belem.br" tvg-name="REDE TV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="ABERTOS",REDE TV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/126737
 
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA FHD" tvg-logo="https://lh3.googleusercontent.com/-sXM0T_H-OdQ/YB7vVSrfZ-I/AAAAAAAAKDo/wdMquyO8rqoWOGn7KDLABrFv4_P4dr2tQCLcBGAsYHQ/Rede%2BVida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA FHD
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA FHD" tvg-logo="https://lh3.googleusercontent.com/-sXM0T_H-OdQ/YB7vVSrfZ-I/AAAAAAAAKDo/wdMquyO8rqoWOGn7KDLABrFv4_P4dr2tQCLcBGAsYHQ/Rede%2BVida.png" group-title="RELIGIOSOS",REDE VIDA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290687
 
-#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="CANAIS | SBT",SBT RJ FHD
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RJ FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/SBT.png" group-title="ABERTOS",SBT
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108249
 
-#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME FHD" tvg-logo="https://lh3.googleusercontent.com/-EQ6AwC0WcuM/YT012tjJSKI/AAAAAAAAKko/sfdIri6EbfI7dKQLQcpkGJjR_NANoK5PQCLcBGAsYHQ/sptame.png" group-title="CANAIS | VARIEDADES",SHOPTIME FHD
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME FHD" tvg-logo="https://lh3.googleusercontent.com/-EQ6AwC0WcuM/YT012tjJSKI/AAAAAAAAKko/sfdIri6EbfI7dKQLQcpkGJjR_NANoK5PQCLcBGAsYHQ/sptame.png" group-title="DIVERSOS",SHOPTIME
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276711
 
-#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL FHD (H265)
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title="FILMES",STAR CHANNEL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/126655
 
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD" tvg-logo="https://lh3.googleusercontent.com/-IgSsbk6TeGQ/YBxwZhfFmEI/AAAAAAAAJ3U/4wSIewTLk98XGKJ8Hh5tc3AAAHF27iKNACLcBGAsYHQ/FOX%2BLIFE.png" group-title="CANAIS | FILMES E SÉRIES",STAR LIFE FHD
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE FHD" tvg-logo="https://lh3.googleusercontent.com/-IgSsbk6TeGQ/YBxwZhfFmEI/AAAAAAAAJ3U/4wSIewTLk98XGKJ8Hh5tc3AAAHF27iKNACLcBGAsYHQ/FOX%2BLIFE.png" group-title="FILMES",STAR LIFE
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108296
 
-
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV FHD" tvg-logo="https://1.bp.blogspot.com/-Fiw4brPaCjU/YBxZDBx9i3I/AAAAAAAAJ1c/SlnstmbOAT0pvdjfA7QkRR8xuM6aGnN5QCLcBGAsYHQ/s0/tru%2Btv.png" group-title="CANAIS | VARIEDADES",TRUTV FHD
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV FHD" tvg-logo="https://1.bp.blogspot.com/-Fiw4brPaCjU/YBxZDBx9i3I/AAAAAAAAJ1c/SlnstmbOAT0pvdjfA7QkRR8xuM6aGnN5QCLcBGAsYHQ/s0/tru%2Btv.png" group-title="DIVERSOS",TRUTV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276707
 
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="CANAIS | ABERTOS",TV BRASIL FHD
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="ABERTOS",TV BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290677
 
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGILIZAR FHD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGILIZAR FHD
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGILIZAR FHD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="RELIGIOSOS",TV EVANGILIZAR
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290689
 
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SP FHD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="CANAIS | ABERTOS",TV GAZETA SP FHD
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SP FHD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="DIVERSOS",TV GAZETA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290682
 
-#EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV PAMPA RS FHD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="CANAIS | ABERTOS",TV PAMPA RS FHD
+#EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV PAMPA RS FHD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS",TV PAMPA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276513
 
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-ITpft2CaGLs/YB2NhDrxhcI/AAAAAAAAJ80/jrymho5PUxUnNF4m1FWHsAAg6-RndfGkwCLcBGAsYHQ/VH1.png" group-title="CANAIS | VARIEDADES",VH1 FHD (H265)
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-ITpft2CaGLs/YB2NhDrxhcI/AAAAAAAAJ80/jrymho5PUxUnNF4m1FWHsAAg6-RndfGkwCLcBGAsYHQ/VH1.png" group-title="MUSICAS",VH1
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/126675
 
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA FHD
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="DIVERSOS",VIVA 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108370
 
-#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CANAIS | ABERTOS",AGROMAIS HD
+#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="NOTÍCIAS",AGROMAIS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290684
 
-#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CANAIS | DOCUMENTARIOS",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CURIOSIDADES",ANIMAL PLANET
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107820
 
-#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD" tvg-logo="https://lh3.googleusercontent.com/-fpiVO2imhf4/YB1kAESQUfI/AAAAAAAAJ7g/DrG7OC1klgA5u-YcbP3lmRW8zLNbXYUPACLcBGAsYHQ/ARTE%2B1.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD" tvg-logo="https://lh3.googleusercontent.com/-fpiVO2imhf4/YB1kAESQUfI/AAAAAAAAJ7g/DrG7OC1klgA5u-YcbP3lmRW8zLNbXYUPACLcBGAsYHQ/ARTE%2B1.png" group-title="DIVERSOS",ARTE 1
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/126986
 
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/BABYTV.png" group-title="CANAIS | INFANTIL",BABY TV HD
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/BABYTV.png" group-title="INFANTIS",BABY TV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107825
 
-
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="NOTÍCIAS",BAND NEWS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107829
 
-
-#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND RS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | REDE BANDEIRANTES",BAND RS HD
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND RS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="ABERTOS",BAND RS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276466
 
-
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES",BAND SPORTS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290573
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="CANAIS | NOTÍCIAS",BBC WORLD HD
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="NOTÍCIAS",BBC WORLD 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276398
 
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="CANAIS | FILMES E SÉRIES",CANAL BRASIL HD
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="FILMES",CANAL BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107856
 
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://lh3.googleusercontent.com/-Li5io6A9WcM/YB1E7Q-wmnI/AAAAAAAAJ5U/RvH5WwHsB_8wneFb_bKmVmSENvH7jydtACLcBGAsYHQ/CanaldoBoi.png" group-title="CANAIS | ABERTOS",CANAL DO BOI HD
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://lh3.googleusercontent.com/-Li5io6A9WcM/YB1E7Q-wmnI/AAAAAAAAJ5U/RvH5WwHsB_8wneFb_bKmVmSENvH7jydtACLcBGAsYHQ/CanaldoBoi.png" group-title="NOTÍCIAS",CANAL DO BOI
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276519
 
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://lh3.googleusercontent.com/-uVh3b-Epn5s/YT07LYtpnII/AAAAAAAAKlA/sYqkd1Jk9kIunl0Vzj2bYB5m1U3NcZP4gCLcBGAsYHQ/rural.png" group-title="CANAIS | ABERTOS",CANAL RURAL SD
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://lh3.googleusercontent.com/-uVh3b-Epn5s/YT07LYtpnII/AAAAAAAAKlA/sYqkd1Jk9kIunl0Vzj2bYB5m1U3NcZP4gCLcBGAsYHQ/rural.png" group-title="NOTÍCIAS",CANAL RURAL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276442
 
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA HD" tvg-logo="https://lh3.googleusercontent.com/-MyzIIOVq8hM/YB7q2n_7QJI/AAAAAAAAKC4/gAkKhUrbEf0Rnbi9PtEbOZjN6rVRjaMNQCLcBGAsYHQ/CANCAO%2BNOVA.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA HD
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA HD" tvg-logo="https://lh3.googleusercontent.com/-MyzIIOVq8hM/YB7q2n_7QJI/AAAAAAAAKC4/gAkKhUrbEf0Rnbi9PtEbOZjN6rVRjaMNQCLcBGAsYHQ/CANCAO%2BNOVA.png" group-title="RELIGIOSOS",CANÇÃO NOVA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107862
 
-#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="INFANTIS",CARTOON NETWORK
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107865
 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg" group-title="CANAIS | INFANTIL",CARTOONITO HD
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://s2.glbimg.com/9BNgLXbdgDtR2_tBYTnkJoibfjo=/e.glbimg.com/og/ed/f/original/2021/11/30/cartoonito.jpg" group-title="INFANTIL",CARTOONITO 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/155401
 
-#EXTINF:-1 tvg-id="chef.br" tvg-name="CHEFE TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_chef-tv-brazil_m.png" group-title="CANAIS | VARIEDADES",CHEFE TV HD
+#EXTINF:-1 tvg-id="chef.br" tvg-name="CHEFE TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_chef-tv-brazil_m.png" group-title="CURIOSIDADES",CHEFE TV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276415
 
-
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="NOTÍCIAS",CNN BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107891
 
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="COMÉDIA",COMEDY CENTRAL 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107898
 
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="CANAIS | REDE BANDEIRANTES",FUTURA HD
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="DIVERSOS",FUTURA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290676
 
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="CANAIS | NOTÍCIAS",JOVEM PAN NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="NOTÍCIAS",JOVEM PAN NEWS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/127037
 
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="CANAIS | VARIEDADES",MTV HD
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="MUSICAS",MTV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108158
 
-#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV LIVE HD" tvg-logo="https://lh3.googleusercontent.com/-p7dGCcpkCwU/YB1p7MbgFHI/AAAAAAAAJ7s/bWgP1i3hVCkDazNlO_V21rs7i0scqObYgCLcBGAsYHQ/MTV.png" group-title="CANAIS | VARIEDADES",MTV LIVE HD
+#EXTINF:-1 tvg-id="mtv.live.br" tvg-name="MTV LIVE HD" tvg-logo="https://lh3.googleusercontent.com/-p7dGCcpkCwU/YB1p7MbgFHI/AAAAAAAAJ7s/bWgP1i3hVCkDazNlO_V21rs7i0scqObYgCLcBGAsYHQ/MTV.png" group-title="MUSICAS",MTV LIVE
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276441
 
-#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-cNnnZao7fwM/YZgE2VaA1-I/AAAAAAAAKw8/iqfkYwr0EVk6LDj2lZWAjRhMBpQbTUVtQCLcBGAsYHQ/BOX.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRASIL HD
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-cNnnZao7fwM/YZgE2VaA1-I/AAAAAAAAKw8/iqfkYwr0EVk6LDj2lZWAjRhMBpQbTUVtQCLcBGAsYHQ/BOX.png" group-title="MUSICAS",MUSIC BOX BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108163
 
-#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/NATGEO.png" group-title="CANAIS | DOCUMENTARIOS",NATGEO HD
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/NATGEO.png" group-title="CURIOSIDADES",NATGEO
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108166
 
-
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="NOTÍCIAS",RECORD NEWS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108224
 
 
-#EXTINF:-1 tvg-id="rede.21.br" tvg-name="REDE 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/1200px-Rede_21_logo.svg.png" group-title="CANAIS | RELIGIOSOS",REDE 21 HD
+#EXTINF:-1 tvg-id="rede.21.br" tvg-name="REDE 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/1200px-Rede_21_logo.svg.png" group-title="RELIGIOSOS",REDE 21
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276412
 
-#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="CANAIS | ABERTOS",REDE BRASIL SD
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="DIVERSOS",REDE BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276526
 
-#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://lh3.googleusercontent.com/-g16E1tbKpow/YY5HAgchPZI/AAAAAAAAKvI/mpiZfuDrHcgEVbPDMNvORVdpazr0cI8gACLcBGAsYHQ/rede%2Bgospel.png" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL HD
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://lh3.googleusercontent.com/-g16E1tbKpow/YY5HAgchPZI/AAAAAAAAKvI/mpiZfuDrHcgEVbPDMNvORVdpazr0cI8gACLcBGAsYHQ/rede%2Bgospel.png" group-title="RELIGIOSOS",REDE GOSPEL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108236
 
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="CANAIS | ABERTOS",REDE TV HD
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="ABERTOS", REDE TV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108238
 
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA HD" tvg-logo="https://lh3.googleusercontent.com/-sXM0T_H-OdQ/YB7vVSrfZ-I/AAAAAAAAKDo/wdMquyO8rqoWOGn7KDLABrFv4_P4dr2tQCLcBGAsYHQ/Rede%2BVida.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA HD" tvg-logo="https://lh3.googleusercontent.com/-sXM0T_H-OdQ/YB7vVSrfZ-I/AAAAAAAAKDo/wdMquyO8rqoWOGn7KDLABrFv4_P4dr2tQCLcBGAsYHQ/Rede%2BVida.png" group-title="RELIGIOSOS", REDE VIDA 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290686
 
-#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="CANAIS | RELIGIOSOS",RIT TV HD
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="RELIGIOSOS", RIT TV 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108243
 
-#EXTINF:-1 tvg-id="" tvg-name="Rádio - Igreja Pentecostal Deus é amor" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/deus-e-amor-logo-5.png" group-title="CANAIS | RÁDIOS",Rádio - Igreja Pentecostal Deus é amor
+#EXTINF:-1 tvg-id="" tvg-name="Rádio - Igreja Pentecostal Deus é amor" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/deus-e-amor-logo-5.png" group-title="RÁDIOS", IGREJA PENTECOSTAL DEUS É AMOR 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/22809
-#EXTINF:-1 tvg-id="" tvg-name="Rádio 96 Bauru SP - 96 FM" tvg-logo="https://img.radios.com.br/radio/md/radio8756_1439401340.jpg" group-title="CANAIS | RÁDIOS",Rádio 96 Bauru SP - 96 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio 96 Bauru SP - 96 FM" tvg-logo="https://img.radios.com.br/radio/md/radio8756_1439401340.jpg" group-title="RÁDIOS", RÁDIO 96
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20737
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Capital PE - 88.9 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio26017_1439401628.jpg" group-title="CANAIS | RÁDIOS",Rádio Capital PE - 88.9 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Capital PE - 88.9 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio26017_1439401628.jpg" group-title="RÁDIOS", RÁDIO CAPITAL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20742
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Cidade RJ - 102.9 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/2aa9a51aa7d1dbedb4aa7501f2072519.png" group-title="CANAIS | RÁDIOS",Rádio Cidade RJ - 102.9 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Cidade RJ - 102.9 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/2aa9a51aa7d1dbedb4aa7501f2072519.png" group-title="RÁDIOS", RÁDIO CIDADE  
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20724
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Clube PE - 99.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/98b8cd6f29d9e9faaf9fa0b1ca46c041.jpg" group-title="CANAIS | RÁDIOS",Rádio Clube PE - 99.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Clube PE - 99.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/98b8cd6f29d9e9faaf9fa0b1ca46c041.jpg" group-title="RÁDIOS", RÁDIO CLUBE
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20741
-#EXTINF:-1 tvg-id="" tvg-name="Rádio da Benção RJ - 107.1 FM" tvg-logo="https://www.guiademidia.com.br/imagens/radios/rj/radio-da-bencao-fm.png" group-title="CANAIS | RÁDIOS",Rádio da Benção RJ - 107.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio da Benção RJ - 107.1 FM" tvg-logo="https://www.guiademidia.com.br/imagens/radios/rj/radio-da-bencao-fm.png" group-title="RÁDIOS", RÁDIO DA BENÇÃO  
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/22811
-#EXTINF:-1 tvg-id="" tvg-name="Rádio FM o Dia RJ  - 100.5 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/e78299c73b61a85efe0d6678cf9df6cb.png" group-title="CANAIS | RÁDIOS",Rádio FM o Dia RJ  - 100.5 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio FM o Dia RJ  - 100.5 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/e78299c73b61a85efe0d6678cf9df6cb.png" group-title="RÁDIOS", RÁDIO FM O DIA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20730
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="Rádio Globo RJ - 98.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/d39651eff5a486970d0f3f0eb2301160.png" group-title="CANAIS | RÁDIOS",Rádio Globo RJ - 98.1 FM
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="Rádio Globo RJ - 98.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/d39651eff5a486970d0f3f0eb2301160.png" group-title="RÁDIOS", RÁDIO GLOBO
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20728
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Hits Recife PE - 103.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/0883d3d093456f883629d7568dc8d75a.jpg" group-title="CANAIS | RÁDIOS",Rádio Hits Recife PE - 103.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Hits Recife PE - 103.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/0883d3d093456f883629d7568dc8d75a.jpg" group-title="RÁDIOS", RÁDIO HITS PE
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20740
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Hits RJ - 99.7 FM" tvg-logo="https://img.radios.com.br/radio/md/radio80135_1538050223.png" group-title="CANAIS | RÁDIOS",Rádio Hits RJ - 99.7 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Hits RJ - 99.7 FM" tvg-logo="https://img.radios.com.br/radio/md/radio80135_1538050223.png" group-title="RÁDIOS" RÁDIO HITS RJ
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20726
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Hot SP - 107 FM" tvg-logo="https://img.radios.com.br/radio/md/radio8760_1565178044.png" group-title="CANAIS | RÁDIOS",Rádio Hot SP - 107 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Hot SP - 107 FM" tvg-logo="https://img.radios.com.br/radio/md/radio8760_1565178044.png" group-title="RÁDIOS",RÁDIO HOT
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20735
-#EXTINF:-1 tvg-id="" tvg-name="Rádio JB FM RJ - 99.9 FM" tvg-logo="https://img.radios.com.br/radio/md/radio13654_1505738181.png" group-title="CANAIS | RÁDIOS",Rádio JB FM RJ - 99.9 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio JB FM RJ - 99.9 FM" tvg-logo="https://img.radios.com.br/radio/md/radio13654_1505738181.png" group-title="RÁDIOS", RÁDIO JB
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20731
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Jovem Pan SP - 89.5 FM" tvg-logo="https://img.radios.com.br/radio/md/radio13454_1543915123.jpg" group-title="CANAIS | RÁDIOS",Rádio Jovem Pan SP - 89.5 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Jovem Pan SP - 89.5 FM" tvg-logo="https://img.radios.com.br/radio/md/radio13454_1543915123.jpg" group-title="RÁDIOS", RÁDIO JOVEM PAN
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20736
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Mais Vida Muriaé MG - 102.3 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio128049_1574880034.jpg" group-title="CANAIS | RÁDIOS",Rádio Mais Vida Muriaé MG - 102.3 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Mais Vida Muriaé MG - 102.3 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio128049_1574880034.jpg" group-title="RÁDIOS", RÁDIO MAIS VIDA MURIAÉ
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/23392
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Melodia RJ - 97.5 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/d13e767228ad727de50c3777b2a94fd9.jpg" group-title="CANAIS | RÁDIOS",Rádio Melodia RJ - 97.5 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Melodia RJ - 97.5 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/d13e767228ad727de50c3777b2a94fd9.jpg" group-title="RÁDIOS", RÁDIO MELODIA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20732
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Mix SP - 106.3 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/713ad93a0d5aa796e1487915470b190e.png" group-title="CANAIS | RÁDIOS",Rádio Mix SP - 106.3 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Mix SP - 106.3 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/713ad93a0d5aa796e1487915470b190e.png" group-title="RÁDIOS", RÁDIO MIX
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20734
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Transamérica SP - 100.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/48cd60e821e63788551e21cbfa674244.png" group-title="CANAIS | RÁDIOS",Rádio Transamérica SP - 100.1 FM
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Transamérica SP - 100.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/48cd60e821e63788551e21cbfa674244.png" group-title="RÁDIOS", RÁDIO TRANSAMÉRICA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20739
 
-#EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi RJ - 96.5 FM" tvg-logo="https://img.radios.com.br/radio/md/radio14215_1562877228.jpg" group-title="CANAIS | RÁDIOS",Super Rádio Tupi RJ - 96.5 FM
+#EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi RJ - 96.5 FM" tvg-logo="https://img.radios.com.br/radio/md/radio14215_1562877228.jpg" group-title="RÁDIOS", SUPER RÁDIO TUPI
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20729
 
 
-#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-Jv9Fqh1kL_8/YZgIiZzStGI/AAAAAAAAKxU/XXrjjg787X4E9Yo63l0cGywdmbG4nxcRQCLcBGAsYHQ/TRAVA.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRASIL HD
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-Jv9Fqh1kL_8/YZgIiZzStGI/AAAAAAAAKxU/XXrjjg787X4E9Yo63l0cGywdmbG4nxcRQCLcBGAsYHQ/TRAVA.png" group-title="DIVERSOS",TRAVEL BOX 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276399
 
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/TRUTV.png" group-title="CANAIS | VARIEDADES",TRUTV HD
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/TRUTV.png" group-title="DIVERSOS",TRUTV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108340
 
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://lh3.googleusercontent.com/-jxrYBhdc3Gg/YB7u9f2qpkI/AAAAAAAAKDg/qWySSHpGwgMk54cczTwspzh_2Wj2W6fUwCLcBGAsYHQ/TV%2BAparecida.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA SD
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://lh3.googleusercontent.com/-jxrYBhdc3Gg/YB7u9f2qpkI/AAAAAAAAKDg/qWySSHpGwgMk54cczTwspzh_2Wj2W6fUwCLcBGAsYHQ/TV%2BAparecida.png" group-title="RELIGIOSOS",TV APARECIDA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108341
 
-#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="ABERTOS",TV BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276392
 
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="CANAIS | ABERTOS",TV BRASIL SD
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="ABERTOS",TV BRASIL 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290678
 
-#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CAMARA SD" tvg-logo="https://lh3.googleusercontent.com/-GAijnROUhNU/YB1HohJOn-I/AAAAAAAAJ5w/Tdh_j1l8Qf47lzGGEwWZHUjLnsv55nBggCLcBGAsYHQ/TV%2BCamara.png" group-title="CANAIS | ABERTOS",TV CAMARA SD
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CAMARA SD" tvg-logo="https://lh3.googleusercontent.com/-GAijnROUhNU/YB1HohJOn-I/AAAAAAAAJ5w/Tdh_j1l8Qf47lzGGEwWZHUjLnsv55nBggCLcBGAsYHQ/TV%2BCamara.png" group-title="NOTÍCIAS",TV CAMARA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108343
 
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="CANAIS | ABERTOS",TV CULTURA HD
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="ABERTOS",TV CULTURA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290681
 
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="CANAIS | ABERTOS",TV CULTURA SD
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="ABERTOS",TV CULTURA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108345
 
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGILIZAR HD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGILIZAR HD
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGILIZAR HD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="RELIGIOSOS",TV EVANGILIZAR
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290690
 
-#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="CANAIS | ABERTOS",TV GAZETA SP HD
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="DIVERSOS",TV GAZETA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108349
 
-#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV JUSTIÇA SD" tvg-logo="https://lh3.googleusercontent.com/-Q85ZPelOntc/YB1LglRwRpI/AAAAAAAAJ6Y/v27Vf7kqf2gKDfyYF4hMdGCehjaM760ywCLcBGAsYHQ/TV%2BJustica.png" group-title="CANAIS | ABERTOS",TV JUSTIÇA SD
+#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV JUSTIÇA SD" tvg-logo="https://lh3.googleusercontent.com/-Q85ZPelOntc/YB1LglRwRpI/AAAAAAAAJ6Y/v27Vf7kqf2gKDfyYF4hMdGCehjaM760ywCLcBGAsYHQ/TV%2BJustica.png" group-title="NOTÍCIAS",TV JUSTIÇA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276532
 
-#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL SD" tvg-logo="https://4.bp.blogspot.com/-U4BMQVun848/V4BR2aJSYOI/AAAAAAAAuEI/xb82iDy7gOkSxIGc2HleWFxCMukWKosBQCLcB/s1600/1619829.jpg" group-title="CANAIS | RELIGIOSOS",TV MUNDIAL SD
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL SD" tvg-logo="https://4.bp.blogspot.com/-U4BMQVun848/V4BR2aJSYOI/AAAAAAAAuEI/xb82iDy7gOkSxIGc2HleWFxCMukWKosBQCLcB/s1600/1619829.jpg" group-title="RELIGIOSOS",TV MUNDIAL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290691
 
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://lh3.googleusercontent.com/-K0rwTTR762o/YB7sO0CcCeI/AAAAAAAAKDE/fBgC6U6ExogYwq3bb9Gx7o-hbTBsEwIFgCLcBGAsYHQ/NOVO%2BTEMPO.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO HD
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://lh3.googleusercontent.com/-K0rwTTR762o/YB7sO0CcCeI/AAAAAAAAKDE/fBgC6U6ExogYwq3bb9Gx7o-hbTBsEwIFgCLcBGAsYHQ/NOVO%2BTEMPO.png" group-title="RELIGIOSOS",TV NOVO TEMPO
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108356
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="TV PAI ETERNO HD" tvg-logo="https://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="TV PAI ETERNO HD" tvg-logo="https://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="RELIGIOSOS",TV PAI ETERNO
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108358
 
-#EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV PAMPA RS HD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="CANAIS | ABERTOS",TV PAMPA RS HD
+#EXTINF:-1 tvg-id="HOPECHANNEL" tvg-name="HOPECHANNEL" tvg-logo="https://www.hopetv.org/fileadmin/HopeChannel/Design1/Images/HopeChannel-horizontal.svg" group-title="RELIGIOSOS", HOPECHANNEL
+https://streamer1.streamhost.org/salive/logosH/chunklist_w2066021306.m3u8
+
+#EXTINF:-1 tvg-id="LOGOSTV" tvg-name="LOGOSTV" tvg-logo="https://logostv.es/img/pwa/splash-2048-2732.png" group-title="RELIGIOSOS", LOGOS TV
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b4192000.m3u8
+
+#EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="https://nuevotiempo.ar/wp-content/uploads/2020/09/cropped-logont.png" group-title="RELIGIOSOS", NUEVO TIEMPO
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b4192000.m3u8
+
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="https://yt3.ggpht.com/ytc/AKedOLTEnrXglCFfThny1h-FYyyD6cZ50kDl0u_maFrSIw=s900-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS", EURONEWS
+https://pt.euronews.com/live
+
+#EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV PAMPA RS HD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS",TV PAMPA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276492
 
-#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO SD" tvg-logo="https://lh3.googleusercontent.com/-onWZFubMbtM/YB1JVyA6XZI/AAAAAAAAJ6E/zunSXwBILJMDNwLtJXPyJ7VyAkQvuan9ACLcBGAsYHQ/TV%2BSenado.png" group-title="CANAIS | ABERTOS",TV SENADO SD
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO SD" tvg-logo="https://lh3.googleusercontent.com/-onWZFubMbtM/YB1JVyA6XZI/AAAAAAAAJ6E/zunSXwBILJMDNwLtJXPyJ7VyAkQvuan9ACLcBGAsYHQ/TV%2BSenado.png" group-title="CANAIS | ABERTOS",TV SENADO 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108362
 
 
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="https://lh3.googleusercontent.com/-ITpft2CaGLs/YB2NhDrxhcI/AAAAAAAAJ80/jrymho5PUxUnNF4m1FWHsAAg6-RndfGkwCLcBGAsYHQ/VH1.png" group-title="CANAIS | VARIEDADES",VH1 HD
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="https://lh3.googleusercontent.com/-ITpft2CaGLs/YB2NhDrxhcI/AAAAAAAAJ80/jrymho5PUxUnNF4m1FWHsAAg6-RndfGkwCLcBGAsYHQ/VH1.png" group-title="CANAIS | VARIEDADES",VH1
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276385
 
-#EXTINF:-1 tvg-id="vh1.megahits.br" tvg-name="VH1 MEGAHITS SD" tvg-logo="https://lh3.googleusercontent.com/-ITpft2CaGLs/YB2NhDrxhcI/AAAAAAAAJ80/jrymho5PUxUnNF4m1FWHsAAg6-RndfGkwCLcBGAsYHQ/VH1.png" group-title="CANAIS | VARIEDADES",VH1 MEGAHITS SD
+#EXTINF:-1 tvg-id="vh1.megahits.br" tvg-name="VH1 MEGAHITS SD" tvg-logo="https://lh3.googleusercontent.com/-ITpft2CaGLs/YB2NhDrxhcI/AAAAAAAAJ80/jrymho5PUxUnNF4m1FWHsAAg6-RndfGkwCLcBGAsYHQ/VH1.png" group-title="MUSICAS",VH1 MEGAHITS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108367
 
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="CANAIS | VARIEDADES",VIVA HD
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="DIVERSOS",VIVA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108371
 
 ###### filmes plataforma pluto#######
@@ -787,151 +792,151 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/108371
 ###### filmes plataforma pluto#######
 ###### filmes plataforma pluto#######
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a64d99839e0013e0cd99/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="BR Hero Carousel", Fogo contra Fogo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a64d99839e0013e0cd99/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", FOGO CONTRA FOGO 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7a64d99839e0013e0cd99/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6012b7df813b2d001b6995a1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="BR Hero Carousel", Crô
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6012b7df813b2d001b6995a1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", CRÔ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6012b7df813b2d001b6995a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b23f9c6d850013429952/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Novidades Na Pluto", Ruslan-Vingança Explosiva
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b23f9c6d850013429952/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", RUSLAN- VINGANÇA EXPLOSIVA 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c8b23f9c6d850013429952/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/600ae7ed2816a5001aa14472/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Novidades Na Pluto", Forças do destino
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/600ae7ed2816a5001aa14472/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Forças do destino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/600ae7ed2816a5001aa14472/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60589e9b8fe583001a4d0ea1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Novidades Na Pluto", Sexta-feira 13: Um Novo Começo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60589e9b8fe583001a4d0ea1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Sexta-feira 13: Um Novo Começo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60589e9b8fe583001a4d0ea1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60367ea7295090001a604b5a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Novidades Na Pluto", Sexta-Feira 13 Parte 6: Jason Vive
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60367ea7295090001a604b5a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Sexta-Feira 13 Parte 6: Jason Vive
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60367ea7295090001a604b5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62276f0dad8640001a44e265/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Novidades Na Pluto", Adolescência Perdida
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62276f0dad8640001a44e265/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Adolescência Perdida
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62276f0dad8640001a44e265/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61df1f04161b65001a9a4199/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Novidades Na Pluto", Sorority Row
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61df1f04161b65001a9a4199/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Sorority Row
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61df1f04161b65001a9a4199/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/603fb51605d744001a21f937/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Novidades Na Pluto", Airplane vs. Volcano
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/603fb51605d744001a21f937/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Airplane vs. Volcano
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603fb51605d744001a21f937/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/611138cecfc2d6001400a07d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Novidades Na Pluto", Yowamushi Pedal Re:ROAD
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/611138cecfc2d6001400a07d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Yowamushi Pedal Re:ROAD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611138cecfc2d6001400a07d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614242b8d982620013b9fa13/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", O Imbatível III : Redenção
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614242b8d982620013b9fa13/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", O Imbatível III : Redenção
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/614242b8d982620013b9fa13/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/600ae8072816a5001aa14742/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Sexta-Feira 13
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/600ae8072816a5001aa14742/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Sexta-Feira 13
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/600ae8072816a5001aa14742/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fbe774bc8c57d00131b7c80/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Anjos da Noite
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fbe774bc8c57d00131b7c80/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Anjos da Noite
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fbe774bc8c57d00131b7c80/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f996ee7fdb601001af04f02/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Carga Explosiva 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f996ee7fdb601001af04f02/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Carga Explosiva 3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f996ee7fdb601001af04f02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f38a9c1a500138f7805/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Perigo na Montanha
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f38a9c1a500138f7805/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Perigo na Montanha
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60db8f38a9c1a500138f7805/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b923db2b870001a05f802/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Guerra ao Terror
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b923db2b870001a05f802/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Guerra ao Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b923db2b870001a05f802/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b22b9c6d850013429786/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", O Guardião
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b22b9c6d850013429786/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", O Guardião
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c8b22b9c6d850013429786/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a65499839e0013e0ce49/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Trocando os Pés
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a65499839e0013e0ce49/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Trocando os Pés
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7a65499839e0013e0ce49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61701ff695ce3f001a3309a6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Planet of the Sharks
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61701ff695ce3f001a3309a6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Planet of the Sharks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61701ff695ce3f001a3309a6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f5be472638b1800139e8983/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Escobar: Paraíso Perdido
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f5be472638b1800139e8983/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Escobar: Paraíso Perdido
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f5be472638b1800139e8983/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a418edd9b0ce0014e6bf81/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", O Reino Proibido
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a418edd9b0ce0014e6bf81/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", O Reino Proibido
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a418edd9b0ce0014e6bf81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/609c05385ff04300139d525d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", A Tumba do Dragão
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/609c05385ff04300139d525d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", A Tumba do Dragão
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609c05385ff04300139d525d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe783bd42e001ac65834/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Código de Conduta
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe783bd42e001ac65834/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Código de Conduta
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86fe783bd42e001ac65834/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe7e3bd42e001ac658ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Expresso do Amanhã
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe7e3bd42e001ac658ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Expresso do Amanhã
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86fe7e3bd42e001ac658ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607ec447f96a44001a1e2133/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Perigo em Bangkok
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607ec447f96a44001a1e2133/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Perigo em Bangkok
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607ec447f96a44001a1e2133/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe6a3bd42e001ac65702/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Os Especialistas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe6a3bd42e001ac65702/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Os Especialistas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86fe6a3bd42e001ac65702/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607eccff5426cf001a3bff16/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Espelho, Espelho Meu
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607eccff5426cf001a3bff16/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Espelho, Espelho Meu
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607eccff5426cf001a3bff16/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/611ea684d24f5e00135dc487/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Circus Kane - O Circo dos Horrores
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/611ea684d24f5e00135dc487/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Circus Kane - O Circo dos Horrores
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/611ea684d24f5e00135dc487/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b9235b2b870001a05f750/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Soldado Universal: Juízo Final
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b9235b2b870001a05f750/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Soldado Universal: Juízo Final
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b9235b2b870001a05f750/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/603551926c2a2d0014108264/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Sexta-feira 13 - Parte 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/603551926c2a2d0014108264/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Sexta-feira 13 - Parte 3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/603551926c2a2d0014108264/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f38a9c1a500138f7805/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Perigo na Montanha
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f38a9c1a500138f7805/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Perigo na Montanha
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60db8f38a9c1a500138f7805/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a65499839e0013e0ce49/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Trocando os Pés
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a65499839e0013e0ce49/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Trocando os Pés
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7a65499839e0013e0ce49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/620faa6f1990720013c7e3ab/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Evidências de um Crime
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/620faa6f1990720013c7e3ab/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Evidências de um Crime
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f5be472638b1800139e8983/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a41922d9b0ce0014e6c2e3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Caçada ao Presidente
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a41922d9b0ce0014e6c2e3/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Caçada ao Presidente
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a41922d9b0ce0014e6c2e3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a64f99839e0013e0cdd1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Chef
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a64f99839e0013e0cdd1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Chef
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7a64f99839e0013e0cdd1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f5f7be0638b1800139eb282/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Tudo por Justiça
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f5f7be0638b1800139eb282/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Tudo por Justiça
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f5f7be0638b1800139eb282/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a41929d9b0ce0014e6c319/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Em Busca de Vingança
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a41929d9b0ce0014e6c319/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Em Busca de Vingança
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a41929d9b0ce0014e6c319/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b84928f1d30013ec5ca4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", November man
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b84928f1d30013ec5ca4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", November man
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c7b84928f1d30013ec5ca4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe853bd42e001ac659ac/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Homens em Fúria
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe853bd42e001ac659ac/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Homens em Fúria
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86fe853bd42e001ac659ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61df2c9312f2e7001abccc85/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Arrume Um Emprego
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61df2c9312f2e7001abccc85/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Arrume Um Emprego
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61df2c9312f2e7001abccc85/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b920cb2b870001a05f3a0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Sem perdão
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b920cb2b870001a05f3a0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Sem perdão
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b920cb2b870001a05f3a0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/605258ef1ca306001a35c978/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Um Bom Partido
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/605258ef1ca306001a35c978/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Um Bom Partido
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/605258ef1ca306001a35c978/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604f874ee7c979001a8a861a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", Poder Paranormal
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604f874ee7c979001a8a861a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Poder Paranormal
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f874ee7c979001a8a861a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b9214b2b870001a05f456/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", O Ilusionista
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b9214b2b870001a05f456/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", O Ilusionista
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b9214b2b870001a05f456/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b87e28f1d30013ec60e9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Sucessos", O Conto dos Contos
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b87e28f1d30013ec60e9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", O Conto dos Contos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c7b87e28f1d30013ec60e9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b23f9c6d850013429952/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Ruslan-Vingança Explosiva
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b23f9c6d850013429952/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Ruslan-Vingança Explosiva
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c8b23f9c6d850013429952/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607ef30c8119a5001a748c82/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Vice: A Máquina
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607ef30c8119a5001a748c82/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Vice: A Máquina
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607ef30c8119a5001a748c82/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a418edd9b0ce0014e6bf81/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", O Reino Proibido
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a418edd9b0ce0014e6bf81/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", O Reino Proibido
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a418edd9b0ce0014e6bf81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a4191fd9b0ce0014e6c2a9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Vingança Implacável
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a4191fd9b0ce0014e6c2a9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Vingança Implacável
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a4191fd9b0ce0014e6c2a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa012981788de001ad57bb0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Jogo da Morte
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa012981788de001ad57bb0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Jogo da Morte
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa012981788de001ad57bb0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff4a5640108f1001ae2094b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Inferno
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff4a5640108f1001ae2094b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Inferno
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff4a5640108f1001ae2094b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f2ea9c1a500138f771d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Jogo sujo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f2ea9c1a500138f771d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Jogo sujo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60db8f2ea9c1a500138f771d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b22b9c6d850013429786/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", O Guardião
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b22b9c6d850013429786/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", O Guardião
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c8b22b9c6d850013429786/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe6a3bd42e001ac65702/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Os Especialistas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe6a3bd42e001ac65702/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Os Especialistas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86fe6a3bd42e001ac65702/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe753bd42e001ac657fa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Assassino a Preço Fixo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe753bd42e001ac657fa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Assassino a Preço Fixo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86fe753bd42e001ac657fa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7b53a76a580600137950a2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", 6 Balas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7b53a76a580600137950a2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", 6 Balas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b53a76a580600137950a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b89128f1d30013ec62b6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Kickboxer: A vingança do dragão
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b89128f1d30013ec62b6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Kickboxer: A vingança do dragão
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c7b89128f1d30013ec62b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60898b7082c2680013696ccb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Assassinos do Espaço
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60898b7082c2680013696ccb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Assassinos do Espaço
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60898b7082c2680013696ccb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b68bde2eecb3001af887ec/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Na Escuridão do Oceano
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b68bde2eecb3001af887ec/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Na Escuridão do Oceano
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b68bde2eecb3001af887ec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa15d007ecf48001a363182/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Jogo da Morte II BR
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa15d007ecf48001a363182/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Jogo da Morte II BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa15d007ecf48001a363182/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b9259b2b870001a05fa14/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Alvo Duplo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b9259b2b870001a05fa14/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Alvo Duplo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b9259b2b870001a05fa14/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607ecd025426cf001a3bff50/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", O Retorno do Dragão - A Cidade Perdida
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607ecd025426cf001a3bff50/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", O Retorno do Dragão - A Cidade Perdida
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607ecd025426cf001a3bff50/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604f8753e7c979001a8a8696/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Sem Lei
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604f8753e7c979001a8a8696/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Sem Lei
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f8753e7c979001a8a8696/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b9227b2b870001a05f62e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Os Mercenários 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b9227b2b870001a05f62e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Os Mercenários 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b9227b2b870001a05f62e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604f8764e7c979001a8a881d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", O Código
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604f8764e7c979001a8a881d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", O Código
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f8764e7c979001a8a881d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b2159c6d8500134295c5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Risco Absoluto
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b2159c6d8500134295c5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Risco Absoluto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c8b2159c6d8500134295c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe663bd42e001ac6568e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Jogo de Morte
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe663bd42e001ac6568e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Jogo de Morte
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86fe663bd42e001ac6568e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a64499839e0013e0ccc4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Blitz
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a64499839e0013e0ccc4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Blitz
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7a64499839e0013e0ccc4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f996ee7fdb601001af04f02/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Carga Explosiva 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f996ee7fdb601001af04f02/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Carga Explosiva 3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f996ee7fdb601001af04f02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614242b2d982620013b9f99f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Kickboxer a Retaliaçao
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614242b2d982620013b9f99f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Kickboxer a Retaliaçao
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/614242b2d982620013b9f99f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa15cf77ecf48001a3630cc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", O Vôo do Dragão BR
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa15cf77ecf48001a3630cc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", O Vôo do Dragão BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa15cf77ecf48001a3630cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa15cfe7ecf48001a363144/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", A Fúria do Dragão
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa15cfe7ecf48001a363144/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", A Fúria do Dragão
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa15cfe7ecf48001a363144/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff71ab6ce98800013eab622/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Estrelas de Ação", Boiling Point - Em Ponto de Bala
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff71ab6ce98800013eab622/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="FILMES", Boiling Point - Em Ponto de Bala
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff71ab6ce98800013eab622/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fdcaca10983410013ddc2d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Jornada nas Estrelas", Jornada Nas Estrelas: A Ira De Khan
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fdcaca10983410013ddc2d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
@@ -3077,6 +3082,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60cba3e49c6d850013
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6008733ab7b339001a477d9a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6008733eb7b339001a477dfa/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Infantil", O Arraiá do Atchim e Espirro BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6008733eb7b339001a477dfa/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+
 
 
 
