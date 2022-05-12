@@ -759,13 +759,13 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/108356
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="TV PAI ETERNO HD" tvg-logo="https://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="RELIGIOSOS",TV PAI ETERNO
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108358
 
-#EXTINF:-1 tvg-id="HOPECHANNEL" tvg-name="HOPECHANNEL" tvg-logo="https://www.pngitem.com/pimgs/m/400-4007344_w20cq-d-logo-hope-channel-logo-png-transparent.png" group-title="RELIGIOSOS", HOPECHANNEL
+#EXTINF:-1 tvg-id="HOPECHANNEL" tvg-name="HOPECHANNEL" tvg-logo="https://img.favpng.com/18/4/0/logo-hope-channel-television-brand-png-favpng-QWiHc21Zbs5QV4fxSQhq2a5Sy.jpg" group-title="RELIGIOSOS", HOPECHANNEL
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b4192000.m3u8
 
-#EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="https://aws-noticias-es.s3.amazonaws.com/2014/11/logotipont.jpg" group-title="RELIGIOSOS", NUEVO TIEMPO
+#EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="NUEVO TIEMPO" tvg-logo="https://aws-noticias-es.s3.amazonaws.com/2014/11/logotipont.jpg" group-title="RELIGIOSOS",NUEVO TIEMPO
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 
-#EXTINF:-1 tvg-id="EURONEWS" tvg-name="https://yt3.ggpht.com/ytc/AKedOLTEnrXglCFfThny1h-FYyyD6cZ50kDl0u_maFrSIw=s900-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS", EURONEWS
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTEnrXglCFfThny1h-FYyyD6cZ50kDl0u_maFrSIw=s900-c-k-c0x00ffffff-no-rj" group-title="NOTÍCIAS",EURONEWS
 https://pt.euronews.com/live
 
 #EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV PAMPA RS HD" tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS",TV PAMPA
