@@ -7,6 +7,9 @@ https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/5f1213ba0
 #EXTINF:-1 TVg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES
 https://stream.ads.ottera.TV/playlist.m3u8?network_id=274
 
+#EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="CURIOSIDADES", LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 TVg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" TVg-logo="https://i.imgur.com/kQ1EG3u.png" group-title="NOTICIAS", EURONEWS
 https://stream.ads.ottera.TV/playlist.m3u8?network_id=2575
 
