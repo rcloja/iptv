@@ -1,44 +1,30 @@
 #EXTM3U TVg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-TVg="https://ipTV-org.github.io/epg/guides/br/mi.TV.epg.xml"
-
 #EXTINF:-1 TVg-id="5f1213ba0ecebc00070e170f" TVg-logo="https://i.imgur.com/oAarMpL.png" group-title="CURIOSIDADES", NATUREZA
 https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 #EXTINF:-1 TVg-id="ToonGoogles" TVg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES
 https://stream.ads.ottera.TV/playlist.m3u8?network_id=274
-
 #EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="CURIOSIDADES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 TVg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" TVg-logo="https://i.imgur.com/kQ1EG3u.png" group-title="NOTÍCIAS", EURONEWS
 https://stream.ads.ottera.TV/playlist.m3u8?network_id=2575
-
 #EXTINF:-1 TVg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES", RUNTIME ACÃO
 https://stream.ads.ottera.TV/playlist.m3u8?network_id=2552
-
 #EXTINF:-1 TVg-id="5f12141b146d760007934ea7" TVg-logo="https://i.imgur.com/4a5RFCU.png" group-title="INFANTIS", JUNIOR
 https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 #EXTINF:-1 TVg-id="5f1214a637c6fd00079c652f" TVg-logo="https://i.imgur.com/g505N5r.png" group-title="INFANTIS", KIDS
 https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?
-
 #EXTINF:-1 TVg-id="5f12151794c1800007a8ae63" TVg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="INFANTIS", NICK CLASSICO
 https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 #EXTINF:-1 TVg-id="5f121460b73ac6000719fbaf" TVg-logo="https://i.imgur.com/j9CMGyU.png" group-title="INFANTIS", NICK JR CLUB
 https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 #EXTINF:-1 TVg-id="60f5fabf0721880007cd50e3" TVg-logo="https://images.pluto.TV/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="INFANTIS", NICKTEEN
 https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?
-
 #EXTINF:-1 TVg-id="61f2c6969fcc3800076ef8af" TVg-logo="https://i.imgur.com/1jXXHVr.png" group-title="INFANTIS",OS ANJINHOS - RUGRATS
 https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?
-
 #EXTINF:-1 TVg-id="5f997e44949bc70007a6941e" TVg-logo="https://i.imgur.com/kJHRcfo.png" group-title="INFANTIS", TURMA DA MÔNICA
 https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?
-
 #EXTINF:-1 TVg-id="5f5c216df68f920007888315" TVg-logo="http://images.pluto.TV/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="INFANTIS", O REINO INFANTIL 
 https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?
-
 #EXTINF:-1 TVg-logo="https://i.imgur.com/x5HC6wy.png" group-title="CURIOSIDADES", VIAJANDO PELO BRASIL
 http://video01.soulTV.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
@@ -685,46 +671,32 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/108249
 
 #EXTINF:-1 TVg-id="shoptime.br" TVg-name="SHOPTIME FHD" TVg-logo="https://lh3.googleusercontent.com/-EQ6AwC0WcuM/YT012tjJSKI/AAAAAAAAKko/sfdIri6EbfI7dKQLQcpkGJjR_NANoK5PQCLcBGAsYHQ/sptame.png" group-title="VARIEDADES",SHOPTIME
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276711
-
 #EXTINF:-1 TVg-id="star.br" TVg-name="STAR CHANNEL FHD (H265)" TVg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title="FILMES",STAR CHANNEL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/126655
-
 #EXTINF:-1 TVg-id="Foxlife.br" TVg-name="STAR LIFE FHD" TVg-logo="https://lh3.googleusercontent.com/-IgSsbk6TeGQ/YBxwZhfFmEI/AAAAAAAAJ3U/4wSIewTLk98XGKJ8Hh5tc3AAAHF27iKNACLcBGAsYHQ/FOX%2BLIFE.png" group-title="FILMES",STAR LIFE
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108296
-
 #EXTINF:-1 TVg-id="truTV.br" TVg-name="TRUTV FHD" TVg-logo="https://1.bp.blogspot.com/-Fiw4brPaCjU/YBxZDBx9i3I/AAAAAAAAJ1c/SlnstmbOAT0pvdjfA7QkRR8xuM6aGnN5QCLcBGAsYHQ/s0/tru%2BTV.png" group-title="VARIEDADES",TRUTV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276707
-
 #EXTINF:-1 TVg-id="" TVg-name="TV BRASIL FHD" TVg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="ABERTOS",TV BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290677
-
 #EXTINF:-1 TVg-id="" TVg-name="TV GAZETA SP FHD" TVg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="VARIEDADES",TV GAZETA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290682
-
 #EXTINF:-1 TVg-logo="https://listaipTV.gratis/logos/imagens/rvbifdo.png" group-title="VARIEDADES", YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
 #EXTINF:-1 TVg-id="TV.pampa.br" TVg-name="TV PAMPA RS FHD" TVg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS",TV PAMPA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276513
-
 #EXTINF:-1 TVg-id="vh1.br" TVg-name="VH1 FHD (H265)" TVg-logo="https://lh3.googleusercontent.com/-ITpft2CaGLs/YB2NhDrxhcI/AAAAAAAAJ80/jrymho5PUxUnNF4m1FWHsAAg6-RndfGkwCLcBGAsYHQ/VH1.png" group-title="MÚSICAS",VH1
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/126675
-
 #EXTINF:-1 TVg-id="viva.br" TVg-name="VIVA FHD" TVg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="VARIEDADES",VIVA 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108370
-
 #EXTINF:-1 TVg-id="" TVg-name="AGROMAIS HD" TVg-logo="https://cdn.miTVstatic.com/channels/br_agromais-hd_m.png" group-title="NOTÍCIAS",AGROMAIS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290684
-
 #EXTINF:-1 TVg-id="animal.planet.br" TVg-name="ANIMAL PLANET HD" TVg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CURIOSIDADES",ANIMAL PLANET
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107820
-
 #EXTINF:-1 TVg-logo="https://listaipTV.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="NOTÍCIAS", TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
 #EXTINF:-1 TVg-logo="https://listaipTV.gratis/logos/imagens/canalrural.png" group-title="NOTÍCIAS", CANAL RURAL SD
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-
 #EXTINF:-1 TVg-logo="https://listaipTV.gratis/logos/imagens/verdescampos.png" group-title="VARIEDADES", TV VERDES CAMPOS
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 
