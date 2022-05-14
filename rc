@@ -37,7 +37,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES", RUNTIME COMÉDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo=="https://yt3.ggpht.com/e0nTVFqGa9UzKQw5mOzIKLajiBgwslJQOsn-UzOzdjzQq5wuCjDt-Kuq_hwPOCUBst-z7HJ1ugg=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES", CINE CLÁSSICOS 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/e0nTVFqGa9UzKQw5mOzIKLajiBgwslJQOsn-UzOzdjzQq5wuCjDt-Kuq_hwPOCUBst-z7HJ1ugg=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES", CINE CLÁSSICOS 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="FILMES",CINE COMÉDIA
@@ -455,7 +455,7 @@ https://stmv.webtv.ninjascast.com.br/solonvieira/solonvieira/chunklist_w10525535
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74e611f6dc1e5971b3defde976630c03.webp" group-title="MÚSICAS", TV 019 
 https://stmv1.srvstm.com/bruno4723/bruno4723/chunklist_w928135489.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="ABERTOS",	Tv GUARAJÁ 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b8281ee455e4e5680d7c1ba9554ddb1f.webp" group-title="ABERTOS",	TV GUARAJÁ 
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1b07d5e7f7527ec213b97d55987a14a.webp" group-title="VARIEDADES",	TV LUZILÂNDIA
@@ -494,7 +494,7 @@ https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fd039ca37a00b88999353143b3439167.webp" group-title="RÁDIOS", HOT 98 FM
 https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/chunklist_w450074272.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="VARIEDADES", Tv GALLO
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="VARIEDADES", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w963992542.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ngt.png" group-title="VARIEDADES", COTIDIANO
@@ -512,7 +512,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w5
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4acc74c31e9cddc8c8416abdc96ebd3e.webp" group-title="MÚSICAS", TV BRASIL HITS
 https://video01.logicahost.com.br:4443/brasilhits/brasilhits/chunklist_w74752229.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg" group-title="VARIEDADES", TVE 
+#EXTINF:-1 tvg-logo="https://www.tve.com.br/themes/padrao2019/images/logos/logo.png" group-title="VARIEDADES", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1982859985.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6dbfc1b32a9cb5e754792710fa1e6c1.webp" group-title="VARIEDADES", REDE CAXIAS TV
@@ -642,7 +642,7 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/126647
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="ABERTOS",CNN BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107890
 
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="COMÉDIA",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="COMÉDIA",COMEDY CENTRAL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/126666
 
 #EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER FHD" tvg-logo="https://lh3.googleusercontent.com/-D5d1wcnqfj8/YT009l6rOZI/AAAAAAAAKkg/4OfFErGZ7SQMWnYU2FlKYzcryCsbKRjQQCLcBGAsYHQ/super.png" group-title="RELIGIOSOS",REDE SUPER
