@@ -398,7 +398,7 @@ https://stmv2.srvsh.com.br/retrotv2/retrotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/deaee7a4d7ef1c38e84da23cfeee16ff.webp" group-title="INFANTIS", RETRO CARTOON 2
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w104760897.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://listaiptv.gratis/logos/imagens/central.png" group-title="VARIEDADES", CENTRAL TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/central.png" group-title="VARIEDADES", CENTRAL TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w897959726.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5782347cc7b8c0dd066bbcf90ffd6197.webp" group-title="MÚSICAS", SINGULAR TV
@@ -512,7 +512,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w5
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4acc74c31e9cddc8c8416abdc96ebd3e.webp" group-title="MÚSICAS", TV BRASIL HITS
 https://video01.logicahost.com.br:4443/brasilhits/brasilhits/chunklist_w74752229.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da95b302b2bbbda893559bceda5e2b13.webp" group-title="VARIEDADES", TVE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg" group-title="VARIEDADES", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1982859985.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6dbfc1b32a9cb5e754792710fa1e6c1.webp" group-title="VARIEDADES", REDE CAXIAS TV
@@ -521,28 +521,28 @@ https://stmv1.srvstm.com/luis5346/luis5346/chunklist_w1170617819.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c0e655688a14b616d690908fe663ffb.webp" group-title="FILMES", SOU TV
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/chunklist_w1670973484.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/68f2b28eb362c0972133a3c359bab5b0.webp" group-title="VARIEDADES", TV OSASCO
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CcJepf6TqUb-8PlLPXVtkkgEQ_Byj8KBP-WjQafn_-AakRRwktE57OqBx3JN9t1EnogNLLwJ-Q=s900-c-k-c0x00ffffff-no-rj" group-title="VARIEDADES", TV OSASCO
 https://596639ebdd89b.streamlock.net/8074/8074/chunklist_w163346537.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8e0651e1ae0002e61daf919b2bcc853.webp" group-title="NOTÍCIAS", CARIRI TV
+#EXTINF:-1 tvg-logo="https://cariritv.com.br/uploads/logo/logo_608c10f81b1fe.png" group-title="NOTÍCIAS", CARIRI TV
 https://video01.logicahost.com.br:4443/cariritv/cariritv/chunklist_w934769115.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b3559796c3af8698f1de6163c34454cb.webp" group-title="ABERTOS", TV CATVE 
+#EXTINF:-1 tvg-logo="https://scontent.fpoa11-2.fna.fbcdn.net/v/t1.6435-9/101944966_3534744549888004_7020608302874624000_n.png?stp=dst-png_p960x960&_nc_cat=1&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeHX7Oaea66A-lwVy5hCLxzKGzTA0DJdU5gbNMDQMl1TmG3nfgpnV3hI_1POzB5i57v5ypLatANrns7pC7h3cfdZ&_nc_ohc=oLfFIwsgS-MAX_PQ9BH&_nc_ht=scontent.fpoa11-2.fna&oh=00_AT_zIAYiZfzf0h7mG8hQDvghNWB1f4PZK4BJPw_Wyr6JjQ&oe=62A7861B" group-title="ABERTOS", TV CATVE 
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1988979924.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da6ab4e1fd0705a19bfe1fdeee3520d.webp" group-title="VARIEDADES", TV PLAN
 https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1271257940.m3u8?867be4bf049218c587185d6370c83e6d
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bbf1505fd8b9347d1551de1f02ef78.webp" group-title="VARIEDADES", TV JAGUAR 
+#EXTINF:-1 tvg-logo="http://www.tvjaguar.com.br/images/logo.png" group-title="VARIEDADES", TV JAGUAR 
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3af0e565c97274b99605ce384e24c2ea.webp" group-title="RELIGIOSOS", TV NAZARE
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1686507449.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/baa975c63dd48c691ea812753445ad85.webp" group-title="NOTÍCIAS", TV CACHOEIRA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/TV_Cachoeira.png" group-title="NOTÍCIAS", TV CACHOEIRA
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37da21657fea8d3cdd5e587685d4301b.webp" group-title="VARIEDADES", Tv GRAMADO
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37da21657fea8d3cdd5e587685d4301b.webp" group-title="VARIEDADES", TV GRAMADO
 https://video01.kshost.com.br:4443/tv4477/tv4477/chunklist_w1113550618.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4236bf2d9650a0d98fcd60382765af8c.webp" group-title="VARIEDADES", REDE SUL DE TELEVISÃO
@@ -642,7 +642,7 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/126647
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="ABERTOS",CNN BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107890
 
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="COMÉDIA",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="COMÉDIA",COMEDY CENTRAL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/126666
 
 #EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER FHD" tvg-logo="https://lh3.googleusercontent.com/-D5d1wcnqfj8/YT009l6rOZI/AAAAAAAAKkg/4OfFErGZ7SQMWnYU2FlKYzcryCsbKRjQQCLcBGAsYHQ/super.png" group-title="RELIGIOSOS",REDE SUPER
@@ -795,18 +795,8 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/22809
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20737
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Capital PE - 88.9 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio26017_1439401628.jpg" group-title="RÁDIOS", RÁDIO CAPITAL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20742
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Cidade RJ - 102.9 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/2aa9a51aa7d1dbedb4aa7501f2072519.png" group-title="RÁDIOS", RÁDIO CIDADE  
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/20724
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Clube PE - 99.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/98b8cd6f29d9e9faaf9fa0b1ca46c041.jpg" group-title="RÁDIOS", RÁDIO CLUBE
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/20741
 #EXTINF:-1 tvg-id="" tvg-name="Rádio da Benção RJ - 107.1 FM" tvg-logo="https://www.guiademidia.com.br/imagens/radios/rj/radio-da-bencao-fm.png" group-title="RÁDIOS", RÁDIO DA BENÇÃO  
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/22811
-#EXTINF:-1 tvg-id="" tvg-name="Rádio FM o Dia RJ  - 100.5 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/e78299c73b61a85efe0d6678cf9df6cb.png" group-title="RÁDIOS", RÁDIO FM O DIA
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/20730
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="Rádio Globo RJ - 98.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/d39651eff5a486970d0f3f0eb2301160.png" group-title="RÁDIOS", RÁDIO GLOBO
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/20728
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Hits Recife PE - 103.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/0883d3d093456f883629d7568dc8d75a.jpg" group-title="RÁDIOS", RÁDIO HITS PE
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/20740
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Hits RJ - 99.7 FM" tvg-logo="https://img.radios.com.br/radio/md/radio80135_1538050223.png" group-title="RÁDIOS" RÁDIO HITS RJ
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20726
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Hot SP - 107 FM" tvg-logo="https://img.radios.com.br/radio/md/radio8760_1565178044.png" group-title="RÁDIOS",RÁDIO HOT
@@ -817,12 +807,6 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/20731
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20736
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Mais Vida Muriaé MG - 102.3 FM" tvg-logo="https://img.radios.com.br/radio/lg/radio128049_1574880034.jpg" group-title="RÁDIOS", RÁDIO MAIS VIDA MURIAÉ
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/23392
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Melodia RJ - 97.5 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/d13e767228ad727de50c3777b2a94fd9.jpg" group-title="RÁDIOS", RÁDIO MELODIA
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/20732
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Mix SP - 106.3 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/713ad93a0d5aa796e1487915470b190e.png" group-title="RÁDIOS", RÁDIO MIX
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/20734
-#EXTINF:-1 tvg-id="" tvg-name="Rádio Transamérica SP - 100.1 FM" tvg-logo="http://cdn.liveboxtv.xyz:80/images/48cd60e821e63788551e21cbfa674244.png" group-title="RÁDIOS", RÁDIO TRANSAMÉRICA
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/20739
 
 #EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi RJ - 96.5 FM" tvg-logo="https://img.radios.com.br/radio/md/radio14215_1562877228.jpg" group-title="RÁDIOS", SUPER RÁDIO TUPI
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/20729
