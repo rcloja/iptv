@@ -1,6 +1,5 @@
 #EXTM3U TVg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-TVg="https://ipTV-org.github.io/epg/guides/br/mi.TV.epg.xml"
 
-
 #EXTINF:-1 TVg-id="5f1213ba0ecebc00070e170f" TVg-logo="https://i.imgur.com/oAarMpL.png" group-title="CURIOSIDADES", NATUREZA
 https://service-stitcher.clusters.pluto.TV/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -10,7 +9,7 @@ https://stream.ads.ottera.TV/playlist.m3u8?network_id=274
 #EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="CURIOSIDADES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 TVg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" TVg-logo="https://i.imgur.com/kQ1EG3u.png" group-title="NOTICIAS", EURONEWS
+#EXTINF:-1 TVg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" TVg-logo="https://i.imgur.com/kQ1EG3u.png" group-title="NOTÍCIAS", EURONEWS
 https://stream.ads.ottera.TV/playlist.m3u8?network_id=2575
 
 #EXTINF:-1 TVg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES", RUNTIME ACÃO
