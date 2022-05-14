@@ -1,4 +1,3 @@
-
 #EXTM3U TVg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-TVg="https://ipTV-org.github.io/epg/guides/br/mi.TV.epg.xml"
 
 #EXTINF:-1 TVg-id="5f1213ba0ecebc00070e170f" TVg-logo="https://i.imgur.com/oAarMpL.png" group-title="CURIOSIDADES", NATUREZA
