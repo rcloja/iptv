@@ -39,7 +39,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES", RunTime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
-#EXTINF:-1 tvg-logo=="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="FILMES", CINE CLÁSSICOS 
+#EXTINF:-1 tvg-logo=="https://yt3.ggpht.com/e0nTVFqGa9UzKQw5mOzIKLajiBgwslJQOsn-UzOzdjzQq5wuCjDt-Kuq_hwPOCUBst-z7HJ1ugg=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES", CINE CLÁSSICOS 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="FILMES",CINE COMÉDIA
