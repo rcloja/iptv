@@ -6,7 +6,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0
 #EXTINF:-1 tvg-id="60dd6b1da79e4d0007309455" tvg-logo="http://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="CURIOSIDADES", LOVE NATURE - ESPANHOL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="CURIOSIODADES", LOVE NATURE - INGLÊS
+#EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="CURIOSIDADES", LOVE NATURE - INGLÊS
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="CURIOSIDADES", PRONTO SOCORRO - HISTÓRIAS MÉDICAS
@@ -21,7 +21,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761df
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTxhMhXkfzEQeuUOmBGYbiUwQx05-jYqfs97ARu=s900-c-k-c0x00ffffff-no-rj" group-title="JORNALISMO",BM&C NEWS
 https://stream-02.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls3J5dIZ5R_DgnCVyQ_esH6ugm82ISbHzKpCdoRcec8PL)/dm/3/x8aliiu/d/live-2.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="HUMOR", ARNOLD - SIFF'RENT STROKES
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="HUMOR", ARNOLD - DIFF'RENT STROKES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="HUMOR",BET
@@ -396,7 +396,7 @@ https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w145650
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="VARIEDADES",TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmetropole.br" " tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="VARIEDADES,TV METRÓPOLE
+#EXTINF:-1 tvg-id="Tvmetropole.br" " tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="VARIEDADES", TV METRÓPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvmon.br"  tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png"group-title="JORNALISMO", TV MON 
@@ -663,7 +663,7 @@ https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3af0e565c97274b99605ce384e24c2ea.webp" group-title="RELIGIOSOS", TV NAZARE
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1686507449.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/TV_Cachoeira.png" group-title="JORNALISMO", TV CACHOEIRA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/TV_Cachoeira.png" group-title="RELIGIOSOS", TV CACHOEIRA
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37da21657fea8d3cdd5e587685d4301b.webp" group-title="VARIEDADES", TV GRAMADO
@@ -2924,7 +2924,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa0128e1788de001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618435311be642001a2ec508/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6184352c1be642001a2ec4b5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comedy Central", Especial Amy Schumer
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6184352c1be642001a2ec4b5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d6f77c49a00131ca8e7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="HUMOR", Kevin Hart: Deixe-me Explicar
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d6f77c49a00131ca8e7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Kevin Hart: Deixe-me Explicar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff4d6f77c49a00131ca8e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/612d3c9386e1e0001672e36c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="MTV", MTV: Each & Everyday BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/612d3c9386e1e0001672e36c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
