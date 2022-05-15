@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://i.imgur.com/oAarMpL.png" group-title="CURIOSIDADES", NATUREZA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="60dd6b1da79e4d0007309455" tvg-logo="http://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="CURIOSIDADES", Love Nature - Espanhol
+#EXTINF:-1 tvg-id="60dd6b1da79e4d0007309455" tvg-logo="http://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="CURIOSIDADES", LOVE NATURE - ESPANHOL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="CURIOSIODADES", Love Nature - Inglês
+#EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="CURIOSIODADES", LOVE NATURE - INGLÊS
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="CURIOSIDADES", PRONTO SOCORRO - HISTÓRIAS MÉDICAS
@@ -33,13 +33,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0
 #EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="HUMOR", COMÉDIA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",Kenan e Kel | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="HUMOR", KENAN E KEL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",La otra cara del Alma | Pluto TV Brasil
+#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="HUMOR",LA OTRA CARA DEL ALMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f515d080e738d000739e19c" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",People are Awesome | Pluto TV Brasil
+#EXTINF:-1 tvg-id="5f515d080e738d000739e19c" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="HUMOR", PEOPLE ARE AWESOME
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="HUMOR", RETRÔ
@@ -144,7 +144,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="CURIOSIDADES", VIAJANDO PELO BRASIL
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d4binkS.png" group-title="VARIEDADES", BraziTV - Amaury Jr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d4binkS.png" group-title="VARIEDADES", BRAZITV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://i.imgur.com/n8O1sgs.png" group-title="VARIEDADES", CANAL 11 PORTUGAL
@@ -468,7 +468,7 @@ https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmae.png" group-title="VARIEDADES",TV MAR
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="VARIEDADES",TV Faap
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="VARIEDADES",TV FAAP
 https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc4f4fddc2330b377037d229aee44942.webp" group-title="RELIGIOSOS", TV CONFIEGO
@@ -552,7 +552,7 @@ https://video01.logicahost.com.br/awtv/awtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="VARIEDADES", REDE FAMÍLIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="VARIEDADES",Vintage TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="VARIEDADES",VINTAGE TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="MÚSICAS", M2O
