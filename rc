@@ -1,46 +1,177 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://i.imgur.com/oAarMpL.png" group-title="CURIOSIDADES", NATUREZA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="60dd6b1da79e4d0007309455" tvg-logo="http://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="CURIOSIDADES", Love Nature - Espanhol
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="CURIOSIODADES", Love Nature - Inglês
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="CURIOSIDADES", PRONTO SOCORRO - HISTÓRIAS MÉDICAS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="SESCTV.br"  tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="VARIEDADES", SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
+
+#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="ESPORTES",TURBO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idf41FJ.png" group-title="JORNALISMO",BM&C NEWS
+https://stream-02.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls3J5dIZ5R_DgnCVyQ_esH6ugm82ISbHzKpCdoRcec8PL)/dm/3/x8aliiu/d/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="HUMOR", ARNOLD - SIFF'RENT STROKES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="HUMOR",BET
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="INFANTIS", ICARLY
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="HUMOR", COMÉDIA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",Kenan e Kel | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",La otra cara del Alma | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f515d080e738d000739e19c" tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="Brasil: novelas - seriados - humor",People are Awesome | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="HUMOR", RETRÔ
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" group-title="HUMOR",SCHIFFT'S CREEK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="FILMES", SÉRIES (PLUTO BRASIL)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="HUMOR", SOUTH PARK 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="HUMOR", THE PET COLLETIVE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6M73DBe.png" group-title="VARIEDADES", BCC TV
+https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
+
+#EXTINF:-1 tvg-id="demaistv.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="VARIEDADES", D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="CURIOSIDADES", DOCUMENTÁRIOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="CURIOSIDADES", O ENCANTADOR DE CÃES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://i.imgur.com/YuTPeFV.png" group-title="CURIOSIDADES", VIDA REAL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="canaldocriador" tvg-logo="https://www.canaldocriador.com.br/wp-content/uploads/2020/09/canal-do-criador.jpg" group-title="AGRONEGÓCIO", CANAL DO CRIADOR
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w1923658152_b2596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="skynewsingles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png" group-title="JORNALISMO", SKY NEWS INTERNACIONAL
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+#EXTINF:-1 tvg-id="mundotv" tvg-logo="http://www.redemundotv.com.br/tv/assets/images/logo-rede-mundo-tv3-754x424.png" group-title="JORNALISMO", REDE MUNDO TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1636404133.m3u8
+
+#EXTINF:-1 tvg-id="conectamaistv" tvg-logo="https://compratri-bucket.s3.amazonaws.com/public/empresas/51/conecta-mais-tv-5f6a2bad45b61-thumb.jpg" group-title="VARIEDADES", CONECTA MAIS TV
+http://189.14.239.62:1935/webtv/livestream1/chunklist_w1853358201.m3u8
+
+#EXTINF:-1 tvg-id="nordestetv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="MÚSICAS", NORDESTE TV
+https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="seventv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="VARIEDADES", SEVEN TV
+https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+
+#EXTINF:-1 tvg-id="vivawebtv" tvg-logo="https://1.bp.blogspot.com/-fyaxU5RL4f0/XbJFyWknp4I/AAAAAAAACME/4r9Ukgaw9gwdIDAbc5qykuIPaUWtM5HZgCLcBGAsYHQ/s320/Screenshot_2019-10-24-21-43-30.png" group-title="VARIEDADES", VIVA WEB TV
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3u8
+
+#EXTINF:-1 tvg-id="odia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logotipo_da_O_Dia_TV.png/200px-Logotipo_da_O_Dia_TV.png" group-title="VARIEDADES", TV O DIA (AFILIADA DA REDE TV)
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w591356671.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59K7zP7j/APLUS-TV-8.png" group-title="VARIEDADES", APLUS TV
+https://stmv1.voxtvhd.com.br/aplustv/aplustv/chunklist_w1545562427.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvc16.com/portal/wp-content/uploads/2021/11/cropped-Logo-TVC-Correio-SITE.png" group-title="VARIEDADES", TVC 16
+https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvcapitalteresina.com.br/admin/data/img/uploads/LOGO%20TV%20CAPITAL%20PNG.png" group-title="VARIEDADES", TV CAPITAL TERESINA
+https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w1840936183.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/69fb21_0f618658a9854ea095b0160262984285~mv2.png/v1/fill/w_146,h_79,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20RTL%20TRASH%20c%C3%B3pia.png" group-title="MÚSICAS", RTL CLASSICS
+https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/chunklist_w1520620066.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fpoa11-2.fna.fbcdn.net/v/t39.30808-6/278029688_2038676696294304_803466685802615835_n.jpg?_nc_cat=106&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeGVFOhHVGrsfV-cZszQSfAB5BUaxDAudA7kFRrEMC50Dp1G1XuZLY0hiGtbNYv1m5XSnAcD9qtXOvsDwJnAHNtR&_nc_ohc=WtS3Pzu1Pc8AX-TpPkP&_nc_ht=scontent.fpoa11-2.fna&oh=00_AT_sZd6nDPuJBjTznb1lpaBPXE-oVgWYZG5MWOyEqc5Omw&oe=62856A5A" group-title="VARIEDADES", TV RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w1365170441.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7aa2c5787b8fbfcb14e70aad3b5fcb03.webp" group-title="VARIEDADES", CANAL QTAL - REDE QDM
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w1823759840.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="INFANTIS",TOON GOOGLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
 #EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-logo="https://i.imgur.com/4a5RFCU.png" group-title="INFANTIS", JUNIOR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://i.imgur.com/g505N5r.png" group-title="INFANTIS", KIDS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" tvg-logo="https://i.imgur.com/z2Fwd4q.png" group-title="INFANTIS", NICK CLASSICO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="INFANTIS", NICK JR CLUB
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="INFANTIS", NICKTEEN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-id="61f2c6969fcc3800076ef8af" tvg-logo="https://i.imgur.com/1jXXHVr.png" group-title="INFANTIS",OS ANJINHOS - RUGRATS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="INFANTIS", TURMA DA MÔNICA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="INFANTIS", O REINO INFANTIL 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="CURIOSIDADES", VIAJANDO PELO BRASIL
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d4binkS.png" group-title="VARIEDADES", BraziTV - Amaury Jr
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://i.imgur.com/n8O1sgs.png" group-title="VARIEDADES", CANAL 11 PORTUGAL
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/zLSRXLH.png" group-title="VARIEDADES",TVI REALITY PORTUGAL
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="FILMES",ADRENALINA FREEZONE
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="FILMES",CINDIE
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES", RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES", RUNTIME AÇÃO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES", RUNTIME COMÉDIA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="FILMES", RUNTIME HUMOR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/e0nTVFqGa9UzKQw5mOzIKLajiBgwslJQOsn-UzOzdjzQq5wuCjDt-Kuq_hwPOCUBst-z7HJ1ugg=s900-c-k-c0x00ffffff-no-rj" group-title="FILMES", CINE CLÁSSICOS 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="FILMES",CINE COMÉDIA
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="FILMES",CINE HUMOR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="FILMES",CINE DRAMA
@@ -61,7 +192,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9
 #EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="FILMES", DARKFLIX
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://i.imgur.com/kQ1EG3u.png" group-title="NOTÍCIAS", EURONEWS
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://i.imgur.com/kQ1EG3u.png" group-title="JORNALISMO", EURONEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1oT_c5JfZKApyS_GymorA2XHfqaBRYmOkU2ZAtQ=s900-c-k-c0x00ffffff-no-rj" group-title="VARIEDADES", TBO BRASIL OESTE
@@ -136,10 +267,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61843f5e491af10007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ku0d45h.png" group-title="VARIEDADES", MISS UNIVERSO BRASIL
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg" group-title="CURIOSIDADES", MISTÉTIOS
+#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/featuredImage.jpg" group-title="CURIOSIDADES", MISTÉRIOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="CURIOSIDADES", MOTORVISION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="ESPORTES", MOTORVISION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 
 #EXTINF:-1 tvg-id="5f9b05a99547eb0007676b02" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/featuredImage.jpg?w=300" group-title="CURIOSIDADES", NOSEY ESCÂNDALOS
@@ -154,12 +285,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc0007
 #EXTINF:-1 tvg-id="animetv.br" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="INFANTIS", ANIMETV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-logo="https://i.imgur.com/4a5RFCU.png" group-title="INFANTIS", JUNIOR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="https://i.imgur.com/g505N5r.png" group-title="INFANTIS", KIDS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a101-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46e9fe4e-4908-4a98-8fa8-41e5460e3ce5&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://i.imgur.com/046zDW4.png" group-title="INFANTIS", NARUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
 
@@ -169,34 +294,34 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="INFANTIS", RAKUTEN FAMÍLIA
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="NOTÍCIAS", BLOOMBERG 
+#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="JORNALISMO", BLOOMBERG 
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="NOTÍCIAS", NOVA ERA TV
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="JORNALISMO", NOVA ERA TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GKM7X9G.png" group-title="NOTÍCIAS", SAGRES TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKM7X9G.png" group-title="JORNALISMO", SAGRES TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SagresTV/live
 
-#EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="NOTÍCIAS",TV ALEGO
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="https://i.imgur.com/UyRDotD.png" group-title="JORNALISMO",TV ALEGO
 https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="FILMES", BEING MARY JANE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" group-title="COMÉDIA" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png", COMEDY CENTRAL
+#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" group-title="HUMOR" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png", COMEDY CENTRAL 1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="COMÉDIA", FAILARMY 
+#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="HUMOR", FAILARMY 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZER6vsV.png" group-title="COMÉDIA", HOGAN´S HEROES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZER6vsV.png" group-title="HUMOR", HOGAN´S HEROES
 https://stmv1.srvif.com/tvserie5/tvserie5/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="COMÉDIA", JEANNIE É UM GÊNIO
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="HUMOR", JEANNIE É UM GÊNIO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="COMÉDIA", PORTA DOS FUNDOS
+#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="HUMOR", PORTA DOS FUNDOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=channel&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/68/Logotipo_R%C3%A1dio_Ga%C3%BAcha.jpg?20150806204230" group-title="RÁDIOS", RÁDIO GAÚCHA RS
@@ -229,7 +354,7 @@ https://fmodia.cdn.upx.com/omms9/myStream.sdp/chunklist.m3u8?957e279afe9f52f96a6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="RÁDIOS", RÁDIO SOCIEDADE
 https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="NOTÍCIAS", AGROBRASIL TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="AGRONEGÓCIO", AGROBRASIL TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/aUU5Hhh.png" group-title="ABERTOS", BAND
@@ -238,10 +363,10 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="VARIEDADES",CBTV NOW
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2020/02/logo_site.png" tvg-shift="0" group-title="NOTÍCIAS", COM BRASIL
+#EXTINF:-1 tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2020/02/logo_site.png" tvg-shift="0" group-title="JORNALISMO", COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RQZEcbT.png" group-title="NOTÍCIAS",CTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQZEcbT.png" group-title="JORNALISMO",CTV 
 https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="VARIEDADES", DEMAND AFRICA
@@ -271,10 +396,10 @@ https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w145650
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="VARIEDADES",TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmetropole.br" group-title="VARIEDADES" tvg-logo="https://i.imgur.com/EhJNGIy.png",TV METRÓPOLE
+#EXTINF:-1 tvg-id="Tvmetropole.br" " tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="VARIEDADES,TV METRÓPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmon.br" group-title="NOTÍCIAS" tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png",TV MON 
+#EXTINF:-1 tvg-id="Tvmon.br"  tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png"group-title="JORNALISMO", TV MON 
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="VARIEDADES",TV SANTA CECILÍA
@@ -306,7 +431,6 @@ https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc7b83a5a19d96b87517b1e95e9b0565.webp" group-title="FILMES", TV CHANNEL1 LIVE
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1940705139.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classiquew_site.png" group-title="FILMES", CLASSIQUE TV WETERN
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w696892955.m3u8
@@ -524,7 +648,7 @@ https://video01.kshost.com.br:4443/tiago4725/tiago4725/chunklist_w1670973484.m3u
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CcJepf6TqUb-8PlLPXVtkkgEQ_Byj8KBP-WjQafn_-AakRRwktE57OqBx3JN9t1EnogNLLwJ-Q=s900-c-k-c0x00ffffff-no-rj" group-title="VARIEDADES", TV OSASCO
 https://596639ebdd89b.streamlock.net/8074/8074/chunklist_w163346537.m3u8
 
-#EXTINF:-1 tvg-logo="https://cariritv.com.br/uploads/logo/logo_608c10f81b1fe.png" group-title="NOTÍCIAS", CARIRI TV
+#EXTINF:-1 tvg-logo="https://cariritv.com.br/uploads/logo/logo_608c10f81b1fe.png" group-title="JORNALISMO", CARIRI TV
 https://video01.logicahost.com.br:4443/cariritv/cariritv/chunklist_w934769115.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fpoa11-2.fna.fbcdn.net/v/t1.6435-9/101944966_3534744549888004_7020608302874624000_n.png?stp=dst-png_p960x960&_nc_cat=1&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeHX7Oaea66A-lwVy5hCLxzKGzTA0DJdU5gbNMDQMl1TmG3nfgpnV3hI_1POzB5i57v5ypLatANrns7pC7h3cfdZ&_nc_ohc=oLfFIwsgS-MAX_PQ9BH&_nc_ht=scontent.fpoa11-2.fna&oh=00_AT_zIAYiZfzf0h7mG8hQDvghNWB1f4PZK4BJPw_Wyr6JjQ&oe=62A7861B" group-title="ABERTOS", TV CATVE 
@@ -539,7 +663,7 @@ https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3af0e565c97274b99605ce384e24c2ea.webp" group-title="RELIGIOSOS", TV NAZARE
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1686507449.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/TV_Cachoeira.png" group-title="NOTÍCIAS", TV CACHOEIRA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/TV_Cachoeira.png" group-title="JORNALISMO", TV CACHOEIRA
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37da21657fea8d3cdd5e587685d4301b.webp" group-title="VARIEDADES", TV GRAMADO
@@ -575,7 +699,7 @@ https://stmv1.srvstm.com/iracematv/iracematv/chunklist_w1651668842.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a028c26309735d904e33cedec1a011e6.webp" group-title="VARIEDADES", REDE SPTV
 https://video01.logicahost.com.br/websptv/websptv/chunklist_w703004531.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/30bfd4e74aeb1ffcaf1f81c297d99d23.webp" group-title="NOTÍCIAS", TV BRUSQUE
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/30bfd4e74aeb1ffcaf1f81c297d99d23.webp" group-title="JORNALISMO", TV BRUSQUE
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w938754737.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1dfc2cda465307e3040ffe29d4849e87.webp" group-title="VARIEDADES", CWB TV
@@ -607,7 +731,7 @@ https://livefocamundo.com:8081/tvcontroles/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7ObVfW.png"VARIEDADES",  MASTER TV 
 http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jn5adsaa.jpg" group-title="NOTÍCIAS", RDC
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jn5adsaa.jpg" group-title="JORNALISMO", RDC
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png", TV MAX
@@ -615,8 +739,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc4f4fddc2330b377037d229aee44942.webp", PEGADINHAS  
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
-
-########lista B #####
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BAND.png" group-title="ABERTOS",BAND 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290669
@@ -642,7 +764,7 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/126647
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="ABERTOS",CNN BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107890
 
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="COMÉDIA",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="HUMOR",COMEDY CENTRAL 2
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/126666
 
 #EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER FHD" tvg-logo="https://lh3.googleusercontent.com/-D5d1wcnqfj8/YT009l6rOZI/AAAAAAAAKkg/4OfFErGZ7SQMWnYU2FlKYzcryCsbKRjQQCLcBGAsYHQ/super.png" group-title="RELIGIOSOS",REDE SUPER
@@ -690,16 +812,16 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/126675
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="VARIEDADES",VIVA 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108370
 
-#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="NOTÍCIAS",AGROMAIS
+#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="AGRONEGÓCIO",AGROMAIS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290684
 
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CURIOSIDADES",ANIMAL PLANET
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107820
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="NOTÍCIAS", TERRA VIVA
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="AGRONEGÓCIO", TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="NOTÍCIAS", CANAL RURAL SD
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="AGRONEGÓCIO", CANAL RURAL
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="VARIEDADES", TV VERDES CAMPOS
@@ -708,7 +830,7 @@ https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/BABYTV.png" group-title="INFANTIS",BABY TV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107825
 
-#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="NOTÍCIAS",BAND NEWS
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="JORNALISMO",BAND NEWS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107829
 
 #EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND RS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="ABERTOS",BAND RS
@@ -717,17 +839,14 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/276466
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES",BAND SPORTS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290573
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="NOTÍCIAS",BBC WORLD 
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="JORNALISMO",BBC WORLD 
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276398
 
 #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/BRASIL.png" group-title="FILMES",CANAL BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107856
 
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://lh3.googleusercontent.com/-Li5io6A9WcM/YB1E7Q-wmnI/AAAAAAAAJ5U/RvH5WwHsB_8wneFb_bKmVmSENvH7jydtACLcBGAsYHQ/CanaldoBoi.png" group-title="NOTÍCIAS",CANAL DO BOI
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://lh3.googleusercontent.com/-Li5io6A9WcM/YB1E7Q-wmnI/AAAAAAAAJ5U/RvH5WwHsB_8wneFb_bKmVmSENvH7jydtACLcBGAsYHQ/CanaldoBoi.png" group-title="AGRONEGÓCIO",CANAL DO BOI
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276519
-
-#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL SD" tvg-logo="https://lh3.googleusercontent.com/-uVh3b-Epn5s/YT07LYtpnII/AAAAAAAAKlA/sYqkd1Jk9kIunl0Vzj2bYB5m1U3NcZP4gCLcBGAsYHQ/rural.png" group-title="NOTÍCIAS",CANAL RURAL
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/276442
 
 #EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA HD" tvg-logo="https://lh3.googleusercontent.com/-MyzIIOVq8hM/YB7q2n_7QJI/AAAAAAAAKC4/gAkKhUrbEf0Rnbi9PtEbOZjN6rVRjaMNQCLcBGAsYHQ/CANCAO%2BNOVA.png" group-title="RELIGIOSOS",CANÇÃO NOVA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107862
@@ -750,16 +869,14 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/155401
 #EXTINF:-1 tvg-id="chef.br" tvg-name="CHEFE TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_chef-tv-brazil_m.png" group-title="CURIOSIDADES",CHEFE TV
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276415
 
-#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="NOTÍCIAS",CNN BRASIL
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="JORNALISMO",CNN BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/107891
 
-#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="COMÉDIA",COMEDY CENTRAL 
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/107898
 
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="VARIEDADES",FUTURA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290676
 
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="NOTÍCIAS",JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="JORNALISMO",JOVEM PAN NEWS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/127037
 
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="MÚSICAS",MTV
@@ -771,7 +888,7 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/276441
 #EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-cNnnZao7fwM/YZgE2VaA1-I/AAAAAAAAKw8/iqfkYwr0EVk6LDj2lZWAjRhMBpQbTUVtQCLcBGAsYHQ/BOX.png" group-title="MÚSICAS",MUSIC BOX BRASIL
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108163
 
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="NOTÍCIAS",RECORD NEWS
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="JORNALISMO",RECORD NEWS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108224
 
 #EXTINF:-1 tvg-id="rede.21.br" tvg-name="REDE 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/1200px-Rede_21_logo.svg.png" group-title="RELIGIOSOS",REDE 21
@@ -863,7 +980,7 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="RELIGIOSOS", TV EVANGELIZAR
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV JUSTIÇA SD" tvg-logo="https://lh3.googleusercontent.com/-Q85ZPelOntc/YB1LglRwRpI/AAAAAAAAJ6Y/v27Vf7kqf2gKDfyYF4hMdGCehjaM760ywCLcBGAsYHQ/TV%2BJustica.png" group-title="NOTÍCIAS",TV JUSTIÇA
+#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV JUSTIÇA SD" tvg-logo="https://lh3.googleusercontent.com/-Q85ZPelOntc/YB1LglRwRpI/AAAAAAAAJ6Y/v27Vf7kqf2gKDfyYF4hMdGCehjaM760ywCLcBGAsYHQ/TV%2BJustica.png" group-title="JORNALISMO",TV JUSTIÇA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276532
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="RELIGIOSOS", IMPD TV
@@ -1919,249 +2036,249 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60bf76841f07220014
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602d5305295090001a5fc9f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa15b04184e2e001a757467/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Drama", A Onda Perfeita
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa15b04184e2e001a757467/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62276f0dad8640001a44e265/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Adolescência Perdida
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/62276f0dad8640001a44e265/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Adolescência Perdida
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/62276f0dad8640001a44e265/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61df2c9312f2e7001abccc85/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Arrume Um Emprego
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61df2c9312f2e7001abccc85/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Arrume Um Emprego
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61df2c9312f2e7001abccc85/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604f8760e7c979001a8a87a9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Para maiores
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604f8760e7c979001a8a87a9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Para maiores
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f8760e7c979001a8a87a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f5be47a638b1800139e8a45/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Tudo para Ficar com Ela
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f5be47a638b1800139e8a45/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Tudo para Ficar com Ela
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f5be47a638b1800139e8a45/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61df1f0f161b65001a9a42f6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Kill the Man
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61df1f0f161b65001a9a42f6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Kill the Man
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61df1f0f161b65001a9a42f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a65499839e0013e0ce49/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Trocando os Pés
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a65499839e0013e0ce49/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Trocando os Pés
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7a65499839e0013e0ce49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/600f259ab2c9b7001a3e82ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Quanto Mais Idiota Melhor
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/600f259ab2c9b7001a3e82ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Quanto Mais Idiota Melhor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/600f259ab2c9b7001a3e82ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60ed93f2a038550014bea001/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Educação às Avessas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60ed93f2a038550014bea001/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Educação às Avessas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60ed93f2a038550014bea001/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f36a9c1a500138f77cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Super
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f36a9c1a500138f77cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Super
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60db8f36a9c1a500138f77cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a6c3931297090013363001/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Uma Boa E Velha Orgia
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a6c3931297090013363001/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Uma Boa E Velha Orgia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a6c3931297090013363001/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a4193cd9b0ce0014e6c43b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", E Que Deus Nos Ajude
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a4193cd9b0ce0014e6c43b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", E Que Deus Nos Ajude
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a4193cd9b0ce0014e6c43b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fb7d2d3f9fdf0001b05580c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Cadê a Minha Entrega?
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fb7d2d3f9fdf0001b05580c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Cadê a Minha Entrega?
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb7d2d3f9fdf0001b05580c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f6503093dca000014865209/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", As Aventuras da Mulher Electra e da Garota Dyna
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f6503093dca000014865209/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", As Aventuras da Mulher Electra e da Garota Dyna
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f6503093dca000014865209/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b922eb2b870001a05f69e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", O Vigarista do Ano
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b922eb2b870001a05f69e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", O Vigarista do Ano
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b922eb2b870001a05f69e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b4ffe45cc5f2001a311690/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Totalmente Inapropriado
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b4ffe45cc5f2001a311690/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Totalmente Inapropriado
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b4ffe45cc5f2001a311690/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60898086c80199001ac66e39/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Bolas em Pânico
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60898086c80199001ac66e39/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Bolas em Pânico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60898086c80199001ac66e39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/600ae7d12816a5001aa1419e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Hot Rod: Loucos sobre rodas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/600ae7d12816a5001aa1419e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Hot Rod: Loucos sobre rodas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/600ae7d12816a5001aa1419e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a64f99839e0013e0cdd1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Chef
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a64f99839e0013e0cdd1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Chef
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7a64f99839e0013e0cdd1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a418f4d9b0ce0014e6c027/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Mais um besteirol ao extremo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a418f4d9b0ce0014e6c027/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Mais um besteirol ao extremo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a418f4d9b0ce0014e6c027/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b2499c6d8500134299fc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Amigo De Caça
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b2499c6d8500134299fc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Amigo De Caça
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c8b2499c6d8500134299fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fb7d3012706ac001bba0699/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", O Clube das Mães Solteiras
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fb7d3012706ac001bba0699/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", O Clube das Mães Solteiras
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb7d3012706ac001bba0699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61129e0fc3c1d40014c17b63/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", A Filha Do Meu Melhor Amigo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/61129e0fc3c1d40014c17b63/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", A Filha Do Meu Melhor Amigo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/61129e0fc3c1d40014c17b63/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7b53556a58060013794c87/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Cherry BR
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7b53556a58060013794c87/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Cherry BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b53556a58060013794c87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe683bd42e001ac656c8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", O Golpista do Ano
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe683bd42e001ac656c8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", O Golpista do Ano
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86fe683bd42e001ac656c8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff344a0042d2a001a20aab2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Entrando Numa Roubada BR
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff344a0042d2a001a20aab2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Entrando Numa Roubada BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff344a0042d2a001a20aab2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6104098c5233ba00136bf084/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Histeria
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6104098c5233ba00136bf084/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Histeria
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6104098c5233ba00136bf084/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b67ea9ab1ee2001ad2f42a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Um Funeral muito louco
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b67ea9ab1ee2001ad2f42a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Um Funeral muito louco
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b67ea9ab1ee2001ad2f42a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a41950d9b0ce0014e6c593/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Uma noite de loucuras
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a41950d9b0ce0014e6c593/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Uma noite de loucuras
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a41950d9b0ce0014e6c593/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db6671850c7d0013bc613b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Aos 30
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db6671850c7d0013bc613b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Aos 30
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60db6671850c7d0013bc613b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a64799839e0013e0cd29/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Bring It On
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a64799839e0013e0cd29/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Bring It On
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7a64799839e0013e0cd29/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fb5981fe154080013968223/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", A Hora do Rango
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fb5981fe154080013968223/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", A Hora do Rango
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb5981fe154080013968223/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6081851c3f06c5001a7708a1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Palooza - Pura curtição
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6081851c3f06c5001a7708a1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Palooza - Pura curtição
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6081851c3f06c5001a7708a1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f03fca76826f001370ef5b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Confusões no Lava-Jato
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f03fca76826f001370ef5b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Confusões no Lava-Jato
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60f03fca76826f001370ef5b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60bf76441f07220014c0c0f7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Os Homens do Soul
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60bf76441f07220014c0c0f7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Os Homens do Soul
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60bf76441f07220014c0c0f7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6192b1791ff13a001a20c971/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Virgem Americano
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6192b1791ff13a001a20c971/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Virgem Americano
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6192b1791ff13a001a20c971/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f33a9c1a500138f7791/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Um Santo Vizinho
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f33a9c1a500138f7791/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Um Santo Vizinho
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60db8f33a9c1a500138f7791/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f80b0b37f692c001a4d9c1f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Relação Explosiva
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f80b0b37f692c001a4d9c1f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Relação Explosiva
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f80b0b37f692c001a4d9c1f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/602d52fd295090001a5fc92a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Um Motorista em Apuros
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/602d52fd295090001a5fc92a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Um Motorista em Apuros
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/602d52fd295090001a5fc92a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b84228f1d30013ec5bfd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Pagando Bem, Que Mal Tem?
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b84228f1d30013ec5bfd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Pagando Bem, Que Mal Tem?
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c7b84228f1d30013ec5bfd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b67e90ab1ee2001ad2f34a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Amigas Inseparáveis
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b67e90ab1ee2001ad2f34a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Amigas Inseparáveis
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b67e90ab1ee2001ad2f34a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae7ce3e9dede001ab8cced/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Química do Amor
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae7ce3e9dede001ab8cced/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Química do Amor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae7ce3e9dede001ab8cced/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6047c0cb12d561001a4e70af/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Sem Bebês No Campo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6047c0cb12d561001a4e70af/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Sem Bebês No Campo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6047c0cb12d561001a4e70af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b88b28f1d30013ec6246/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Uma dupla genial
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b88b28f1d30013ec6246/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Uma dupla genial
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c7b88b28f1d30013ec6246/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff344ac042d2a001a20abfe/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", O Diário de Tati
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff344ac042d2a001a20abfe/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", O Diário de Tati
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff344ac042d2a001a20abfe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b88028f1d30013ec612b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Lua Cheia - O Terror dos Virgens
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b88028f1d30013ec612b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Lua Cheia - O Terror dos Virgens
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c7b88028f1d30013ec612b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7c9a0bb06bf7001adb3114/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", A Mente que Mente
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7c9a0bb06bf7001adb3114/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", A Mente que Mente
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7c9a0bb06bf7001adb3114/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fe38fbd32aedd001a4a49d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Boleiros, Era uma vez o Futebol
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fe38fbd32aedd001a4a49d8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Boleiros, Era uma vez o Futebol
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe38fbd32aedd001a4a49d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff355ac05630c001a2e6934/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Muita Calma Nessa Hora
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff355ac05630c001a2e6934/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Muita Calma Nessa Hora
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff355ac05630c001a2e6934/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614242c5d982620013b9faba/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", As Fantásticas Aventuras de Spirou e Fantásio
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614242c5d982620013b9faba/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", As Fantásticas Aventuras de Spirou e Fantásio
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/614242c5d982620013b9faba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6005c82fcc17ce00130c2373/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Uma Juíza Sem Juízo
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6005c82fcc17ce00130c2373/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Uma Juíza Sem Juízo
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6005c82fcc17ce00130c2373/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b67ea2ab1ee2001ad2f3f4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Growing Up And Other Lies
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b67ea2ab1ee2001ad2f3f4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Growing Up And Other Lies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b67ea2ab1ee2001ad2f3f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fe0a21ca41cb300132c4df4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Jogo Suicida
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fe0a21ca41cb300132c4df4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Jogo Suicida
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe0a21ca41cb300132c4df4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6012b7db813b2d001b699529/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Dona Flor E Seus Dois Maridos
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6012b7db813b2d001b699529/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Dona Flor E Seus Dois Maridos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6012b7db813b2d001b699529/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6022d5ef2cca48001a5065d9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Saindo do Armário
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6022d5ef2cca48001a5065d9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Saindo do Armário
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6022d5ef2cca48001a5065d9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614242aed982620013b9f965/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Eu Deus e Bin Laden
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/614242aed982620013b9f965/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Eu Deus e Bin Laden
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/614242aed982620013b9f965/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6018096e2c5c49001a61f284/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", O Crime da Cabra
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6018096e2c5c49001a61f284/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", O Crime da Cabra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6018096e2c5c49001a61f284/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a6c3a612970900133630e5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Insegurança
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a6c3a612970900133630e5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Insegurança
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a6c3a612970900133630e5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b87928f1d30013ec6075/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Doces Problemas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b87928f1d30013ec6075/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Doces Problemas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c7b87928f1d30013ec6075/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f02b177fe58c0013534b9a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Vampiras
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f02b177fe58c0013534b9a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Vampiras
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60f02b177fe58c0013534b9a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/609c052c5ff04300139d5181/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Como um Chef
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/609c052c5ff04300139d5181/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Como um Chef
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609c052c5ff04300139d5181/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b23a9c6d8500134298de/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Tal Pai, Tal Filho
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c8b23a9c6d8500134298de/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Tal Pai, Tal Filho
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c8b23a9c6d8500134298de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a41904d9b0ce0014e6c107/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", A Ocasião Faz O Ladrão
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a41904d9b0ce0014e6c107/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", A Ocasião Faz O Ladrão
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a41904d9b0ce0014e6c107/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6012b7e7813b2d001b699685/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Caixa Dois
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6012b7e7813b2d001b699685/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Caixa Dois
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6012b7e7813b2d001b699685/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6047c0c812d561001a4e7079/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", O Ataque Dos Donuts Assasinos
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6047c0c812d561001a4e7079/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", O Ataque Dos Donuts Assasinos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6047c0c812d561001a4e7079/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a2c0d7b56ebc0013c4922f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Parada Inesperada
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a2c0d7b56ebc0013c4922f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Parada Inesperada
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a2c0d7b56ebc0013c4922f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/606f1dd833e416001a402385/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Tudo é Possível
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/606f1dd833e416001a402385/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Tudo é Possível
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606f1dd833e416001a402385/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a418fbd9b0ce0014e6c05d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Uma segunda chance
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a418fbd9b0ce0014e6c05d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Uma segunda chance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a418fbd9b0ce0014e6c05d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607f35273bbc1b001aee5b50/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Paraíso: Em Busca da Felicidade
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607f35273bbc1b001aee5b50/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Paraíso: Em Busca da Felicidade
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/607f35273bbc1b001aee5b50/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60871953391f8d001ab93b9a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Deu Ruim
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60871953391f8d001ab93b9a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Deu Ruim
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60871953391f8d001ab93b9a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5faae1dae5d584001a910106/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Lady Rancho
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5faae1dae5d584001a910106/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Lady Rancho
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faae1dae5d584001a910106/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae76039d991c001a9dcb3a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Kabluey
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae76039d991c001a9dcb3a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Kabluey
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae76039d991c001a9dcb3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fe38fba32aedd001a4a49a2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Boleiros 2 Vencedores e Vencidos
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fe38fba32aedd001a4a49a2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Boleiros 2 Vencedores e Vencidos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fe38fba32aedd001a4a49a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa15a431788de001ad5ad80/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Enviado do Céu
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa15a431788de001ad5ad80/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Enviado do Céu
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa15a431788de001ad5ad80/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5faef46ecfb475001a286362/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Parceiros Até o Fim
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5faef46ecfb475001a286362/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Parceiros Até o Fim
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5faef46ecfb475001a286362/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae76059d991c001a9dcb70/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Apaixonados em Nova York
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae76059d991c001a9dcb70/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Apaixonados em Nova York
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae76059d991c001a9dcb70/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae75ff9d991c001a9dcac2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Mãos em Chamas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae75ff9d991c001a9dcac2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Mãos em Chamas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae75ff9d991c001a9dcac2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff355a805630c001a2e68c4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Magal E Os Formigas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff355a805630c001a2e68c4/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Magal E Os Formigas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff355a805630c001a2e68c4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d44ac600d00143b1af2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Vivendo no abandono
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d44ac600d00143b1af2/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Vivendo no abandono
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff4d44ac600d00143b1af2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d6377c49a00131ca7c9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Ponto de Encontro
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d6377c49a00131ca7c9/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Ponto de Encontro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff4d6377c49a00131ca7c9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6012fabbb2c9b7001a3edf9e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Deus por Dez Dias
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6012fabbb2c9b7001a3edf9e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Deus por Dez Dias
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6012fabbb2c9b7001a3edf9e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fbd2e9cc74aa4001300ec1f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Horácio
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fbd2e9cc74aa4001300ec1f/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Horácio
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fbd2e9cc74aa4001300ec1f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae769f6492fa001d0397ab/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Larry o Cara da Tv a Cabo: Inspetor de Saúde
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae769f6492fa001d0397ab/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Larry o Cara da Tv a Cabo: Inspetor de Saúde
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae769f6492fa001d0397ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae75fb9d991c001a9dca4e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Para ser sincero
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae75fb9d991c001a9dca4e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Para ser sincero
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae75fb9d991c001a9dca4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae75fd9d991c001a9dca84/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", American Cowslip
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae75fd9d991c001a9dca84/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", American Cowslip
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae75fd9d991c001a9dca84/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fb26b9ae9dede001ab9019e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Petunia
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fb26b9ae9dede001ab9019e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Petunia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb26b9ae9dede001ab9019e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae76019d991c001a9dcb00/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Jake Squared
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae76019d991c001a9dcb00/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Jake Squared
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae76019d991c001a9dcb00/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/606f1dd633e416001a40234b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", A Busca
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/606f1dd633e416001a40234b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", A Busca
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606f1dd633e416001a40234b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60e4ac1a9868510013ac4b70/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", Fixação
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60e4ac1a9868510013ac4b70/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", Fixação
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60e4ac1a9868510013ac4b70/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/609d6b84b56ebc0013c420e6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia", A Finada Mãe da Madame
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/609d6b84b56ebc0013c420e6/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR", A Finada Mãe da Madame
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609d6b84b56ebc0013c420e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/600ae7ed2816a5001aa14472/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Forças do destino
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/600ae7ed2816a5001aa14472/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Forças do destino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/600ae7ed2816a5001aa14472/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae769d6492fa001d039771/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Duo-lhes um ano
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae769d6492fa001d039771/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Duo-lhes um ano
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae769d6492fa001d039771/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b67e89ab1ee2001ad2f310/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Histórias de Amor
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b67e89ab1ee2001ad2f310/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Histórias de Amor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b67e89ab1ee2001ad2f310/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f80b0b57f692c001a4d9c59/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Amor é Tudo o Que Você Precisa
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f80b0b57f692c001a4d9c59/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Amor é Tudo o Que Você Precisa
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f80b0b57f692c001a4d9c59/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae76a36492fa001d03984e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Regras da Atração
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae76a36492fa001d03984e/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Regras da Atração
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae76a36492fa001d03984e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fbe7750c8c57d00131b7cfc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", The Wedding Planner
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fbe7750c8c57d00131b7cfc/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", The Wedding Planner
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fbe7750c8c57d00131b7cfc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b68bcd2eecb3001af88704/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Dormindo Com As Outras Pessoas
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b68bcd2eecb3001af88704/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Dormindo Com As Outras Pessoas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b68bcd2eecb3001af88704/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f02deea038550014bf15c0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Amor, felicidade ou casamento
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f02deea038550014bf15c0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Amor, felicidade ou casamento
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60f02deea038550014bf15c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f31a9c1a500138f7757/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Um Romance na Alta Moda
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60db8f31a9c1a500138f7757/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Um Romance na Alta Moda
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60db8f31a9c1a500138f7757/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d6777c49a00131ca839/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Secretária
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d6777c49a00131ca839/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Secretária
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff4d6777c49a00131ca839/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fbe59a20dddaf0013b5c3ed/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Apenas Amigos
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fbe59a20dddaf0013b5c3ed/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Apenas Amigos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fbe59a20dddaf0013b5c3ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60bf76d81f07220014c0c4f0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Como conquistar uma Mulher
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60bf76d81f07220014c0c4f0/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Como conquistar uma Mulher
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60bf76d81f07220014c0c4f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/605258ef1ca306001a35c978/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Um Bom Partido
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/605258ef1ca306001a35c978/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Um Bom Partido
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/605258ef1ca306001a35c978/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f97344b93efb001386b46b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", A dor do amor
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f97344b93efb001386b46b/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", A dor do amor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60f97344b93efb001386b46b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa9739793fb64001a774ce8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", They Came Together
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fa9739793fb64001a774ce8/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", They Came Together
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa9739793fb64001a774ce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86ff39652fb5001addd948/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Pronta para Amar
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86ff39652fb5001addd948/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Pronta para Amar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86ff39652fb5001addd948/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a6c39c1297090013363075/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", A Noite da Realeza
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a6c39c1297090013363075/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", A Noite da Realeza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a6c39c1297090013363075/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a65699839e0013e0ce81/poster.JPG?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Um Homem de Família
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fc7a65699839e0013e0ce81/poster.JPG?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Um Homem de Família
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc7a65699839e0013e0ce81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b84228f1d30013ec5bfd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Pagando Bem, Que Mal Tem?
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60c7b84228f1d30013ec5bfd/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Pagando Bem, Que Mal Tem?
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60c7b84228f1d30013ec5bfd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7b539c6a58060013795004/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Preciso ser pai
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7b539c6a58060013795004/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Preciso ser pai
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b539c6a58060013795004/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae76976492fa001d0396cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", O Álibi
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fae76976492fa001d0396cb/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", O Álibi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fae76976492fa001d0396cb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f02b177fe58c0013534b9a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Vampiras
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f02b177fe58c0013534b9a/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Vampiras
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60f02b177fe58c0013534b9a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a418fbd9b0ce0014e6c05d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Uma segunda chance
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60a418fbd9b0ce0014e6c05d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Uma segunda chance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60a418fbd9b0ce0014e6c05d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f5be47a638b1800139e8a45/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Tudo para Ficar com Ela
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f5be47a638b1800139e8a45/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Tudo para Ficar com Ela
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f5be47a638b1800139e8a45/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7b53556a58060013794c87/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Cherry BR
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f7b53556a58060013794c87/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Cherry BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b53556a58060013794c87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b9220b2b870001a05f578/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Um Divã Para Dois
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/604b9220b2b870001a05f578/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Um Divã Para Dois
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b9220b2b870001a05f578/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f85b828740902001a952363/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Adorável Professora
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f85b828740902001a952363/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Adorável Professora
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f85b828740902001a952363/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff344a4042d2a001a20ab26/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", S.O.S Mulheres Ao Mar 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5ff344a4042d2a001a20ab26/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", S.O.S Mulheres Ao Mar 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ff344a4042d2a001a20ab26/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f03fc576826f001370eee7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Peeples
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f03fc576826f001370eee7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Peeples
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60f03fc576826f001370eee7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6012b7e3813b2d001b699615/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", O Casamento de Romeu e Julieta
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6012b7e3813b2d001b699615/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", O Casamento de Romeu e Julieta
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6012b7e3813b2d001b699615/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b67e97ab1ee2001ad2f380/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Golpe de Gênio
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60b67e97ab1ee2001ad2f380/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Golpe de Gênio
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60b67e97ab1ee2001ad2f380/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f03fc276826f001370eeb1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", Paper Heart
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/60f03fc276826f001370eeb1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", Paper Heart
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/60f03fc276826f001370eeb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d6d77c49a00131ca8b1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Comédia Romântica", O Criado, Um Conquistador Em Apuros
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d6d77c49a00131ca8b1/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine HUMOR Romântica", O Criado, Um Conquistador Em Apuros
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff4d6d77c49a00131ca8b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/606dcde3f96a44001a1c9403/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Cine Romance", Encontro de Casais
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/606dcde3f96a44001a1c9403/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
@@ -2807,7 +2924,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa0128e1788de001a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/618435311be642001a2ec508/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/6184352c1be642001a2ec4b5/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comedy Central", Especial Amy Schumer
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6184352c1be642001a2ec4b5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d6f77c49a00131ca8e7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Comédia", Kevin Hart: Deixe-me Explicar
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5fff4d6f77c49a00131ca8e7/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="HUMOR", Kevin Hart: Deixe-me Explicar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fff4d6f77c49a00131ca8e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/612d3c9386e1e0001672e36c/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="MTV", MTV: Each & Everyday BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/612d3c9386e1e0001672e36c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
