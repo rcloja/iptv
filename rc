@@ -12,13 +12,13 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="CURIOSIDADES", PRONTO SOCORRO - HISTÓRIAS MÉDICAS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="SESCTV.br"  tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="VARIEDADES", SESC TV
+#EXTINF:-1 tvg-id="SESCTV.br"  tvg-logo="https://seeklogo.com/images/S/sesc-tv-logo-FE78C1CEA7-seeklogo.com.gif" group-title="VARIEDADES", SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
 
 #EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="ESPORTES",TURBO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idf41FJ.png" group-title="JORNALISMO",BM&C NEWS
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTxhMhXkfzEQeuUOmBGYbiUwQx05-jYqfs97ARu=s900-c-k-c0x00ffffff-no-rj" group-title="JORNALISMO",BM&C NEWS
 https://stream-02.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls3J5dIZ5R_DgnCVyQ_esH6ugm82ISbHzKpCdoRcec8PL)/dm/3/x8aliiu/d/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://images.pluto.tv/channels/61f1d27a189ed10007b7393e/colorLogoPNG.png" group-title="HUMOR", ARNOLD - SIFF'RENT STROKES
