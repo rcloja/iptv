@@ -87,7 +87,7 @@ http://189.14.239.62:1935/webtv/livestream1/chunklist_w1853358201.m3u8
 #EXTINF:-1 tvg-id="nordestetv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="MÚSICAS", NORDESTE TV
 https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="seventv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="VARIEDADES", SEVEN TV
+#EXTINF:-1 tvg-id="seventv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/478ee3549258b91ed79f142a3b8ddaa5.webp" group-title="VARIEDADES", SEVEN TV
 https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 
 #EXTINF:-1 tvg-id="vivawebtv" tvg-logo="https://1.bp.blogspot.com/-fyaxU5RL4f0/XbJFyWknp4I/AAAAAAAACME/4r9Ukgaw9gwdIDAbc5qykuIPaUWtM5HZgCLcBGAsYHQ/s320/Screenshot_2019-10-24-21-43-30.png" group-title="VARIEDADES", VIVA WEB TV
