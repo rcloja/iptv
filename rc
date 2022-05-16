@@ -76,7 +76,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9e
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w1923658152_b2596000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="skynewsingles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png" group-title="JORNALISMO", SKY NEWS INTERNACIONAL
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1652753845/ei/VLGCYv2PN9PfwASkyLK4Cw/ip/2804%3Ad51%3A4425%3Aec00%3A98a2%3A2603%3A6a36%3Ae156/id/9Auq9mYxFEE.3/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/br/hightc/yes/spc/4ocVC67f7OOXgG8b-GTS-232oHAYKiPcyWW6yl7SZw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOQjIv7uVsiq0qBrIJBGVLFwd8CWNznFoOaiettVYDfUCIQCQ3gfxIGFoO1aKUkF916l2UV780gkJMef3ZLyGncY3jA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="mundotv" tvg-logo="http://www.redemundotv.com.br/tv/assets/images/logo-rede-mundo-tv3-754x424.png" group-title="JORNALISMO", REDE MUNDO TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1636404133.m3u8
@@ -583,7 +583,7 @@ https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chun
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp" group-title="ABERTOS", SBT RS
-https://www.youtube.com/c/sbtrs/live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1652754360/ei/WLOCYrL_FYiIxQSWwYtY/ip/2804%3Ad51%3A4425%3Aec00%3A98a2%3A2603%3A6a36%3Ae156/id/xx_XRjvEZVE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/br/hightc/yes/spc/4ocVC2zd-iSrWRcr8h-H7uOUy3dU0NoDKEK01gCfYQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMmqK1iy4qHGHeD_UN5qVOC3SRlkcxhaSShiGVoun2XLAiB51xSIXZC4wpcHmG1z43dkfUnfS4Rgt3ynoTXA8PfH5A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2d312151d9e78ff54528d3fbe3659ac4.webp" group-title="FILMES", TV WA
 https://cdn.jmvstream.com/w/LVW-9892/ngrp:LVW9892_PCIeyMXAKy_all/chunklist_b1596000.m3u8
@@ -810,7 +810,7 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/276398
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276519
 
 #EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA HD" tvg-logo="https://lh3.googleusercontent.com/-MyzIIOVq8hM/YB7q2n_7QJI/AAAAAAAAKC4/gAkKhUrbEf0Rnbi9PtEbOZjN6rVRjaMNQCLcBGAsYHQ/CANCAO%2BNOVA.png" group-title="RELIGIOSOS",CANÇÃO NOVA
-https://www.youtube.com/user/tvcancaonova/live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1652754521/ei/-bOCYrToKpOiobIP8LGQ-A0/ip/2804%3Ad51%3A4425%3Aec00%3A98a2%3A2603%3A6a36%3Ae156/id/iLM3CESO2-A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVCxLv-KzjIepi2JNs5nYh8sp6oY-6z9VS-hS5Cg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMNrEripLr_5odCq1NXzAOcPiYAr2Equ1Oz5MclcOZpwCIE7wVOSPn85CvHExURH2eU3ueDNVSK_nu1ZS9056lolg/file/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="INFANTIS",CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
@@ -825,7 +825,7 @@ https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="JORNALISMO",CNN BRASIL
-https://www.youtube.com/c/CNNbrasil/live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1652754811/ei/G7WCYvCHLJWQobIP1cO-qA0/ip/2804%3Ad51%3A4425%3Aec00%3A98a2%3A2603%3A6a36%3Ae156/id/bPKshpE2a4Y.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVCwez81gfdJB-X1mdXd1bAY4alMztjvHSR8m-Vw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSSOw2MYRLmMvd_SZwl_d9pjE7mefpxSpb_OZAxFTzxcCIQDjOT6iNebp5E92yQxoPMXWW-ZYKw2F6bj0AnjdjidczA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="VARIEDADES",FUTURA
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/290676
@@ -837,7 +837,7 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/127037
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108163
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="JORNALISMO",RECORD NEWS
-https://www.youtube.com/watch?v=OxMAupCG1SI
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1652756137/ei/SbqCYoO1CZmwxwTsmpWgCg/ip/2804%3Ad51%3A4425%3Aec00%3Af542%3Acde0%3A5db0%3Ac187/id/OxMAupCG1SI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVCznNCyUCMTzRIn52uTU4_rf8hnavB6ATT8YbZA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMvy0rauliWUvFZd8nF3vY5hEEiP-J3CCaXCCw94WE3CAiEA8fuPcF9Ll2dmh46otvmJzQfM6MHu8-_hV4yMM36LUsM%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="rede.21.br" tvg-name="REDE 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/1200px-Rede_21_logo.svg.png" group-title="RELIGIOSOS",REDE 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b978000.m3u8
@@ -911,10 +911,10 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="RELIGIOSOS", IURD TV
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="TV PAI ETERNO HD" tvg-logo="https://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="RELIGIOSOS",TV PAI ETERNO
+#EXTINF:-1 tvg-id="TV PAI ETERNO" tvg-name="TV PAI ETERNO" tvg-logo="https://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="RELIGIOSOS",TV PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w844685157.m3u8
 
-#EXTINF:-1 tvg-id="HOPECHANNEL" tvg-name="HOPECHANNEL" tvg-logo="https://cdn.shopify.com/s/files/1/0296/8269/t/3/assets/logo-retina.png?v=14759648562711648401" group-title="RELIGIOSOS", HOPE CHANNEL
+#EXTINF:-1 tvg-id="HOPE CHANNEL" tvg-name="HOPECHANNEL" tvg-logo="https://cdn.shopify.com/s/files/1/0296/8269/t/3/assets/logo-retina.png?v=14759648562711648401" group-title="RELIGIOSOS", HOPE CHANNEL
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b4192000.m3u8
 
 #EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="NUEVO TIEMPO" tvg-logo="https://aws-noticias-es.s3.amazonaws.com/2014/11/logotipont.jpg" group-title="RELIGIOSOS",NUEVO TIEMPO
