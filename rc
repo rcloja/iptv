@@ -1,6 +1,6 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
-#EXTINF:-1 tvg-id="CANAL TESTE YOUTUBE" https://i.ytimg.com/vi/TViVABS5K3A/maxresdefault.jpg" group-title="ROBSON FELIPE", CANAL TESTE
+#EXTINF:-1 tvg-id="CANAL TESTE YOUTUBE"  tvg-logo="https://i.ytimg.com/vi/TViVABS5K3A/maxresdefault.jpg" group-title="ROBSON FELIPE", CANAL TESTE
 https://m.youtube.com/c/CNNbrasil/live
 
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://i.imgur.com/oAarMpL.png" group-title="CURIOSIDADES", NATUREZA
