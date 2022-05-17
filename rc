@@ -9,6 +9,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da
 #EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="https://i.imgur.com/gHOnUfn.png" group-title="CURIOSIDADES", LOVE NATURE - INGLÊS
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.publicitarioscriativos.com/wp-content/uploads/2018/10/animal-planet-ganha-nova-identidade-visual.png" group-title="CURIOSIDADES", ANIMAL PLANET SELECT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=B_zGpi5_U-c&list=PL0kBNbs2h4Gm8al_2-JanyYlB-T6XNk7_
+
 #EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="VARIEDADES", PARAMOUNT+
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
