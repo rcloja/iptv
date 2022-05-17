@@ -1,8 +1,5 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
-#EXTINF:-1 tvg-id="CANAL TESTE YOUTUBE"  tvg-logo="https://i.ytimg.com/vi/TViVABS5K3A/maxresdefault.jpg" group-title="ROBSON FELIPE", CANAL TESTE
-<iframe width="560" height="315" src="https://www.youtube.com/c/CNNbrasil/live" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://i.imgur.com/oAarMpL.png" group-title="CURIOSIDADES", NATUREZA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -840,7 +837,7 @@ http://man.syscdn.ml:8080/Rogerio24/36868899fg/127037
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/108163
 
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="JORNALISMO",RECORD NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1652756137/ei/SbqCYoO1CZmwxwTsmpWgCg/ip/2804%3Ad51%3A4425%3Aec00%3Af542%3Acde0%3A5db0%3Ac187/id/OxMAupCG1SI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/spc/4ocVCznNCyUCMTzRIn52uTU4_rf8hnavB6ATT8YbZA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMvy0rauliWUvFZd8nF3vY5hEEiP-J3CCaXCCw94WE3CAiEA8fuPcF9Ll2dmh46otvmJzQfM6MHu8-_hV4yMM36LUsM%3D/file/index.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="rede.21.br" tvg-name="REDE 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/1200px-Rede_21_logo.svg.png" group-title="RELIGIOSOS",REDE 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b978000.m3u8
