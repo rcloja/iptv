@@ -225,6 +225,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 #EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="INFANTIS", O REINO INFANTIL 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/01/screen-shot-2020-01-30-at-18-41-49.jpg" group-title="INFANTIS", PICA PAU
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564050
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5HC6wy.png" group-title="CURIOSIDADES", VIAJANDO PELO BRASIL
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
@@ -834,9 +837,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/tv
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="INFANTIS",CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/vr0sPsaHSKIDyWCIZt9AKtemHwWnS27Ple8aP2CzZ_OC4uW1mJAm4dJK5Anbcpid9-F12Bi-=s900-c-k-c0x00ffffff-no-rj" group-title="INFANTIS", ANITV
-https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXKbqcm.png" group-title="INFANTIS", STRIKERVERSO
 https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 
@@ -865,7 +865,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461824
 
 #EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="RELIGIOSOS", RIT TV 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RITTVOficial/live
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461850
 
 #EXTINF:-1 tvg-id="" tvg-name="Rádio The Goog Life Radi - 102.3 FM" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRolK5uaMIsmYQV2cHzxxC8qSCH5aQ18O3_PMJHwQ=s88-c-k-c0x00ffffff-no-rj" group-title="RÁDIOS", RÁDIO THE GOOD LIFE RADI
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=36YnV9STBqc
