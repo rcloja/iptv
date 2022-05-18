@@ -815,9 +815,6 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="VARIEDADES", TV VERDES CAMPOS
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/BABYTV.png" group-title="INFANTIS",BABY TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=youtube.com/watch?v=aDxZbiQA0fo&list=PLhXCXmrHcR51DXKUYpfEpyvtH5V4Qgpt5
-
 
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="JORNALISMO",BAND NEWS
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462197
@@ -868,7 +865,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461824
 
 #EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="RELIGIOSOS", RIT TV 
-https://www.youtube.com/c/RITTVOficial/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RITTVOficial/live
 
 #EXTINF:-1 tvg-id="" tvg-name="Rádio The Goog Life Radi - 102.3 FM" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRolK5uaMIsmYQV2cHzxxC8qSCH5aQ18O3_PMJHwQ=s88-c-k-c0x00ffffff-no-rj" group-title="RÁDIOS", RÁDIO THE GOOD LIFE RADI
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=36YnV9STBqc
