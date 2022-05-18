@@ -783,8 +783,8 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 #EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS FHD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="ABERTOS",RECORD RS
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276512
 
-#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RJ FHD (H265)" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="ABERTOS",GLOBO RJ 
-http://man.syscdn.ml:8080/Rogerio24/36868899fg/290643
+#EXTINF:-1 tvg-id="globo.rs.br" tvg-name="GLOBO RS" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="ABERTOS", RBS PORTO ALEGRE (AFILIADA GLOBO)
+http:\\cdn.cteam.me:80\527681\996238\1368390.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="ABERTOS",GLOBO RBS PORTO ALEGRE
 http://man.syscdn.ml:8080/Rogerio24/36868899fg/276654
