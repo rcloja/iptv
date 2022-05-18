@@ -816,7 +816,7 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/BABYTV.png" group-title="INFANTIS",BABY TV
-https://www.youtube.com/watch?v=aDxZbiQA0fo&list=PLhXCXmrHcR51DXKUYpfEpyvtH5V4Qgpt5
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=aDxZbiQA0fo&list=PLhXCXmrHcR51DXKUYpfEpyvtH5V4Qgpt5
 
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="JORNALISMO",BAND NEWS
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462197
