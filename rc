@@ -66,6 +66,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="RÁDIOS", BANDNEWS FM YT
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
 
+#EXTINF:-1 tvg-logo="https://static3.tcdn.com.br/img/img_prod/460977/teste_100485_1_cbc226c7d23a19c784fb4752ffe61337.png" group-title="CANAL TESTE", TESTE YOUTUBE
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=M-EIQlCRo44.m3u8
+
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LNtEEZK.png" group-title="RELIGIOSOS",TV GIDEÕES
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 
@@ -639,7 +642,7 @@ https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/chunklist_w450074
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="VARIEDADES", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w963992542.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ngt.png" group-title="VARIEDADES", COTIDIANO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg" group-title="VARIEDADES", TV JORNAL
 https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png" group-title="VARIEDADES", TV DESTAK 
@@ -662,9 +665,6 @@ https://video01.kshost.com.br:4443/tiago4725/tiago4725/chunklist_w1670973484.m3u
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CcJepf6TqUb-8PlLPXVtkkgEQ_Byj8KBP-WjQafn_-AakRRwktE57OqBx3JN9t1EnogNLLwJ-Q=s900-c-k-c0x00ffffff-no-rj" group-title="VARIEDADES", TV OSASCO
 https://596639ebdd89b.streamlock.net/8074/8074/chunklist_w163346537.m3u8
-
-#EXTINF:-1 tvg-logo="https://cariritv.com.br/uploads/logo/logo_608c10f81b1fe.png" group-title="JORNALISMO", CARIRI TV
-https://video01.logicahost.com.br:4443/cariritv/cariritv/chunklist_w934769115.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fpoa11-2.fna.fbcdn.net/v/t1.6435-9/101944966_3534744549888004_7020608302874624000_n.png?stp=dst-png_p960x960&_nc_cat=1&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeHX7Oaea66A-lwVy5hCLxzKGzTA0DJdU5gbNMDQMl1TmG3nfgpnV3hI_1POzB5i57v5ypLatANrns7pC7h3cfdZ&_nc_ohc=oLfFIwsgS-MAX_PQ9BH&_nc_ht=scontent.fpoa11-2.fna&oh=00_AT_zIAYiZfzf0h7mG8hQDvghNWB1f4PZK4BJPw_Wyr6JjQ&oe=62A7861B" group-title="ABERTOS", TV CATVE 
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1988979924.m3u8
@@ -752,7 +752,7 @@ https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc4f4fddc2330b377037d229aee44942.webp", PEGADINHAS  
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s1600/logo_blog_azul.png", PEGADINHAS  
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 
 #EXTINF:-1 tvg-id="globo.rs.br" tvg-name="GLOBO RS" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="ABERTOS", RBS PORTO ALEGRE (AFILIADA GLOBO)
@@ -829,7 +829,7 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461850
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=36YnV9STBqc
 
 #EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi RJ - 96.5 FM" tvg-logo="https://img.radios.com.br/radio/md/radio14215_1562877228.jpg" group-title="RÁDIOS", SUPER RÁDIO TUPI
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/R%C3%A1dioTupiRio/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioTupiRio/live
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png" group-title="RELIGIOSOS", REDE SÉCULO 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
@@ -849,7 +849,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="ABERTOS",TV BRASIL
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461837
 
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL SD" tvg-logo="https://scontent.fpoa11-2.fna.fbcdn.net/v/t1.6435-9/51092630_2325085120848574_4724076211528007680_n.png?_nc_cat=103&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeGcHhmq9CPV--8mLybJH0TPDYkGUBNih9MNiQZQE2KH09Z85EuwSM4lb6NBfJ7OOsSoVPwF4Dm-eporItNbLsVr&_nc_ohc=ltFnrLNmV_4AX9VZf0l&_nc_ht=scontent.fpoa11-2.fna&oh=00_AT8Z7RcVQyp75liVgc9TOmcpezY5UcwYuLG17XMXag2YxA&oe=62A8437F" group-title="ABERTOS", REDE BRASIL 
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL SD" tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o-696x570.png" group-title="ABERTOS", REDE BRASIL 
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w13954468.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="VARIEDADES", REDE UTV
