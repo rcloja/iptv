@@ -175,7 +175,7 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1
 http://189.14.239.62:1935/webtv/livestream1/chunklist_w1853358201.m3u8
 
 #EXTINF:-1 tvg-id="nordestetv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="TESTE", TESTE
-http://free.fullspeed.tv/iptv-query?streaming-ip=youtube.com/watch?v=euQrskSt1eY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=5exP7JNdIZU
 
 #EXTINF:-1 tvg-id="seventv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/478ee3549258b91ed79f142a3b8ddaa5.webp" group-title="VARIEDADES", SEVEN TV
 https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
