@@ -926,3 +926,357 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="ABERTOS", REDE TV! TV PANTANAL (MT)
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+####################################### NOVELAS ###########################################################
+
+#EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="NOVELAS", NOVELISSIMA
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/98VBTkT.png" group-title="NOVELAS", SONY NOVELAS
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="NOVELAS", TELEVISA
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/v5PHoNr.png" group-title="NOVELAS", BBC DRAMA
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS",CANELA TELENOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgnS8fG.png" group-title="NOVELAS", RCN NOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1111
+
+
+
+####################################### SOUL TV ###########################################################
+
+
+#EXTINF:1 group-title="SOUL TV" ,SOUL TV
+https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,U MISS
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV CONQUISTA - RECORD TV
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV R
+https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,ZINZANE
+https://livefocamundo.com:8081/zinzane/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV A7
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,GLN TV
+https://srv2.zcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,CLC TV
+http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 group-title="SOUL TV", FANDOM TV
+http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 group-title="SOUL TV", QUEENS UNITED TV
+https://cdn.connectbr.com.br/Queens/video.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Blast Channel TV
+https://video01.logicahost.com.br/blast/blast/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Ponta da Serra
+https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,RS NEWS
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" , IMPERIAL TV
+https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,RSC TV
+http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,CENTRAL TV
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,SOUL CINE CLUBE
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,ELEMENTAL CHANNEL
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV GRANDE NATAL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV ACE
+https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,URBAN TV
+https://5ad482a77183d.streamlock.net/portaldailhagmail.com/portaldailhagmail.com/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,REDE NOVA TV
+https://5d2c98775bafe.streamlock.net/8058/8058/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,REDE CAXIAS TV
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,LIFE CHANNEL BRASIL
+https://hls.brasilstream.com.br/live/lifechannel/lifechannel/index.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV ESTILO
+https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" , SOL BRASIL
+https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV SANDEGI
+https://video01.kshost.com.br:4443/antonio9510/antonio9510/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,PORTUGALTV
+https://livefocamundo.com:8081/tvmaxrio/index.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,REDE TVC BRASIL
+https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,WTJ TV 
+https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,BLITS TV
+https://helga.iptv2022.com/BLITS_TV/index.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,REDE UTV Brasil
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Planalto Norte
+https://5ad482a77183d.streamlock.net/flaviagm1hotmail.com/flaviagm1hotmail.com/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Alternativa
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Yeeaah TV
+https://helga.iptv2022.com/Yeeaah_TV/index.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,GeG TV
+https://5c483b9d1019c.streamlock.net/8064/8064/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV King
+https://stmv1.srvstm.com/pedropaulomendes3413/pedropaulomendes3413/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Nova TV Regional
+http://187.95.95.241:7988/regional/index.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Amazon Sat
+https://hls.brasilstream.com.br/live/amazonsat/amazonsat/index.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV A Folha
+https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Sonata
+https://srv3.zcast.com.br/tiago3839/tiago3839/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Potengi
+https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV CNB
+https://livefocamundo.com:8081/tvcnb/index.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Phoenix TV
+https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Litoral
+https://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Rede Smart
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Mais TV
+https://helga.iptv2022.com/Mias_TV/index.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,ABBA RTV
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Rede SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,JPL TV
+https://streaming.jplproducoes.com.br/JPL1/video.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Nova TV Matopiba
+http://187.95.95.241:7983/matopiba/tracks-v2a1/mono.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Primer TV
+http://177.74.174.57:8080/hls/primertv.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV TeenNet
+https://srv6.zcast.com.br/alxtv/alxtv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Hackathon Brasil TV
+https://video01.kshost.com.br/richard5546/richard5546/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Florida 
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,All Sports TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Sou TV
+https://video01.kshost.com.br/tiago4725/tiago4725/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Milagro Brasil
+https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,VTR Channel
+https://stream.vrtchannel.tv.br:1936/vrtchannel/ngrp:vrtchannel_all/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Mais ABC
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,4 Por 4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Araruna TV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,RAE TV
+https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Channel Network
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Astral TV
+https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,WTV Brasil
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Avivando Nacoes
+https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,MKK TV
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,AWTV
+https://5ad482a77183d.streamlock.net/abraao.farinagmail.com/abraao.farinagmail.com/chunklist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,BCC TV
+https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,EXTREMO Oriental TV
+http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Nordestina
+https://video01.soultv.com.br/tvnordestina/tvnordestina/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Canal Rural
+https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Nova TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Onda Digital TV
+https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,BH TV
+http://206.217.202.3:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Asian TV
+https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Canal Andreia Grezzana
+https://video01.soultv.com.br/andreiagrezzana/andreiagrezzana/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Barcellos
+https://video01.soultv.com.br/barcellos/barcellos/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Noticias Agricolas
+https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,DODA Equestrian TV
+https://video01.soultv.com.br/doda/doda/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Papo
+https://video01.soultv.com.br/juventude/juventude/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,POP Bola
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Bia Kicis
+https://video01.soultv.com.br/biakicis/biakicis/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,BWE
+https://video01.soultv.com.br/bwe/bwe/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Lito Cavalcanti
+https://video01.soultv.com.br/litocavalcanti/litocavalcanti/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Viajando pelo Brasil
+https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Sport Club Internacional
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Bem Melhor
+https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Inova360
+https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,e-Feito na China
+https://video01.soultv.com.br/efeitonachina/efeitonachina/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,IFun TV
+https://video01.soultv.com.br/ifun/ifun/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Fever Pitch Sport
+https://video01.soultv.com.br/feverpitchsports/feverpitchsports/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,The Market Guide
+https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Paulo Zorello Kickboxing
+https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Fernanda Barth
+https://video01.soultv.com.br/diretoaoponto/diretoaoponto/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Canal Marcao do Povo
+https://video01.soultv.com.br/marcaodopovo/marcaodopovo/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Universidade da Pessoa
+https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Avanca Brasil
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Feliz 7 Play
+https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,XR Health
+https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,TV Sol (Bonus)
+http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,OX TV (Bonus)
+https://cdn2.connectbr.com.br/oxtv/video.m3u8
+
+#EXTINF:1 group-title="SOUL TV" ,Canal Teste
+https://video01.soultv.com.br/canalteste/canalteste/playlist.m3u8
+
+############################### 
