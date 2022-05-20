@@ -348,7 +348,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="http://milionariohomeoffice.com.br/img/naruto.png" group-title="INFANTIS", NARUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/osjetsons" group-title="INFANTIS", OS JETSONS
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/osjetsons.png" group-title="INFANTIS", OS JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rakuten.png" group-title="INFANTIS", RAKUTEN FAMÍLIA
@@ -378,7 +378,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf0007
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/hogan.png" group-title="HUMOR", HOGAN´S HEROES
 https://stmv1.srvif.com/tvserie5/tvserie5/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="http://milionariohomeoffice.com.br/img/juannie.png" group-title="HUMOR", JEANNIE É UM GÊNIO
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="http://milionariohomeoffice.com.br/img/jeannie.png" group-title="HUMOR", JEANNIE É UM GÊNIO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="http://milionariohomeoffice.com.br/img/portadosfundos.png" group-title="HUMOR", PORTA DOS FUNDOS
