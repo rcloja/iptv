@@ -1170,3 +1170,5 @@ https://cdn2.connectbr.com.br/oxtv/video.m3u8
 #EXTINF:1 group-title="VARIEDADES" ,PONTV
 https://video01.soultv.com.br/canalteste/canalteste/playlist.m3u8
 
+#EXTINF:-1 tvg-id="alphafm" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51N7cc0DRLL.png" group-title="RÁDIOS", ALPHA FM
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoYJ-ys7cQl0RhVT6kB1TOQ_xTEWFDBdfNXt8QrrUVnn)/dm/3/x82yivf/s/live-4.m3u8#cell=lnyc
