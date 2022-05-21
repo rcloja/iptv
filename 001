@@ -1,5 +1,17 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461392
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | ESPORTES",SPORTV FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461424
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461400
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461398
+
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="http://milionariohomeoffice.com.br/img/natureza.png" group-title="CURIOSIDADES", NATUREZA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -1265,8 +1277,6 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461791
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461774
 #EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND SP SD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="CANAIS | BAND",BAND SP SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461777
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461392
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD (H265)
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461393
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
@@ -1359,8 +1369,6 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462192
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461396
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE FHD (H265)
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461397
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE HD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461398
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="CANAIS | ESPORTES",COMBATE SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461399
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/COMEDY.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
@@ -1523,8 +1531,6 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461417
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461418
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="CANAIS | ESPORTES",ESPN EXTRA SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461419
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN FHD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461400
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN FHD (H265)
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461401
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="CANAIS | ESPORTES",ESPN HD
@@ -2383,14 +2389,12 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461430
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461431
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://www.desktop.com.br/wp-content/uploads/2022/03/SporTV-3.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461432
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD (H265)
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD (H265)
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461433
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461434
 #EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461435
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | ESPORTES",SPORTV FHD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461424
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD (H265)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | ESPORTES",SPORTV FHD (H265)
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461425
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="CANAIS | ESPORTES",SPORTV HD
@@ -2533,7 +2537,7 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461391
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461830
 #EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="CANAIS | VARIEDADES",TLC FHD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461975
-#EXTINF:-1 tvg-id="" tvg-name="TLC FHD (H265)" tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="CANAIS | VARIEDADES",TLC FHD (H265)
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD (H265)" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="CANAIS | VARIEDADES",TLC FHD (H265)
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461957
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="CANAIS | VARIEDADES",TLC HD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461974
@@ -2581,19 +2585,17 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461836
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461838
 #EXTINF:-1 tvg-id="" tvg-name="TV CAMARA SD" tvg-logo="https://lh3.googleusercontent.com/-GAijnROUhNU/YB1HohJOn-I/AAAAAAAAJ5w/Tdh_j1l8Qf47lzGGEwWZHUjLnsv55nBggCLcBGAsYHQ/TV%2BCamara.png" group-title="CANAIS | ABERTOS",TV CAMARA SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461822
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE - TERESOPOLIS HD" tvg-logo="https://www.tvcidadecanal9.com/images/g919.png" group-title="CANAIS | ABERTOS",TV CIDADE - TERESOPOLIS HD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461839
 #EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="CANAIS | ABERTOS",TV CULTURA HD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461840
 #EXTINF:-1 tvg-id="" tvg-name="TV CULTURA SD" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="CANAIS | ABERTOS",TV CULTURA SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461821
 #EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA SD" tvg-logo="https://lh3.googleusercontent.com/-xOI5FufxfH8/YB1IRzNl5oI/AAAAAAAAJ54/mWWxP_wtcQAnljLKuoTyUjyeY1TV_zrvQCLcBGAsYHQ/Tv%2BEscola.png" group-title="CANAIS | ABERTOS",TV ESCOLA SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461828
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGILIZAR FHD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGILIZAR FHD
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR FHD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR FHD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461860
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGILIZAR HD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGILIZAR HD
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR HD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR HD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461861
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGILIZAR SD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGILIZAR SD
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://lh3.googleusercontent.com/-heaDxFLkgnM/YB7ua_QVHWI/AAAAAAAAKDY/QCq61JtiTuU-FZaO6nWibZwNeqFwpL8-QCLcBGAsYHQ/TV%2BEVANGELIZAR.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461848
 #EXTINF:-1 tvg-id="Tvgazetaalagoas.br" tvg-name="TV GAZETA SP FHD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="CANAIS | ABERTOS",TV GAZETA SP FHD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461841
