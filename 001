@@ -15,9 +15,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="http://milionariohomeoffice.com.br/img/band.png" group-title="ABERTOS", BAND
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redetvtocantins.png" group-title="ABERTOS", REDETV TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
@@ -108,10 +105,7 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 #EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-logo="http://milionariohomeoffice.com.br/img/turbo.png" group-title="ESPORTES",TURBO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bmec.png" group-title="JORNALISMO",BM&C NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/BMCNEWStv/live
-
-#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="http://milionariohomeoffice.com.br/img/arnold.png" group-title="HUMOR", ARNOLD - DIFF'RENT STROKES
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="https://stroke.wales/wp-content/uploads/2018/01/different-strokes-logo.jpg" group-title="HUMOR", ARNOLD - DIFF'RENT STROKES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://milionariohomeoffice.com.br/img/bet.png" group-title="HUMOR",BET
@@ -390,7 +384,7 @@ https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/chunklist_3655158e-
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/antena1.png" group-title="RÁDIOS", RÁDIO ANTENA1 FM
 https://antenaone.crossradio.com.br/stream
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/98fm.png" group-title="RÁDIOS",98 FM 
+#EXTINF:-1 tvg-logo="https://98live.com.br/share.png" group-title="RÁDIOS",98 FM 
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
 
 #EXTINF:-1 tvg-id="Cbn.br" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="RÁDIOS",RÁDIO CBN 
@@ -413,9 +407,6 @@ https://596639ebdd89b.streamlock.net/8032/8032/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="VARIEDADES", DEMAND AFRICA
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NoZ1YpZ.png" group-title="VARIEDADES",ITV 
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" tvg-shift="0" group-title="VARIEDADES", PRIMER TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
@@ -506,9 +497,6 @@ https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc4f4fddc2330b377037d229aee44942.webp" group-title="RELIGIOSOS", TV CONFIEGO
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w366353926.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="VARIEDADES", WEB TV CINE
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w419468724.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="INFANTIS", TV LOADING
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1440029724.m3u8
