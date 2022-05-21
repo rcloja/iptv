@@ -1,0 +1,3189 @@
+#EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="http://milionariohomeoffice.com.br/img/natureza.png" group-title="CURIOSIDADES", NATUREZA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="http://milionariohomeoffice.com.br/img/jovempan.png" group-title="VARIEDADES", TV JOVEM PAN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD" tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS", RECORD
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1274700638.m3u8
+
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="JORNALISMO",RECORD NEWS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT 
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="http://milionariohomeoffice.com.br/img/band.png" group-title="ABERTOS", BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redetvtocantins.png" group-title="ABERTOS", REDETV TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVE.br" tvg-logo="http://milionariohomeoffice.com.br/img/tve.png" group-title="ABERTOS", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="http://milionariohomeoffice.com.br/img/euronews.png" group-title="JORNALISMO", EURONEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tg.png" group-title="INFANTIS",TOON GOOGLES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cindie.png" group-title="FILMES",CINDIE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/runtime.png" group-title="FILMES", RUNTIME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/runtimeacao.png" group-title="FILMES", RUNTIME AÇÃO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/runtimehumor.png" group-title="FILMES", RUNTIME HUMOR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS HD" tvg-logo="http://milionariohomeoffice.com.br/img/agro.png" group-title="AGRONEGÓCIO",AGROMAIS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461842
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/terraviva.png" group-title="AGRONEGÓCIO", TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/canalrural.png" group-title="AGRONEGÓCIO", CANAL RURAL
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60dd6b1da79e4d0007309455" tvg-logo="http://milionariohomeoffice.com.br/img/lovenature.png" group-title="CURIOSIDADES", LOVE NATURE ESPANHOL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="ESBA22000102A" tvg-logo="http://milionariohomeoffice.com.br/img/lovenature.png" group-title="CURIOSIDADES", LOVE NATURE INGLÊS
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60072798dcf437000755b4f3" tvg-logo="http://milionariohomeoffice.com.br/img/paramountmais.png" group-title="VARIEDADES", PARAMOUNT+ APRESENTA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://milionariohomeoffice.com.br/img/babyfirst.png" group-title="INFANTIS", BABYFIRST
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bandnewsfm.png" group-title="RÁDIOS", BANDNEWS FM YT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
+
+#EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/gideoes.png" group-title="RELIGIOSOS",TV GIDEÕES
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="http://milionariohomeoffice.com.br/img/maoamiga.png" group-title="RELIGIOSOS",TV MÃO AMIGA
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvt.png" group-title="VARIEDADES", REDE TVT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/redetvt
+
+#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/tvmackenzie.png" group-title="VARIEDADES",TV MACKENZIE
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/unitv.png" group-title="CURIOSIDADES",UNI TV PORTO ALEGRE
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/xr.png" group-title="CURIOSIDADES", XR HEALTH
+http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="605cc4de7ff3c50007be0f65" tvg-logo="http://milionariohomeoffice.com.br/img/geek.png" group-title="ESPORTES",GEEK E TECH
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="http://milionariohomeoffice.com.br/img/mtv.png" group-title="VARIEDADES",MTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f6108d8cc331900075e98e4" tvg-logo="http://milionariohomeoffice.com.br/img/mtvareyoutheone.png" group-title="VARIEDADES",MTV ARE YOUT THE ONE?
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61a528267e1b8b0007357920" tvg-logo="http://milionariohomeoffice.com.br/img/mtvex.png" group-title="VARIEDADES", MTV COM O EX
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-logo="http://milionariohomeoffice.com.br/img/younger.png" group-title="HUMOR", YOUNGER
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="http://milionariohomeoffice.com.br/img/prontosocorro.png" group-title="CURIOSIDADES", PRONTO SOCORRO - HISTÓRIAS MÉDICAS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="SESCTV.br"  tvg-logo="http://milionariohomeoffice.com.br/img/sesctv.png" group-title="VARIEDADES", SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
+
+#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-logo="http://milionariohomeoffice.com.br/img/turbo.png" group-title="ESPORTES",TURBO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bmec.png" group-title="JORNALISMO",BM&C NEWS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/BMCNEWStv/live
+
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="http://milionariohomeoffice.com.br/img/arnold.png" group-title="HUMOR", ARNOLD - DIFF'RENT STROKES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://milionariohomeoffice.com.br/img/bet.png" group-title="HUMOR",BET
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-logo="http://milionariohomeoffice.com.br/img/icarly.png" group-title="INFANTIS", ICARLY
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="http://milionariohomeoffice.com.br/img/comedia.png" group-title="HUMOR", COMÉDIA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-logo="http://milionariohomeoffice.com.br/img/kenanekel.png" group-title="HUMOR", KENAN E KEL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="http://milionariohomeoffice.com.br/img/laotracara.png" group-title="HUMOR",LA OTRA CARA DEL ALMA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f515d080e738d000739e19c" tvg-logo="http://milionariohomeoffice.com.br/img/peopleareawesome.png" group-title="HUMOR", PEOPLE ARE AWESOME
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="http://milionariohomeoffice.com.br/img/retro.png" group-title="HUMOR", RETRÔ
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="620aca7a4d8ea4000778338a" tvg-logo="http://milionariohomeoffice.com.br/img/creek.png" group-title="HUMOR",SCHITT'S CREEK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f121262a189a800076b9386" tvg-logo="http://milionariohomeoffice.com.br/img/series.png" group-title="FILMES", SÉRIES (PLUTO BR)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="http://milionariohomeoffice.com.br/img/southpark.png" group-title="HUMOR", SOUTH PARK 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f515ebac01c0f00080e8439" tvg-logo="http://milionariohomeoffice.com.br/img/thepetcollective.png" group-title="HUMOR", THE PET COLLECTIVE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bcc.png" group-title="VARIEDADES", BCC TV
+https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
+
+#EXTINF:-1 tvg-id="demaistv.br" tvg-logo="http://milionariohomeoffice.com.br/img/dmaistv.png" group-title="VARIEDADES", D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-logo="http://milionariohomeoffice.com.br/img/documentarios.png" group-title="CURIOSIDADES", DOCUMENTÁRIOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="http://milionariohomeoffice.com.br/img/oencantadordecaes.png" group-title="CURIOSIDADES", O ENCANTADOR DE CÃES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="http://milionariohomeoffice.com.br/img/vidareal.png" group-title="CURIOSIDADES", VIDA REAL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="canaldocriador" tvg-logo="http://milionariohomeoffice.com.br/img/canaldocriador.png" group-title="AGRONEGÓCIO", CANAL DO CRIADOR
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w1923658152_b2596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="skynewsingles" tvg-logo="http://milionariohomeoffice.com.br/img/skynews.png" group-title="JORNALISMO", SKY NEWS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SkyNews/live
+
+#EXTINF:-1 tvg-id="mundotv" tvg-logo="http://milionariohomeoffice.com.br/img/redemundotv.png" group-title="JORNALISMO", REDE MUNDO TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1636404133.m3u8
+
+#EXTINF:-1 tvg-id="conectamaistv" tvg-logo="http://milionariohomeoffice.com.br/img/conectamaisweb.png" group-title="VARIEDADES", CONECTA MAIS TV
+http://189.14.239.62:1935/webtv/livestream1/chunklist_w1853358201.m3u8
+
+#EXTINF:-1 tvg-id="seventv" tvg-logo="http://milionariohomeoffice.com.br/img/seventv.png" group-title="VARIEDADES", SEVEN TV
+https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+
+#EXTINF:-1 tvg-id="vivawebtv" tvg-logo="http://milionariohomeoffice.com.br/img/vivaweb.png" group-title="VARIEDADES", VIVA WEB TV
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3u8
+
+#EXTINF:-1 tvg-id="odia" tvg-logo="http://milionariohomeoffice.com.br/img/tvodia.png" group-title="VARIEDADES", TV O DIA REDE TV
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w591356671.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aplus.png" group-title="VARIEDADES", APLUS TV
+https://stmv1.voxtvhd.com.br/aplustv/aplustv/chunklist_w1545562427.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvc.png" group-title="VARIEDADES", TVC 16
+https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvcapital.png" group-title="VARIEDADES", TV CAPITAL TERESINA
+https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w1840936183.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rtl.png" group-title="MÚSICAS", RTL CLASSICS
+https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/chunklist_w1520620066.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rbc.png" group-title="VARIEDADES", TV RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w1365170441.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/qtalchannel.png" group-title="VARIEDADES", CANAL QTAL - REDE QDM
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w1823759840.m3u8
+
+#EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-logo="http://milionariohomeoffice.com.br/img/junior.png" group-title="INFANTIS", JUNIOR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-logo="http://milionariohomeoffice.com.br/img/kids.png" group-title="INFANTIS", KIDS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f12151794c1800007a8ae63" tvg-logo="http://milionariohomeoffice.com.br/img/nick.png" group-title="INFANTIS", NICK CLASSICO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="http://milionariohomeoffice.com.br/img/nickjr.png" group-title="INFANTIS", NICK JR CLUB
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="http://milionariohomeoffice.com.br/img/nickteen.png" group-title="INFANTIS", NICKTEEN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61f2c6969fcc3800076ef8af" tvg-logo="http://milionariohomeoffice.com.br/img/osanjinhos.png" group-title="INFANTIS",OS ANJINHOS - RUGRATS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="http://milionariohomeoffice.com.br/img/turmadamonica.png" group-title="INFANTIS", TURMA DA MÔNICA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-logo="http://milionariohomeoffice.com.br/img/oreinoinfantil.png" group-title="INFANTIS", O REINO INFANTIL 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/picapau.png" group-title="INFANTIS", PICA PAU
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564050
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/viajandopelobrasil.png" group-title="CURIOSIDADES", VIAJANDO PELO BRASIL
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/brazitv.png" group-title="VARIEDADES", BRAZITV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="http://milionariohomeoffice.com.br/img/canal11.png" group-title="VARIEDADES", CANAL 11 PORTUGAL
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="http://milionariohomeoffice.com.br/img/adrenalina.png" group-title="FILMES",ADRENALINA FREEZONE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cineclassico.png" group-title="FILMES", CINE CLÁSSICO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="http://milionariohomeoffice.com.br/img/cinehumor.png" group-title="FILMES",CINE HUMOR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="http://milionariohomeoffice.com.br/img/cinedrama.png" group-title="FILMES",CINE DRAMA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="http://milionariohomeoffice.com.br/img/cinefamilia.png" group-title="FILMES",CINE FAMÍLIA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="http://milionariohomeoffice.com.br/img/cineromance.png" group-title="FILMES",CINE ROMANCE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="http://milionariohomeoffice.com.br/img/cinesucessos.png" group-title="FILMES", CINE SUCESSOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="http://milionariohomeoffice.com.br/img/cineterror.png" group-title="FILMES",CINE TERROR
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="DarkFlix" tvg-logo="http://milionariohomeoffice.com.br/img/darkflix.png" group-title="FILMES", DARKFLIX
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tbo.png" group-title="VARIEDADES", TBO BRASIL OESTE
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="http://milionariohomeoffice.com.br/img/ficcao.png" group-title="FILMES",FICÇÃO CIENTIFÍFICA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="http://milionariohomeoffice.com.br/img/filmesacao.png" group-title="FILMES",FILMES AÇÃO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="http://milionariohomeoffice.com.br/img/filmesnacionais.png" group-title="FILMES",FILMES NACIONAIS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="http://milionariohomeoffice.com.br/img/filmessuspense.png" group-title="FILMES",FILMES SUSPENSE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/mytime.png" group-title="FILMES",MY TIME MOVIE NETWORK
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gospelmovies.png" group-title="RELIGIOSOS",GOSPEL MOVIES
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1321445886.m3u8
+
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="http://milionariohomeoffice.com.br/img/fontetv.png" group-title="RELIGIOSOS",FONTE TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="http://milionariohomeoffice.com.br/img/kuriakos.png" group-title="RELIGIOSOS", KURIAKOS TV 
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/kuriakoskids.png" group-title="INFANTIS", KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="culturapara" tvg-logo="http://milionariohomeoffice.com.br/img/culturadopara.png" group-title="ABERTOS", CULTURA DO PARÁ
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tbc.png" group-title="VARIEDADES", TV BRASIL CENTRAL
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="allsports.br" tvg-logo="http://milionariohomeoffice.com.br/img/allsports.png" group-title="ESPORTES", ALL SPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CGhost.br" tvg-country="BR" tvg-logo="http://milionariohomeoffice.com.br/img/cghost.png" group-title="VARIEDADES", C-GHOST
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f516730b78b7600079294f5" tvg-logo="http://milionariohomeoffice.com.br/img/fashion.png" group-title="VARIEDADES", FASHION STREAM
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-logo="http://milionariohomeoffice.com.br/img/fuel.png" group-title="ESPORTES", FUEL TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6144d088516ea8000739076a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/hollywire.png" group-title="VARIEDADES", HOLLYWIRE
+https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="http://milionariohomeoffice.com.br/img/investigacao.png" group-title="CURIOSIDADES", INVESTIGAÇÃO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="http://milionariohomeoffice.com.br/img/masterchef.png" group-title="VARIEDADES", MASTERCHEF
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="61843f5e491af10007f7eefa" tvg-logo="http://milionariohomeoffice.com.br/img/minhaobsessao.png" group-title="CURIOSIDADES", MINHA OBSESSÃO FAVORITA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/miss.png" group-title="VARIEDADES", MISS UNIVERSO BR
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5fac52f142044f00078e2a51" tvg-logo="http://milionariohomeoffice.com.br/img/misterios.png" group-title="CURIOSIDADES", MISTÉRIOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true 
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/motorvision.png" group-title="ESPORTES", MOTORVISION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+
+#EXTINF:-1 tvg-id="5f9b05a99547eb0007676b02" tvg-logo="http://milionariohomeoffice.com.br/img/nosey.png" group-title="CURIOSIDADES", NOSEY ESCÂNDALOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId= 
+
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="http://milionariohomeoffice.com.br/img/tastemade.png" group-title="VARIEDADES", TASTEMADE
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://milionariohomeoffice.com.br/img/anime.png" group-title="INFANTIS", ANIME
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="animetv.br" tvg-logo="http://milionariohomeoffice.com.br/img/animetv.png" group-title="INFANTIS", ANIMETV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="http://milionariohomeoffice.com.br/img/naruto.png" group-title="INFANTIS", NARUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/osjetsons.png" group-title="INFANTIS", OS JETSONS
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rakuten.png" group-title="INFANTIS", RAKUTEN FAMÍLIA
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="http://milionariohomeoffice.com.br/img/bloomberg.png" group-title="JORNALISMO", BLOOMBERG 
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/novaera.png" group-title="JORNALISMO", NOVA ERA TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sagres.png" group-title="JORNALISMO", SAGRES TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SagresTV/live
+
+#EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="http://milionariohomeoffice.com.br/img/tvalego.png" group-title="JORNALISMO",TV ALEGO
+https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="http://milionariohomeoffice.com.br/img/being.png" group-title="FILMES", BEING MARY JANE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" group-title="HUMOR" tvg-logo="http://milionariohomeoffice.com.br/img/comedy.png", COMEDY CENTRAL 1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="http://milionariohomeoffice.com.br/img/fail.png" group-title="HUMOR", FAILARMY 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/hogan.png" group-title="HUMOR", HOGAN´S HEROES
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="http://milionariohomeoffice.com.br/img/jeannie.png" group-title="HUMOR", JEANNIE É UM GÊNIO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="http://milionariohomeoffice.com.br/img/portadosfundos.png" group-title="HUMOR", PORTA DOS FUNDOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=channel&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gaucha.png" group-title="RÁDIOS", RÁDIO GAÚCHA RS
+https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/chunklist_3655158e-dc43-49a6-821d-9af3944aae34.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/antena1.png" group-title="RÁDIOS", RÁDIO ANTENA1 FM
+https://antenaone.crossradio.com.br/stream
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/98fm.png" group-title="RÁDIOS",98 FM 
+https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
+
+#EXTINF:-1 tvg-id="Cbn.br" tvg-shift="0" tvg-logo="https://m.cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="RÁDIOS",RÁDIO CBN 
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="RÁDIOS", CULTURA DO PARÁ
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L19LnxD.png" group-title="RÁDIOS", RÁDIO SOCIEDADE
+https://radiosociedade-lh.akamaihd.net/i/pp_1@368264/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="AGRONEGÓCIO", AGROBRASIL TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cj6kg2X.png" group-title="VARIEDADES",CBTV NOW
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2020/02/logo_site.png" tvg-shift="0" group-title="JORNALISMO", COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="VARIEDADES", DEMAND AFRICA
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NoZ1YpZ.png" group-title="VARIEDADES",ITV 
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" tvg-shift="0" group-title="VARIEDADES", PRIMER TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hfvzbsC.png" group-title="VARIEDADES", REDE PREMIUM TV
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="ABERTOS",TV PAMPA - REDE TV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="VARIEDADES",TV CARIOCA
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="VARIEDADES", TV DIÁRIO DO SERTÃO
+https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
+
+#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="VARIEDADES",TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvmetropole.br" " tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="VARIEDADES", TV METRÓPOLE
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tvmon.br"  tvg-logo="https://2net.com.br/Repositorio/3106/Logo/ee19d371-e.png"group-title="JORNALISMO", TV MON 
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="VARIEDADES",TV SANTA CECILÍA
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Dsd75b.png" group-title="VARIEDADES",TV UNIÃO BRASÍLIA
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp" group-title="FILMES", TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w2132402810.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40d7d18ac1b8c2e6b87ecf0e3410cad7.webp" group-title="FILMES", TV OSÓRIO NEW
+https://stmv1.srvif.com/classique/classique/chunklist_w281502717.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtl.png" group-title="MÚSICAS", RTL (ITÁLIA)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/radioU.png" group-title="MÚSICAS", RÁDIO U TV
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="MÚSICAS", OCKO STAR
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_top_latino_png_2017_-_500px.png" group-title="MÚSICAS", TOP LATINO TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNT PORTO ALEGRE.br" tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="RELIGIOSOS",CNT PORTO ALEGRE
+https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc7b83a5a19d96b87517b1e95e9b0565.webp" group-title="FILMES", TV CHANNEL1 LIVE
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1940705139.m3u8
+
+#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/classique/imagens/logo_classiquew_site.png" group-title="FILMES", CLASSIQUE TV WETERN
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w696892955.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="VARIEDADES", TV ARACATI
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="FILMES", TV BONS TEMPOS
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w183811379.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/049c98cb65e2cb33606d01d8003f1750.webp" group-title="VARIEDADES", PERU CHANNEL
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/chunklist_w1851846373.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee32135a0ae4307048d3b24d0891738f.webp" group-title="FILMES", TELA VIVA TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1566964103.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canal29.jpg" group-title="VARIEDADES", CANAL 29 
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f24b1cd1064865c050503ea604e4526a.webp" group-title="FILMES", TV J.SID 
+https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/defbef096dfcaadf33b5108f84c4d867.webp" group-title="FILMES", CLASSIQUE TV CULT MOVIES
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w1340472308.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="ABERTOS",TV MACEIÓ 
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmae.png" group-title="VARIEDADES",TV MAR
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="VARIEDADES",TV FAAP
+https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc4f4fddc2330b377037d229aee44942.webp" group-title="RELIGIOSOS", TV CONFIEGO
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w366353926.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="VARIEDADES", WEB TV CINE
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w419468724.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="INFANTIS", TV LOADING
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1440029724.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="VARIEDADES", GLN TV 
+https://alanza.iptv2022.com/GLN_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/937135af086f7ac9580df4a30ffe8a05.webp" group-title="VARIEDADES", TVCEI 
+https://stmv2.samcast.com.br/eduardo7982/eduardo7982/chunklist_w152114165.m3u8
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4172/cabecalho-4172-20190419152834.png" group-title="FILMES", REDE TV SUL
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w434783942.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/140d9093b2506a4dd66e9cccc011f416.webp" group-title="VARIEDADES", UNI TV BURITAMA
+https://stmv1.srvif.com/unifm/unifm/chunklist_w1316000259.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f31ec94b01e2800a706d90585efe278.webp" group-title="FILMES", AISH TV
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w985059288.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2322d929ab7c617fbab73beb02b6d7f7.webp" group-title="VARIEDADES", TV METROPOLITANA RIO
+https://alanza.iptv2022.com/METROPOLITANA_RIO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/879001b49f0330143eed3e34653e17c3.webp" group-title="VARIEDADES", TV CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w754624974.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1ef59e88801387f71231a6b12a5c0db6.webp" group-title="FILMES", TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1768132857.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ba01cfb31f2f6c1454c516059c60cb64.webp" group-title="FILMES", TV SÉRIES 2
+https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w917148791.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="ABERTOS", TV BRASIL - JOINVILLE
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="INFANTIS", RETRO CARTOON 
+https://stmv2.srvsh.com.br/retrotv2/retrotv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/deaee7a4d7ef1c38e84da23cfeee16ff.webp" group-title="INFANTIS", RETRO CARTOON 2
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w104760897.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/central.png" group-title="VARIEDADES", CENTRAL TV
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w897959726.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5782347cc7b8c0dd066bbcf90ffd6197.webp" group-title="MÚSICAS", SINGULAR TV
+https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d697ec8c1724e5dc37d8999e9aa71ac3.webp" group-title="MÚSICAS", CATEDRAL DO ROCK
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w1704335745.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="MÚSICAS", kRONEHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png" group-title="VARIEDADES", REDE BRASIL - TV MARAJOARA
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="MÚSICAS",TOP TV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="VARIEDADES", TV ESTADO
+https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="VARIEDADES",AWTV
+https://video01.logicahost.com.br/awtv/awtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="VARIEDADES", REDE FAMÍLIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="MÚSICAS", M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/musictop2.png" group-title="MÚSICAS", MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="ABERTOS",FDR -FUTURA (CE)
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="MÚSICAS", KPOPTV PLAY
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b654676f1b103410134eb12a3fa920be.webp" group-title="CURIOSIDADES", BRASIL TV
+https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w746475680.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f87e7531472dab790112a8571aa1392.webp" group-title="FILMES", TVS 
+https://stmv.webtv.ninjascast.com.br/solonvieira/solonvieira/chunklist_w1052553587.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="ABERTOS", SBT TV GUAJARA (PA)
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1b07d5e7f7527ec213b97d55987a14a.webp" group-title="VARIEDADES",	TV LUZILÂNDIA
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1256406974.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="VARIEDADES",	ADESSO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp" group-title="ABERTOS", SBT
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461797
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT INTERIOR SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2d312151d9e78ff54528d3fbe3659ac4.webp" group-title="FILMES", TV WA
+https://cdn.jmvstream.com/w/LVW-9892/ngrp:LVW9892_PCIeyMXAKy_all/chunklist_b1596000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c7847afd46b2ecb00a14198a16ba142.webp" group-title="VARIEDADES", TVE 
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c24ac0f22000469a51f62eebae66ffb.webp" group-title="VARIEDADES", REDE NGT
+https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvabertasp.png" group-title="VARIEDADES",TV ABERTA SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcandideslogo.png" group-title="VARIEDADES",TV CANDIDÉS
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/japitv.png" group-title="VARIEDADES",TV JAPI
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8	
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0cd101ded366a2ed9bd43401f5b1831.webp" group-title="VARIEDADES", TV GRANDE REDE
+https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8a6665940eac2ab6b023d0721754b9d4.webp" group-title="MÚSICAS", WEBTVMUSIC
+https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fd039ca37a00b88999353143b3439167.webp" group-title="RÁDIOS", HOT 98 FM
+https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/chunklist_w450074272.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="VARIEDADES", TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w963992542.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg" group-title="VARIEDADES", TV JORNAL
+https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png" group-title="VARIEDADES", TV DESTAK 
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="FILMES", TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4acc74c31e9cddc8c8416abdc96ebd3e.webp" group-title="VARIEDADES", TV BRASIL HITS
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w614729122.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tve.com.br/themes/padrao2019/images/logos/logo.png" group-title="VARIEDADES", TVE 
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1982859985.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6dbfc1b32a9cb5e754792710fa1e6c1.webp" group-title="VARIEDADES", REDE CAXIAS TV
+https://stmv1.srvstm.com/luis5346/luis5346/chunklist_w1170617819.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c0e655688a14b616d690908fe663ffb.webp" group-title="FILMES", SOU TV
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/chunklist_w1670973484.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CcJepf6TqUb-8PlLPXVtkkgEQ_Byj8KBP-WjQafn_-AakRRwktE57OqBx3JN9t1EnogNLLwJ-Q=s900-c-k-c0x00ffffff-no-rj" group-title="VARIEDADES", TV OSASCO
+https://596639ebdd89b.streamlock.net/8074/8074/chunklist_w163346537.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fpoa11-2.fna.fbcdn.net/v/t1.6435-9/101944966_3534744549888004_7020608302874624000_n.png?stp=dst-png_p960x960&_nc_cat=1&ccb=1-6&_nc_sid=09cbfe&_nc_eui2=AeHX7Oaea66A-lwVy5hCLxzKGzTA0DJdU5gbNMDQMl1TmG3nfgpnV3hI_1POzB5i57v5ypLatANrns7pC7h3cfdZ&_nc_ohc=oLfFIwsgS-MAX_PQ9BH&_nc_ht=scontent.fpoa11-2.fna&oh=00_AT_zIAYiZfzf0h7mG8hQDvghNWB1f4PZK4BJPw_Wyr6JjQ&oe=62A7861B" group-title="ABERTOS", TV CATVE 
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1988979924.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da6ab4e1fd0705a19bfe1fdeee3520d.webp" group-title="VARIEDADES", TV PLAN
+https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1271257940.m3u8?867be4bf049218c587185d6370c83e6d
+
+#EXTINF:-1 tvg-logo="http://www.tvjaguar.com.br/images/logo.png" group-title="VARIEDADES", TV JAGUAR 
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3af0e565c97274b99605ce384e24c2ea.webp" group-title="RELIGIOSOS", TV NAZARE
+https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1686507449.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/TV_Cachoeira.png" group-title="RELIGIOSOS", TV CACHOEIRA
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37da21657fea8d3cdd5e587685d4301b.webp" group-title="VARIEDADES", TV GRAMADO
+https://video01.kshost.com.br:4443/tv4477/tv4477/chunklist_w1113550618.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4236bf2d9650a0d98fcd60382765af8c.webp" group-title="VARIEDADES", REDE SUL DE TELEVISÃO
+https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/408905450358f73e519e50517013524f.webp" group-title="RELIGIOSOS", GOSPEL CARTOON  
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w846169558.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86506a7acc7d6b3b7b83c23b638633af.webp" group-title="VARIEDADES", TV LAGOS
+https://video01.kshost.com.br:4443/marcos1646/marcos1646/chunklist_w1607825996.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8aee277c6f0b673837d4a25a9109a177.webp" group-title="RELIGIOSOS", TV NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc572d903c8a600d3303ba1917ae0c82.webp" group-title="VARIEDADES", REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/chunklist_w168745200.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0376ef8f8dd34ac6cf73d7fb0a0fb2e.webp" group-title="VARIEDADES", TV CIDADE OESTE
+http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
+
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="ABERTOS",SBT 
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/689d6c48ae0a32f264b79100435725a5.webp" group-title="RÁDIOS", TV NOVOS HORIZONTES
+https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/chunklist_w2020237655.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a9a8f01189ff6702182975edb02bab0.webp" group-title="RELIGIOSOS", TV IRACEMA
+https://stmv1.srvstm.com/iracematv/iracematv/chunklist_w1651668842.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a028c26309735d904e33cedec1a011e6.webp" group-title="VARIEDADES", REDE SPTV
+https://video01.logicahost.com.br/websptv/websptv/chunklist_w703004531.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/30bfd4e74aeb1ffcaf1f81c297d99d23.webp" group-title="JORNALISMO", TV BRUSQUE
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/chunklist_w938754737.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1dfc2cda465307e3040ffe29d4849e87.webp" group-title="VARIEDADES", CWB TV
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/chunklist_w496711638.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/332145827a7208eb36f059b636f2d58c.webp" group-title="VARIEDADES", EU TV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd0e67a52d6a6bcb0b64c8896858a8f6.webp" group-title="VARIEDADES", TVCOM SANTOS
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/chunklist_w867529203.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f88c0985cd9dcafd1347663418bb3c33.webp" group-title="VARIEDADES", TV UNIÃO DE NATAL
+https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5eb82f6fd9799db20a7129633e7a605b.webp" group-title="VARIEDADES", REDE MUNDO TV
+
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7030/cabecalho-7030-20220101031230.jpg" group-title="VARIEDADES", REDE CLONE TV 
+https://stmv2.samcast.com.br/redeclonetv/redeclonetv/chunklist_w1759721039.m3u8
+
+#EXTINF:-1 tvg-logo="http://redeminas.tv/wp-content/uploads/2014/09/RedeMinas.png" group-title="VARIEDADES", REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.pTxhFJG19NYTOevCdTTZBAHaHa?w=153&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" group-title="VARIEDADES", OPINIÃO PLAY
+https://livefocamundo.com:8081/opiniaoplay/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hYJRal01RM0nV_i6SHAwyGDWwzRZqIKrKbKTw5Gcww&s"VARIEDADES", TV CONTROLES
+https://livefocamundo.com:8081/tvcontroles/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7ObVfW.png"VARIEDADES",  MASTER TV 
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jn5adsaa.jpg" group-title="JORNALISMO", RDC
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png", TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s1600/logo_blog_azul.png", PEGADINHAS  
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
+
+#EXTINF:-1 tvg-id="globo.rs.br" tvg-name="GLOBO RS" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="ABERTOS", GLOBO RBS PORTO ALEGRE RS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461740
+
+#EXTINF:-1 tvg-id="globo.rs.br" tvg-name="GLOBO ES" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="ABERTOS", GLOBO GAZETA ES
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461636
+
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="ABERTOS",CNN BRASIL 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462194
+
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="HUMOR",COMEDY CENTRAL 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461998
+
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER FHD" tvg-logo="https://lh3.googleusercontent.com/-D5d1wcnqfj8/YT009l6rOZI/AAAAAAAAKkg/4OfFErGZ7SQMWnYU2FlKYzcryCsbKRjQQCLcBGAsYHQ/super.png" group-title="RELIGIOSOS",REDE SUPER
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461855
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA FHD" tvg-logo="https://lh3.googleusercontent.com/-sXM0T_H-OdQ/YB7vVSrfZ-I/AAAAAAAAKDo/wdMquyO8rqoWOGn7KDLABrFv4_P4dr2tQCLcBGAsYHQ/Rede%2BVida.png" group-title="RELIGIOSOS",REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SP FHD" tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="VARIEDADES",TV GAZETA
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461841
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="VARIEDADES", YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="VARIEDADES", TV VERDES CAMPOS
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="https://i0.wp.com/telaviva.com.br/wp-content/uploads/2019/04/BANDNEWS.jpg" group-title="JORNALISMO",BAND NEWS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462197
+
+#EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND" tvg-logo="http://milionariohomeoffice.com.br/img/band.png" group-title="ABERTOS",BAND RS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461786
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="JORNALISMO",BBC WORLD 
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462198
+
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://lh3.googleusercontent.com/-Li5io6A9WcM/YB1E7Q-wmnI/AAAAAAAAJ5U/RvH5WwHsB_8wneFb_bKmVmSENvH7jydtACLcBGAsYHQ/CanaldoBoi.png" group-title="AGRONEGÓCIO",CANAL DO BOI
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461832
+
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA HD" tvg-logo="https://lh3.googleusercontent.com/-MyzIIOVq8hM/YB7q2n_7QJI/AAAAAAAAKC4/gAkKhUrbEf0Rnbi9PtEbOZjN6rVRjaMNQCLcBGAsYHQ/CANCAO%2BNOVA.png" group-title="RELIGIOSOS",CANÇÃO NOVA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/tvcancaonova/live
+
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://trenduhd.xyz/images/INFANTIL/CARTOON.png" group-title="INFANTIS",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXKbqcm.png" group-title="INFANTIS", STRIKERVERSO
+https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="INFANTIS", XTREME
+https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="VARIEDADES",FUTURA
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461792
+
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="JORNALISMO",JOVEM PAN NEWS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462183
+
+#EXTINF:-1 tvg-id="rede.21.br" tvg-name="REDE 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rede_21_logo.svg/1200px-Rede_21_logo.svg.png" group-title="RELIGIOSOS",REDE 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b978000.m3u8
+
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="VARIEDADES",REDE 
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461831BRASIL
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="RELIGIOSOS", REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="ABERTOS", REDE TV
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461824
+
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="RELIGIOSOS", RIT TV 
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461850
+
+#EXTINF:-1 tvg-id="" tvg-name="Rádio The Goog Life Radi - 102.3 FM" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRolK5uaMIsmYQV2cHzxxC8qSCH5aQ18O3_PMJHwQ=s88-c-k-c0x00ffffff-no-rj" group-title="RÁDIOS", RÁDIO THE GOOD LIFE RADI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=36YnV9STBqc
+
+#EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi RJ - 96.5 FM" tvg-logo="https://img.radios.com.br/radio/md/radio14215_1562877228.jpg" group-title="RÁDIOS", SUPER RÁDIO TUPI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioTupiRio/live
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png" group-title="RELIGIOSOS", REDE SÉCULO 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/riomadeira.png" group-title="VARIEDADES", TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvatividade.png" group-title="VARIEDADES", TV ATIVIDADE
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/valedasartes.png" group-title="VARIEDADES", TV VALE DAS ARTES
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title="RELIGIOSOS",TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="ABERTOS",TV BRASIL
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461837
+
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL SD" tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o-696x570.png" group-title="ABERTOS", REDE BRASIL 
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w13954468.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="VARIEDADES", REDE UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="VARIEDADES", VIA MORENA
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="ABERTOS",TV CÂMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="cultura" tvg-name="TV CULTURA" tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="ABERTOS",TV CULTURA
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461840
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kisstv.png" group-title="MÚSICAS", KISS TV
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="VARIEDADES", TVIDEONEWS 
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_-_canal_sac3bade.jpg" group-title="VARIEDADES", CANAL SAÚDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="RELIGIOSOS", TV EVANGELIZAR
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="RELIGIOSOS", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="RELIGIOSOS", IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV PAI ETERNO" tvg-name="TV PAI ETERNO" tvg-logo="https://lh3.googleusercontent.com/-LGmBxtx20RM/YB7tXZVubsI/AAAAAAAAKDQ/VYewkrCiMU0c8RD0cbBPr-xKEE5SOLsVACLcBGAsYHQ/TV%2BPAI%2BETERNO.png" group-title="RELIGIOSOS",TV PAI ETERNO
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w844685157.m3u8
+
+#EXTINF:-1 tvg-id="HOPE CHANNEL" tvg-name="HOPECHANNEL" tvg-logo="https://cdn.shopify.com/s/files/1/0296/8269/t/3/assets/logo-retina.png?v=14759648562711648401" group-title="RELIGIOSOS", HOPE CHANNEL
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b4192000.m3u8
+
+#EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="NUEVO TIEMPO" tvg-logo="https://aws-noticias-es.s3.amazonaws.com/2014/11/logotipont.jpg" group-title="RELIGIOSOS",NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
+
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO SD" tvg-logo="https://lh3.googleusercontent.com/-onWZFubMbtM/YB1JVyA6XZI/AAAAAAAAJ6E/zunSXwBILJMDNwLtJXPyJ7VyAkQvuan9ACLcBGAsYHQ/TV%2BSenado.png" group-title="ABERTOS",TV SENADO 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/tvsenado/live
+
+#EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV JUSTIÇA SD" tvg-logo="https://lh3.googleusercontent.com/-Q85ZPelOntc/YB1LglRwRpI/AAAAAAAAJ6Y/v27Vf7kqf2gKDfyYF4hMdGCehjaM760ywCLcBGAsYHQ/TV%2BJustica.png" group-title="JORNALISMO",TV JUSTIÇA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVJustiçaOficial/live
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT - TV JORNAL CARUARU (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT - TV CIDADE VERDE - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS",SBT - TV DIFUSORA (MA)
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT REDE MASSA (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvparaense.png" group-title="ABERTOS", SBT TV PARAENSE (PA)
+https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="ABERTOS", RECORDTV MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="ABERTOS", RECORD TV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/band.png" group-title="ABERTOS", BAND BRASIL
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="ABERTOS", REDE TV! TV ARAPUAN (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="ABERTOS", REDE TV! TV PANTANAL (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF:1 tvg-logo="https://imgur.com/IQeZbV1.png" group-title="NOVELAS", NOVELISSIMA
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/98VBTkT.png" group-title="NOVELAS", SONY NOVELAS
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="NOVELAS", TELEVISA
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/v5PHoNr.png" group-title="NOVELAS", BBC DRAMA
+https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" group-title="NOVELAS",CANELA TELENOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgnS8fG.png" group-title="NOVELAS", RCN NOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1111
+
+EXTINF:1 group-title="VARIEDADES" SOUL TV
+https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="ABERTOS",CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:1 group-title="ABERTOS" ,TV CONQUISTA - RECORD TV
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV R
+https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,MODA ZINZANE
+https://livefocamundo.com:8081/zinzane/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV A7
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,GLN TV 2
+https://srv2.zcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+
+#EXTINF:1 group-title="FILMES" ,CLC TV
+http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 group-title="FILMES", FANDOM TV
+http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 group-title="VARIEDADES", QUEENS UNITED TV
+https://cdn.connectbr.com.br/Queens/video.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,BLAST CHANNEL 
+https://video01.logicahost.com.br/blast/blast/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV PONTA DA SERRA
+https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
+
+#EXTINF:1 group-title="ESPORTES" ,RS NEWS
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,CENTRAL TV 2
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
+
+#EXTINF:1 group-title="FILMES" ,SOUL CINE CLUBE
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+#EXTINF:1 group-title="MÚSICAS" ,ELEMENTAL CHANNEL
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV GRANDE NATAL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV ACE
+https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" , SOL BRASIL
+https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,PORTUGALTV
+https://livefocamundo.com:8081/tvmaxrio/index.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,REDE TVC BRASIL
+https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,WTJ TV 
+https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,REDE UTV BRASIL
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV KING
+https://stmv1.srvstm.com/pedropaulomendes3413/pedropaulomendes3413/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,NOVA TV REGIONAL
+http://187.95.95.241:7988/regional/index.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,PHOENIX TV
+https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV LITORAL
+https://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,REDE SMART
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,ABBA RTV
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,JPL TV
+https://streaming.jplproducoes.com.br/JPL1/video.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,Nova TV Matopiba
+http://187.95.95.241:7983/matopiba/tracks-v2a1/mono.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV FLORIDA
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+
+#EXTINF:1 group-title="ESPORTES" ,ALL SPORTS 2
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV MAIS ABC
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+
+#EXTINF:1 group-title="JORNALISMO" ,4 POR 4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,ARARUNA TV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,RAE TV
+https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,ASTRAL TV
+https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,WTV BRASIL
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV AVIVANDO NAÇÕES
+https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,MKK TV
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,AWTV
+https://5ad482a77183d.streamlock.net/abraao.farinagmail.com/abraao.farinagmail.com/chunklist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV ZOOM
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,EXTREMO ORIENTAL TV
+http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
+
+#EXTINF:1 group-title="AGRONEGÓCIOS" , NOVA TV AGROTOUR
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,BH TV ESPANHOL
+http://206.217.202.3:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,ASIAN TV
+https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,BARCELLOS
+https://video01.soultv.com.br/barcellos/barcellos/playlist.m3u8
+
+#EXTINF:1 group-title="AGRONEGÓCIOS" ,NOTÍCIAS AGRÍCOLAS
+https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,DODA Equestrian TV
+https://video01.soultv.com.br/doda/doda/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV Papo
+https://video01.soultv.com.br/juventude/juventude/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,POP Bola
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,Bia Kicis
+https://video01.soultv.com.br/biakicis/biakicis/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,BWE
+https://video01.soultv.com.br/bwe/bwe/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,LITO CAVALCANTI
+https://video01.soultv.com.br/litocavalcanti/litocavalcanti/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,Viajando pelo Brasil
+https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,Sport Club Internacional
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" , BEM MELHOR
+https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,INOVA 360
+https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,E-FEITO NA CHINA
+https://video01.soultv.com.br/efeitonachina/efeitonachina/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,IFUN TV
+https://video01.soultv.com.br/ifun/ifun/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,FEVER PITCH SPORT
+https://video01.soultv.com.br/feverpitchsports/feverpitchsports/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,The Market Guide
+https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,PAULO ZORELLO KICKBOXING
+https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,FERNANDA BARTH
+https://video01.soultv.com.br/diretoaoponto/diretoaoponto/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,CANAL MARCÃO DO POVO
+https://video01.soultv.com.br/marcaodopovo/marcaodopovo/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,UNIVERSIDADE DA PESSOA
+https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" , AVANÇA BRASIL
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,FELIZ 7 PLAY
+https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,TV SOL
+http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,OX TV
+https://cdn2.connectbr.com.br/oxtv/video.m3u8
+
+#EXTINF:1 group-title="VARIEDADES" ,PONTV
+https://video01.soultv.com.br/canalteste/canalteste/playlist.m3u8
+
+#EXTINF:-1,24h Pagode
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462563
+#EXTINF:-1,24h TikTok
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462564
+#EXTINF:-1,24h Trap
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462565
+#EXTINF:-1,A&E FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461945
+#EXTINF:-1,A&E FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461882
+#EXTINF:-1,A&E HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461944
+#EXTINF:-1,A&E SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461943
+#EXTINF:-1,AGROMAIS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461842
+#EXTINF:-1,AGROMAIS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461843
+#EXTINF:-1,AGROMAIS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461844
+#EXTINF:-1,AMAZON PRIME JOGO 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461543
+#EXTINF:-1,AMAZON PRIME JOGO 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461542
+#EXTINF:-1,AMAZON PRIME JOGO 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461541
+#EXTINF:-1,AMAZON PRIME JOGO 4
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461540
+#EXTINF:-1,AMC FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461942
+#EXTINF:-1,AMC FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461881
+#EXTINF:-1,AMC HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461941
+#EXTINF:-1,AMC SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461940
+#EXTINF:-1,ANIMAL PLANET FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462067
+#EXTINF:-1,ANIMAL PLANET FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462026
+#EXTINF:-1,ANIMAL PLANET HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462068
+#EXTINF:-1,ANIMAL PLANET SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462066
+#EXTINF:-1,ARTE 1 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461953
+#EXTINF:-1,ARTE 1 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462012
+#EXTINF:-1,ARTE 1 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461954
+#EXTINF:-1,ARTE 1 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462013
+#EXTINF:-1,AXN FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461939
+#EXTINF:-1,AXN FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461880
+#EXTINF:-1,AXN HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461938
+#EXTINF:-1,AXN HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461364
+#EXTINF:-1,AXN SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461937
+#EXTINF:-1,AXN SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461365
+#EXTINF:-1,BABY TV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462179
+#EXTINF:-1,BABY TV SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462178
+#EXTINF:-1,BAND BAHIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461778
+#EXTINF:-1,BAND BRASILIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461788
+#EXTINF:-1,BAND CAMPINAS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461783
+#EXTINF:-1,BAND CAMPINAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461787
+#EXTINF:-1,BAND CURITIBA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461781
+#EXTINF:-1,BAND CURITIBA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461782
+#EXTINF:-1,BAND MINAS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461779
+#EXTINF:-1,BAND MINAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461780
+#EXTINF:-1,BAND NEWS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462197
+#EXTINF:-1,BAND NEWS FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462186
+#EXTINF:-1,BAND NEWS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462196
+#EXTINF:-1,BAND NEWS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462195
+#EXTINF:-1,BAND PARANA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461784
+#EXTINF:-1,BAND RJ FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461789
+#EXTINF:-1,BAND RJ HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461776
+#EXTINF:-1,BAND RS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461786
+#EXTINF:-1,BAND SERGIPE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461785
+#EXTINF:-1,BAND SP FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461775
+#EXTINF:-1,BAND SP FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461791
+#EXTINF:-1,BAND SP HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461774
+#EXTINF:-1,BAND SP SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461777
+#EXTINF:-1,BAND SPORTS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461392
+#EXTINF:-1,BAND SPORTS FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461393
+#EXTINF:-1,BAND SPORTS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461394
+#EXTINF:-1,BAND SPORTS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461395
+#EXTINF:-1,BAND TV GOIANIA FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461773
+#EXTINF:-1,BAND TV GOIANIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461790
+#EXTINF:-1,BBC WORLD FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462198
+#EXTINF:-1,BBC WORLD HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462200
+#EXTINF:-1,BIS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462001
+#EXTINF:-1,BIS FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461965
+#EXTINF:-1,BIS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462000
+#EXTINF:-1,BIS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461999
+#EXTINF:-1,CANAL BRASIL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461936
+#EXTINF:-1,CANAL BRASIL FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461879
+#EXTINF:-1,CANAL BRASIL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461935
+#EXTINF:-1,CANAL BRASIL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461934
+#EXTINF:-1,CANAL DO BOI HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461832
+#EXTINF:-1,CANAL RURAL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461835
+#EXTINF:-1,CANAL SONY FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461933
+#EXTINF:-1,CANAL SONY FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461878
+#EXTINF:-1,CANAL SONY HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461932
+#EXTINF:-1,CANAL SONY SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461931
+#EXTINF:-1,CANCAO NOVA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461854
+#EXTINF:-1,CANCAO NOVA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461853
+#EXTINF:-1,CARTOON NETWORK FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462176
+#EXTINF:-1,CARTOON NETWORK FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462139
+#EXTINF:-1,CARTOON NETWORK HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462175
+#EXTINF:-1,CARTOON NETWORK SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462174
+#EXTINF:-1,CARTOONITO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462177
+#EXTINF:-1,CARTOONITO FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462140
+#EXTINF:-1,CARTOONITO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462131
+#EXTINF:-1,CARTOONITO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462130
+#EXTINF:-1,CHEFE TV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462008
+#EXTINF:-1,CINE SKY 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462207
+#EXTINF:-1,CINE SKY 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462206
+#EXTINF:-1,CINE SKY 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462205
+#EXTINF:-1,CINE SKY 4
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462204
+#EXTINF:-1,CINE SKY 5
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462203
+#EXTINF:-1,CINEMAX FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461930
+#EXTINF:-1,CINEMAX FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461877
+#EXTINF:-1,CINEMAX HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461929
+#EXTINF:-1,CINEMAX SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461925
+#EXTINF:-1,CNN BRASIL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462194
+#EXTINF:-1,CNN BRASIL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462193
+#EXTINF:-1,CNN BRASIL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462192
+#EXTINF:-1,COMBATE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461396
+#EXTINF:-1,COMBATE FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461397
+#EXTINF:-1,COMBATE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461398
+#EXTINF:-1,COMBATE SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461399
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461998
+#EXTINF:-1,COMEDY CENTRAL FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461964
+#EXTINF:-1,COMEDY CENTRAL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461997
+#EXTINF:-1,COMEDY CENTRAL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461996
+#EXTINF:-1,CONMEBOL TV 1 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461523
+#EXTINF:-1,CONMEBOL TV 2 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461524
+#EXTINF:-1,CONMEBOL TV 3 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461525
+#EXTINF:-1,CONMEBOL TV 4 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461526
+#EXTINF:-1,CURTA! FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461951
+#EXTINF:-1,CURTA! FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461952
+#EXTINF:-1,CURTA! HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461950
+#EXTINF:-1,CURTA! SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461928
+#EXTINF:-1,DAZN 04 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461539
+#EXTINF:-1,DAZN 1 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461515
+#EXTINF:-1,DAZN 2 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461516
+#EXTINF:-1,DAZN 3 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461517
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462065
+#EXTINF:-1,DISCOVERY CHANNEL FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462025
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462064
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462063
+#EXTINF:-1,DISCOVERY H&H FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462062
+#EXTINF:-1,DISCOVERY H&H FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462024
+#EXTINF:-1,DISCOVERY H&H HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462061
+#EXTINF:-1,DISCOVERY H&H SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462060
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462173
+#EXTINF:-1,DISCOVERY KIDS FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462138
+#EXTINF:-1,DISCOVERY KIDS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462172
+#EXTINF:-1,DISCOVERY KIDS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462171
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462059
+#EXTINF:-1,DISCOVERY SCIENCE FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462023
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462058
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462057
+#EXTINF:-1,DISCOVERY THEATER FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462056
+#EXTINF:-1,DISCOVERY THEATER FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462022
+#EXTINF:-1,DISCOVERY THEATER HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462055
+#EXTINF:-1,DISCOVERY THEATER SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462054
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462053
+#EXTINF:-1,DISCOVERY TURBO FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462021
+#EXTINF:-1,DISCOVERY TURBO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462052
+#EXTINF:-1,DISCOVERY TURBO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462051
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462050
+#EXTINF:-1,DISCOVERY WORLD FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462020
+#EXTINF:-1,DISCOVERY WORLD HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462049
+#EXTINF:-1,DISCOVERY WORLD SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462048
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462170
+#EXTINF:-1,DISNEY CHANNEL FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462137
+#EXTINF:-1,DISNEY CHANNEL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462169
+#EXTINF:-1,DISNEY CHANNEL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462168
+#EXTINF:-1,DOG TV FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462046
+#EXTINF:-1,DOG TV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462047
+#EXTINF:-1,E! FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461995
+#EXTINF:-1,E! FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461963
+#EXTINF:-1,E! HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461994
+#EXTINF:-1,E! SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461991
+#EXTINF:-1,Eleven Sports 01 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461547
+#EXTINF:-1,Eleven Sports 02 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461548
+#EXTINF:-1,Eleven Sports 03 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461549
+#EXTINF:-1,Eleven Sports 04 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461550
+#EXTINF:-1,Eleven Sports 05 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461551
+#EXTINF:-1,Eleven Sports 06 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461552
+#EXTINF:-1,Eleven Sports 07 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461553
+#EXTINF:-1,Eleven Sports 08 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461554
+#EXTINF:-1,Eleven Sports 09 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461555
+#EXTINF:-1,Eleven Sports 10 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461556
+#EXTINF:-1,ESPN 2 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461404
+#EXTINF:-1,ESPN 2 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461405
+#EXTINF:-1,ESPN 2 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461406
+#EXTINF:-1,ESPN 2 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461407
+#EXTINF:-1,ESPN 3 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461408
+#EXTINF:-1,ESPN 3 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461409
+#EXTINF:-1,ESPN 3 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461410
+#EXTINF:-1,ESPN 3 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461411
+#EXTINF:-1,ESPN 4 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461412
+#EXTINF:-1,ESPN 4 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461413
+#EXTINF:-1,ESPN 4 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461414
+#EXTINF:-1,ESPN 4 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461415
+#EXTINF:-1,ESPN EXTRA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461416
+#EXTINF:-1,ESPN EXTRA FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461417
+#EXTINF:-1,ESPN EXTRA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461418
+#EXTINF:-1,ESPN EXTRA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461419
+#EXTINF:-1,ESPN FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461400
+#EXTINF:-1,ESPN FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461401
+#EXTINF:-1,ESPN HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461402
+#EXTINF:-1,ESPN SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461403
+#EXTINF:-1,ESTADIO TNT SPORTS 1 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461518
+#EXTINF:-1,ESTADIO TNT SPORTS 2 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461519
+#EXTINF:-1,ESTADIO TNT SPORTS 3 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461520
+#EXTINF:-1,ESTADIO TNT SPORTS 4 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461521
+#EXTINF:-1,ESTADIO TNT SPORTS 5 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461522
+#EXTINF:-1,FILM & ART HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461949
+#EXTINF:-1,FILM & ARTS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461947
+#EXTINF:-1,FILM & ARTS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461948
+#EXTINF:-1,FISH TV FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462070
+#EXTINF:-1,FISH TV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462071
+#EXTINF:-1,FISH TV SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462072
+#EXTINF:-1,FOOD NETWORK FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461993
+#EXTINF:-1,FOOD NETWORK FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461962
+#EXTINF:-1,FOOD NETWORK HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461992
+#EXTINF:-1,FOOD NETWORK SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461990
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461420
+#EXTINF:-1,FOX SPORTS 2 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461421
+#EXTINF:-1,FOX SPORTS 2 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461422
+#EXTINF:-1,FOX SPORTS 2 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461423
+#EXTINF:-1,FUTURA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461792
+#EXTINF:-1,FUTURA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461827
+#EXTINF:-1,FX FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461927
+#EXTINF:-1,FX FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461876
+#EXTINF:-1,FX HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461924
+#EXTINF:-1,FX SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461926
+#EXTINF:-1,GLOBO ANHANGUERA ANAPOLIS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461672
+#EXTINF:-1,GLOBO ANHANGUERA ANAPOLIS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461673
+#EXTINF:-1,GLOBO ANHANGUERA CATALAO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461670
+#EXTINF:-1,GLOBO ANHANGUERA CATALAO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461671
+#EXTINF:-1,GLOBO ANHANGUERA ITUMBIARA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461668
+#EXTINF:-1,GLOBO ANHANGUERA ITUMBIARA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461669
+#EXTINF:-1,GLOBO BAHIA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461656
+#EXTINF:-1,GLOBO BAHIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461655
+#EXTINF:-1,GLOBO BAHIA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461700
+#EXTINF:-1,GLOBO BELEM FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461722
+#EXTINF:-1,GLOBO BELEM HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461654
+#EXTINF:-1,GLOBO BELEM SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461653
+#EXTINF:-1,GLOBO BOA VISTA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461652
+#EXTINF:-1,GLOBO BOA VISTA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461651
+#EXTINF:-1,GLOBO BRASILIA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461724
+#EXTINF:-1,GLOBO BRASILIA FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461650
+#EXTINF:-1,GLOBO BRASILIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461649
+#EXTINF:-1,GLOBO BRASILIA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461648
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461647
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461646
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461645
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461644
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461643
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461642
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461641
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461640
+#EXTINF:-1,GLOBO FLORIANOPOLIS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461728
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461639
+#EXTINF:-1,GLOBO FLORIANOPOLIS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461729
+#EXTINF:-1,GLOBO GAZETA VITORIA  ES HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461638
+#EXTINF:-1,GLOBO GAZETA VITORIA ES FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461636
+#EXTINF:-1,GLOBO INTEGRAÇÃO DIVINÓPOLIS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461676
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461585
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461584
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461635
+#EXTINF:-1,GLOBO INTER TV CABUGI FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461674
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461637
+#EXTINF:-1,GLOBO INTER TV CABUGI SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461634
+#EXTINF:-1,GLOBO INTER TV DOS VALES HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461730
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461731
+#EXTINF:-1,GLOBO INTER TV SERRA MAR FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461710
+#EXTINF:-1,GLOBO INTER TV SERRA MAR HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461632
+#EXTINF:-1,GLOBO INTER VALE MG FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461709
+#EXTINF:-1,GLOBO INTER VALE MG HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461633
+#EXTINF:-1,GLOBO JOAÇABA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461680
+#EXTINF:-1,GLOBO JOAÇABA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461679
+#EXTINF:-1,GLOBO JUAZEIRO BAHIA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461707
+#EXTINF:-1,GLOBO JUAZEIRO BAHIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461708
+#EXTINF:-1,GLOBO JUIZ DE FORA MG FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461682
+#EXTINF:-1,GLOBO JUIZ DE FORA MG HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461681
+#EXTINF:-1,GLOBO MARANHÃO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461695
+#EXTINF:-1,GLOBO MINAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461631
+#EXTINF:-1,GLOBO MINAS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461630
+#EXTINF:-1,GLOBO MOGI DAS CRUZES FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461678
+#EXTINF:-1,GLOBO MOGI DAS CRUZES HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461677
+#EXTINF:-1,GLOBO MONTES CLAROS MG HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461685
+#EXTINF:-1,GLOBO NEWS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462191
+#EXTINF:-1,GLOBO NEWS FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462185
+#EXTINF:-1,GLOBO NEWS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462190
+#EXTINF:-1,GLOBO NEWS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462189
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461629
+#EXTINF:-1,GLOBO NORDESTE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461628
+#EXTINF:-1,GLOBO NORDESTE SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461627
+#EXTINF:-1,GLOBO NSC TV BLUMENAL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461702
+#EXTINF:-1,GLOBO NSC TV BLUMENAL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461626
+#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461666
+#EXTINF:-1,GLOBO NSC TV CHAPECO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461625
+#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461694
+#EXTINF:-1,GLOBO NSC TV JOINVILLE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461624
+#EXTINF:-1,GLOBO PARAIBA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461696
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461684
+#EXTINF:-1,GLOBO PRESIDENTE PRUDENTE SP HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461683
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461740
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461687
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461621
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461619
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461714
+#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461715
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461703
+#EXTINF:-1,GLOBO RBS TV PASSO FUNDO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461704
+#EXTINF:-1,GLOBO RBS TV PELOTAS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461713
+#EXTINF:-1,GLOBO RBS TV PELOTAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461712
+#EXTINF:-1,GLOBO RBS TV SANTA MARIA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461620
+#EXTINF:-1,GLOBO RECIFE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461746
+#EXTINF:-1,GLOBO RECIFE SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461747
+#EXTINF:-1,GLOBO RJ FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461616
+#EXTINF:-1,GLOBO RJ FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461748
+#EXTINF:-1,GLOBO RJ HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461615
+#EXTINF:-1,GLOBO RJ SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461614
+#EXTINF:-1,GLOBO RPC  TV MARINGA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461749
+#EXTINF:-1,GLOBO RPC CASCAVEL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461705
+#EXTINF:-1,GLOBO RPC CASCAVEL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461706
+#EXTINF:-1,GLOBO RPC CURITIBA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461613
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461612
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461611
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461711
+#EXTINF:-1,GLOBO RPC FOZ DO IGUACU HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461610
+#EXTINF:-1,GLOBO RPC PARANAVAI FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461609
+#EXTINF:-1,GLOBO RPC PARANAVAI HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461692
+#EXTINF:-1,GLOBO RPC PONTA GROSSA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461750
+#EXTINF:-1,GLOBO RPC TV MARINGA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461608
+#EXTINF:-1,GLOBO SERGIPE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461751
+#EXTINF:-1,GLOBO SERGIPE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461607
+#EXTINF:-1,GLOBO SJRP HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461606
+#EXTINF:-1,GLOBO SJRP SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461697
+#EXTINF:-1,GLOBO SP FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461605
+#EXTINF:-1,GLOBO SP FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461583
+#EXTINF:-1,GLOBO SP HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461604
+#EXTINF:-1,GLOBO SP SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461603
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461581
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461602
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461701
+#EXTINF:-1,GLOBO TV ASA BRANCA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461721
+#EXTINF:-1,GLOBO TV ASA BRANCA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461601
+#EXTINF:-1,GLOBO TV CABO BRANCO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461667
+#EXTINF:-1,GLOBO TV CABO BRANCO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461600
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461599
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461699
+#EXTINF:-1,GLOBO TV CENTRO AMERICA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461752
+#EXTINF:-1,GLOBO TV CLUBE TERESINA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461597
+#EXTINF:-1,GLOBO TV DIARIO FORTALEZA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461596
+#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461595
+#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461594
+#EXTINF:-1,GLOBO TV GAZETA DE ALAGOAS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461754
+#EXTINF:-1,GLOBO TV GAZETA SUL ES FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461755
+#EXTINF:-1,GLOBO TV GAZETA SUL ES HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461593
+#EXTINF:-1,GLOBO TV INTEGRACAO ARAXA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461661
+#EXTINF:-1,GLOBO TV INTEGRACAO ARAXA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461592
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461757
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461758
+#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461760
+#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461761
+#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461591
+#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461693
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461618
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461623
+#EXTINF:-1,GLOBO TV REDE AMAZONICA PORTO VELHO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461622
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461590
+#EXTINF:-1,GLOBO TV SANTA CRUZ FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461764
+#EXTINF:-1,GLOBO TV SANTA CRUZ HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461719
+#EXTINF:-1,GLOBO TV SUBAE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461718
+#EXTINF:-1,GLOBO TV TEM BAURU FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461690
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461691
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461698
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461664
+#EXTINF:-1,GLOBO TV TEM SOROCABA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461663
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461665
+#EXTINF:-1,GLOBO TV TRIBUNA FHD (SANTOS)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461658
+#EXTINF:-1,GLOBO TV TRIBUNA HD (SANTOS)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461659
+#EXTINF:-1,GLOBO TV TRIBUNA SD (SANTOS)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461660
+#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461657
+#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461589
+#EXTINF:-1,GLOBO TV VANGUARDA S J CAMPOS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461588
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461769
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461587
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461586
+#EXTINF:-1,GLOBO UBERABA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461720
+#EXTINF:-1,GLOBO UBERABA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461662
+#EXTINF:-1,GLOOB FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462161
+#EXTINF:-1,GLOOB FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462135
+#EXTINF:-1,GLOOB HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462160
+#EXTINF:-1,GLOOB SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462159
+#EXTINF:-1,GLOOBINHO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462146
+#EXTINF:-1,GLOOBINHO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462144
+#EXTINF:-1,GLOOBINHO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462182
+#EXTINF:-1,GNT FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461989
+#EXTINF:-1,GNT FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461961
+#EXTINF:-1,GNT HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461988
+#EXTINF:-1,GNT SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461987
+#EXTINF:-1,HBO 2 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462126
+#EXTINF:-1,HBO 2 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462105
+#EXTINF:-1,HBO 2 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462125
+#EXTINF:-1,HBO 2 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462124
+#EXTINF:-1,HBO Familly FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462123
+#EXTINF:-1,HBO Familly FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462104
+#EXTINF:-1,HBO Familly HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462122
+#EXTINF:-1,HBO Familly SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462121
+#EXTINF:-1,HBO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462120
+#EXTINF:-1,HBO FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462103
+#EXTINF:-1,HBO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462119
+#EXTINF:-1,HBO HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461366
+#EXTINF:-1,HBO MAX 01 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461513
+#EXTINF:-1,HBO MAX 02 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461514
+#EXTINF:-1,HBO MAX 03 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461527
+#EXTINF:-1,HBO MAX 04 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461528
+#EXTINF:-1,HBO MAX 05 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461545
+#EXTINF:-1,HBO MAX 06 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461546
+#EXTINF:-1,HBO MUNDI FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461367
+#EXTINF:-1,HBO MUNDI FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462118
+#EXTINF:-1,HBO MUNDI FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462102
+#EXTINF:-1,HBO MUNDI HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462117
+#EXTINF:-1,HBO MUNDI SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462127
+#EXTINF:-1,HBO PLUS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462116
+#EXTINF:-1,HBO PLUS FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462101
+#EXTINF:-1,HBO PLUS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462115
+#EXTINF:-1,HBO PLUS HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461369
+#EXTINF:-1,HBO PLUS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462114
+#EXTINF:-1,HBO PLUS SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461370
+#EXTINF:-1,HBO POP FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462113
+#EXTINF:-1,HBO POP FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462100
+#EXTINF:-1,HBO POP HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462110
+#EXTINF:-1,HBO POP HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461371
+#EXTINF:-1,HBO POP SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462128
+#EXTINF:-1,HBO POP SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461372
+#EXTINF:-1,HBO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462109
+#EXTINF:-1,HBO SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461373
+#EXTINF:-1,HBO SIGNATURE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461374
+#EXTINF:-1,HBO SIGNATURE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462111
+#EXTINF:-1,HBO SIGNATURE FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462099
+#EXTINF:-1,HBO SIGNATURE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461375
+#EXTINF:-1,HBO SIGNATURE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462112
+#EXTINF:-1,HBO SIGNATURE SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462107
+#EXTINF:-1,HBO XTREME FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462108
+#EXTINF:-1,HBO XTREME FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462098
+#EXTINF:-1,HBO XTREME HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462106
+#EXTINF:-1,HBO XTREME HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461376
+#EXTINF:-1,HBO XTREME SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462129
+#EXTINF:-1,HBO XTREME SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461377
+#EXTINF:-1,HGTV FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462042
+#EXTINF:-1,HGTV FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462014
+#EXTINF:-1,HGTV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462041
+#EXTINF:-1,HISTORY 2 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462045
+#EXTINF:-1,HISTORY 2 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462019
+#EXTINF:-1,HISTORY 2 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462073
+#EXTINF:-1,HISTORY 2 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462043
+#EXTINF:-1,HISTORY FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462040
+#EXTINF:-1,HISTORY FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462018
+#EXTINF:-1,HISTORY HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462039
+#EXTINF:-1,HISTORY SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462038
+#EXTINF:-1,HYSTORY 2 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462044
+#EXTINF:-1,ID DISCOVERY FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462037
+#EXTINF:-1,ID DISCOVERY FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462017
+#EXTINF:-1,ID DISCOVERY HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462036
+#EXTINF:-1,ID DISCOVERY SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462035
+#EXTINF:-1,JOVEM PAN NEWS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462183
+#EXTINF:-1,JOVEM PAN NEWS FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462202
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462184
+#EXTINF:-1,JOVEM PAN NEWS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462201
+#EXTINF:-1,KPOP TV
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462566
+#EXTINF:-1,LIFETIME FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461986
+#EXTINF:-1,LIFETIME FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461960
+#EXTINF:-1,LIFETIME HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461985
+#EXTINF:-1,LIFETIME SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461983
+#EXTINF:-1,LOVE NATURE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462069
+#EXTINF:-1,MEGAPIX FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461919
+#EXTINF:-1,MEGAPIX FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461874
+#EXTINF:-1,MEGAPIX HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461918
+#EXTINF:-1,MEGAPIX SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461920
+#EXTINF:-1,MODO VIAGEM FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461923
+#EXTINF:-1,MODO VIAGEM FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461875
+#EXTINF:-1,MODO VIAGEM HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461922
+#EXTINF:-1,MODO VIAGEM SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461921
+#EXTINF:-1,MOSAICO PREMIERE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461468
+#EXTINF:-1,MOSAICO PREMIERE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461467
+#EXTINF:-1,MTV FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461982
+#EXTINF:-1,MTV FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461959
+#EXTINF:-1,MTV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461984
+#EXTINF:-1,MTV LIVE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462007
+#EXTINF:-1,MTV SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461981
+#EXTINF:-1,MULTISHOW FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461980
+#EXTINF:-1,MULTISHOW FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461958
+#EXTINF:-1,MULTISHOW HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461979
+#EXTINF:-1,MULTISHOW SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461978
+#EXTINF:-1,MUSIC BOX BRAZIL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461977
+#EXTINF:-1,MUSIC BOX BRAZIL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461976
+#EXTINF:-1,NATGEO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462034
+#EXTINF:-1,NATGEO FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462016
+#EXTINF:-1,NATGEO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462033
+#EXTINF:-1,NATGEO KIDS FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462134
+#EXTINF:-1,NATGEO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462032
+#EXTINF:-1,NHK WORLD HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462028
+#EXTINF:-1,NHK WORLD SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462027
+#EXTINF:-1,NICK JR FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462155
+#EXTINF:-1,NICK JR FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462132
+#EXTINF:-1,NICK JR HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462154
+#EXTINF:-1,NICK JR SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462153
+#EXTINF:-1,NICKELODEON FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462152
+#EXTINF:-1,NICKELODEON FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462133
+#EXTINF:-1,NICKELODEON HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462151
+#EXTINF:-1,NICKELODEON SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462150
+#EXTINF:-1,OFF FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461436
+#EXTINF:-1,OFF FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461437
+#EXTINF:-1,OFF HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461438
+#EXTINF:-1,OFF SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461439
+#EXTINF:-1,PARAMOUNT FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461917
+#EXTINF:-1,PARAMOUNT FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461873
+#EXTINF:-1,PARAMOUNT HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461916
+#EXTINF:-1,PARAMOUNT SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461915
+#EXTINF:-1,POLISHOP SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461826
+#EXTINF:-1,PREMIERE 2 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461444
+#EXTINF:-1,PREMIERE 2 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461445
+#EXTINF:-1,PREMIERE 2 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461446
+#EXTINF:-1,PREMIERE 2 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461447
+#EXTINF:-1,PREMIERE 3 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461448
+#EXTINF:-1,PREMIERE 3 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461449
+#EXTINF:-1,PREMIERE 3 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461450
+#EXTINF:-1,PREMIERE 3 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461451
+#EXTINF:-1,PREMIERE 4 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461452
+#EXTINF:-1,PREMIERE 4 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461453
+#EXTINF:-1,PREMIERE 4 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461454
+#EXTINF:-1,PREMIERE 4 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461455
+#EXTINF:-1,PREMIERE 5 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461456
+#EXTINF:-1,PREMIERE 5 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461457
+#EXTINF:-1,PREMIERE 5 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461458
+#EXTINF:-1,PREMIERE 5 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461459
+#EXTINF:-1,PREMIERE 6 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461460
+#EXTINF:-1,PREMIERE 6 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461461
+#EXTINF:-1,PREMIERE 6 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461462
+#EXTINF:-1,PREMIERE 6 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461463
+#EXTINF:-1,PREMIERE 7 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461464
+#EXTINF:-1,PREMIERE 7 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461469
+#EXTINF:-1,PREMIERE 7 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461465
+#EXTINF:-1,PREMIERE 7 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461466
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461440
+#EXTINF:-1,PREMIERE CLUBES FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461441
+#EXTINF:-1,PREMIERE CLUBES HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461442
+#EXTINF:-1,PREMIERE CLUBES SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461443
+#EXTINF:-1,RECORD BAHIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461484
+#EXTINF:-1,RECORD BAHIA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461483
+#EXTINF:-1,RECORD BRASILIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461482
+#EXTINF:-1,RECORD BRASILIA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461495
+#EXTINF:-1,RECORD CAMPINAS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461487
+#EXTINF:-1,RECORD CAMPINAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461481
+#EXTINF:-1,RECORD GOIAS FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461472
+#EXTINF:-1,RECORD GOIAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461480
+#EXTINF:-1,RECORD GOIAS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461498
+#EXTINF:-1,RECORD MANAUS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461479
+#EXTINF:-1,RECORD MANAUS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461500
+#EXTINF:-1,RECORD MINAS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461478
+#EXTINF:-1,RECORD MINAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461491
+#EXTINF:-1,RECORD MINAS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461496
+#EXTINF:-1,RECORD NEWS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462199
+#EXTINF:-1,RECORD NEWS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462188
+#EXTINF:-1,RECORD NEWS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462187
+#EXTINF:-1,RECORD RJ HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461477
+#EXTINF:-1,RECORD RJ SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461471
+#EXTINF:-1,RECORD RS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461485
+#EXTINF:-1,RECORD RS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461476
+#EXTINF:-1,RECORD RS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461497
+#EXTINF:-1,RECORD SANTOS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461492
+#EXTINF:-1,RECORD SERGIPE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461493
+#EXTINF:-1,RECORD SJRP HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461494
+#EXTINF:-1,RECORD SP FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461475
+#EXTINF:-1,RECORD SP HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461474
+#EXTINF:-1,RECORD SP SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461470
+#EXTINF:-1,RECORD TV BELEM HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461473
+#EXTINF:-1,RECORD TV BELEM SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461499
+#EXTINF:-1,RECORD TV PARANÁ FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461486
+#EXTINF:-1,RECORD TV PARANÁ HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461488
+#EXTINF:-1,RECORD TV SANTA CATARINA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461489
+#EXTINF:-1,RECORD UBERLANDIA MG HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461490
+#EXTINF:-1,REDE 21 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461856
+#EXTINF:-1,REDE BRASIL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461831
+#EXTINF:-1,REDE GOSPEL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461852
+#EXTINF:-1,REDE SUPER FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461855
+#EXTINF:-1,REDE TV FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461825
+#EXTINF:-1,REDE TV FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461818
+#EXTINF:-1,REDE TV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461824
+#EXTINF:-1,REDE TV SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461823
+#EXTINF:-1,REDE VIDA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461858
+#EXTINF:-1,REDE VIDA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461857
+#EXTINF:-1,REDE VIDA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461851
+#EXTINF:-1,Retrô Cartoon
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462180
+#EXTINF:-1,RIT TV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461850
+#EXTINF:-1,RIT TV SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461859
+#EXTINF:-1,SBT ARATU BAHIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461808
+#EXTINF:-1,SBT BRASILIA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461811
+#EXTINF:-1,SBT CAMPINAS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461805
+#EXTINF:-1,SBT CAMPINAS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461806
+#EXTINF:-1,SBT PARANA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461812
+#EXTINF:-1,SBT PR FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461799
+#EXTINF:-1,SBT PR HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461798
+#EXTINF:-1,SBT RECIFE SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461813
+#EXTINF:-1,SBT RJ FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461797
+#EXTINF:-1,SBT RJ HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461807
+#EXTINF:-1,SBT RJ SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461814
+#EXTINF:-1,SBT RS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461810
+#EXTINF:-1,SBT SERGIPE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461809
+#EXTINF:-1,SBT SERRA DOURADA FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461796
+#EXTINF:-1,SBT SERRA DOURADA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461802
+#EXTINF:-1,SBT SP FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461795
+#EXTINF:-1,SBT SP FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461815
+#EXTINF:-1,SBT SP HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461794
+#EXTINF:-1,SBT SP SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461793
+#EXTINF:-1,SBT TV ALTEROSA MG FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461803
+#EXTINF:-1,SBT TV ALTEROSA MG HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461804
+#EXTINF:-1,SBT TV CIDADE VERDE (PI) HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461801
+#EXTINF:-1,SBT TV JANGADEIRO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461816
+#EXTINF:-1,SBT TV JANGADEIRO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461817
+#EXTINF:-1,SBT TV JORNAL (PE) HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461800
+#EXTINF:-1,SHOPTIME FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462003
+#EXTINF:-1,SHOPTIME HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462009
+#EXTINF:-1,SPACE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461914
+#EXTINF:-1,SPACE FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461872
+#EXTINF:-1,SPACE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461913
+#EXTINF:-1,SPACE SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461912
+#EXTINF:-1,SPORTV 2 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461428
+#EXTINF:-1,SPORTV 2 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461429
+#EXTINF:-1,SPORTV 2 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461430
+#EXTINF:-1,SPORTV 2 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461431
+#EXTINF:-1,SPORTV 3 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461432
+#EXTINF:-1,SPORTV 3 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461433
+#EXTINF:-1,SPORTV 3 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461434
+#EXTINF:-1,SPORTV 3 SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461435
+#EXTINF:-1,SPORTV FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461424
+#EXTINF:-1,SPORTV FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461425
+#EXTINF:-1,SPORTV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461426
+#EXTINF:-1,SPORTV SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461427
+#EXTINF:-1,STAR CHANNEL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461911
+#EXTINF:-1,STAR CHANNEL FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461871
+#EXTINF:-1,STAR CHANNEL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461909
+#EXTINF:-1,STAR CHANNEL HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461378
+#EXTINF:-1,STAR CHANNEL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461908
+#EXTINF:-1,STAR CHANNEL SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461379
+#EXTINF:-1,STAR LIFE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461907
+#EXTINF:-1,STAR LIFE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461910
+#EXTINF:-1,STAR LIFE SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461906
+#EXTINF:-1,STAR+ 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461529
+#EXTINF:-1,STAR+ 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461530
+#EXTINF:-1,STAR+ 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461531
+#EXTINF:-1,STAR+ 4
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461532
+#EXTINF:-1,STAR+ 5
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461533
+#EXTINF:-1,STAR+ 6
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461534
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461905
+#EXTINF:-1,STUDIO UNIVERSAL FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461870
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461904
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461903
+#EXTINF:-1,SYFY FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461902
+#EXTINF:-1,SYFY FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461869
+#EXTINF:-1,SYFY HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461901
+#EXTINF:-1,SYFY SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461900
+#EXTINF:-1,TBS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461899
+#EXTINF:-1,TBS FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461868
+#EXTINF:-1,TBS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461898
+#EXTINF:-1,TBS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461897
+#EXTINF:-1,TCM FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461946
+#EXTINF:-1,TCM HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461896
+#EXTINF:-1,TCM SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461895
+#EXTINF:-1,TELECINE ACTION FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462097
+#EXTINF:-1,TELECINE ACTION FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462078
+#EXTINF:-1,TELECINE ACTION HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462096
+#EXTINF:-1,TELECINE ACTION HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461380
+#EXTINF:-1,TELECINE ACTION SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461381
+#EXTINF:-1,TELECINE ACTION SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462095
+#EXTINF:-1,TELECINE CULT FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462094
+#EXTINF:-1,TELECINE CULT FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462079
+#EXTINF:-1,TELECINE CULT HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462093
+#EXTINF:-1,TELECINE CULT HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461382
+#EXTINF:-1,TELECINE CULT SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462092
+#EXTINF:-1,TELECINE CULT SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461383
+#EXTINF:-1,TELECINE FUN FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462091
+#EXTINF:-1,TELECINE FUN FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462077
+#EXTINF:-1,TELECINE FUN HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462090
+#EXTINF:-1,TELECINE FUN HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461384
+#EXTINF:-1,TELECINE FUN SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462089
+#EXTINF:-1,TELECINE FUN SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461385
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462088
+#EXTINF:-1,TELECINE PIPOCA FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462076
+#EXTINF:-1,TELECINE PIPOCA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462087
+#EXTINF:-1,TELECINE PIPOCA HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461386
+#EXTINF:-1,TELECINE PIPOCA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462086
+#EXTINF:-1,TELECINE PIPOCA SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461387
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462085
+#EXTINF:-1,TELECINE PREMIUM FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462075
+#EXTINF:-1,TELECINE PREMIUM HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462084
+#EXTINF:-1,TELECINE PREMIUM HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461388
+#EXTINF:-1,TELECINE PREMIUM SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462083
+#EXTINF:-1,TELECINE PREMIUM SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461389
+#EXTINF:-1,TELECINE TOUCH FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462082
+#EXTINF:-1,TELECINE TOUCH FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462074
+#EXTINF:-1,TELECINE TOUCH HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462081
+#EXTINF:-1,TELECINE TOUCH HD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461390
+#EXTINF:-1,TELECINE TOUCH SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462080
+#EXTINF:-1,TELECINE TOUCH SD (LEG)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461391
+#EXTINF:-1,TERRA VIVA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461830
+#EXTINF:-1,TLC FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461975
+#EXTINF:-1,TLC FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461957
+#EXTINF:-1,TLC HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461974
+#EXTINF:-1,TLC SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461973
+#EXTINF:-1,TNT FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461894
+#EXTINF:-1,TNT FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461867
+#EXTINF:-1,TNT HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461893
+#EXTINF:-1,TNT SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461892
+#EXTINF:-1,TNT SERIES FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461891
+#EXTINF:-1,TNT SERIES FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461866
+#EXTINF:-1,TNT SERIES HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461890
+#EXTINF:-1,TNT SERIES SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461889
+#EXTINF:-1,TOONCAST FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462149
+#EXTINF:-1,TOONCAST HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462148
+#EXTINF:-1,TOONCAST SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462147
+#EXTINF:-1,TRAVEL BOX BRASIL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462004
+#EXTINF:-1,TRAVEL BOX BRASIL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462010
+#EXTINF:-1,TRUTV FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462005
+#EXTINF:-1,TRUTV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462002
+#EXTINF:-1,TRUTV SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462006
+#EXTINF:-1,TV APARECIDA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461849
+#EXTINF:-1,TV BRASIL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461837
+#EXTINF:-1,TV BRASIL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461836
+#EXTINF:-1,TV BRASIL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461838
+#EXTINF:-1,TV CAMARA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461822
+#EXTINF:-1,TV CIDADE - TERESOPOLIS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461839
+#EXTINF:-1,TV CULTURA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461840
+#EXTINF:-1,TV CULTURA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461821
+#EXTINF:-1,TV ESCOLA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461828
+#EXTINF:-1,TV EVANGILIZAR FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461860
+#EXTINF:-1,TV EVANGILIZAR HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461861
+#EXTINF:-1,TV EVANGILIZAR SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461848
+#EXTINF:-1,TV GAZETA SP FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461841
+#EXTINF:-1,TV GAZETA SP HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461820
+#EXTINF:-1,TV JUSTIÇA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461829
+#EXTINF:-1,TV MUNDIAL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461862
+#EXTINF:-1,TV NOVO TEMPO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461847
+#EXTINF:-1,TV NOVO TEMPO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461846
+#EXTINF:-1,TV NSPORTS HD (JOGO 1)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461538
+#EXTINF:-1,TV NSPORTS HD (JOGO 2)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461537
+#EXTINF:-1,TV NSPORTS HD (JOGO 3)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461536
+#EXTINF:-1,TV PAI ETERNO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461845
+#EXTINF:-1,TV PAI ETERNO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461863
+#EXTINF:-1,TV PAMPA RS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461833
+#EXTINF:-1,TV PAMPA RS HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461834
+#EXTINF:-1,TV RATIMBUM HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462143
+#EXTINF:-1,TV RATIMBUM SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462142
+#EXTINF:-1,TV SENADO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461819
+#EXTINF:-1,UNIVERSAL TV FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461888
+#EXTINF:-1,UNIVERSAL TV FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461865
+#EXTINF:-1,UNIVERSAL TV HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461887
+#EXTINF:-1,UNIVERSAL TV SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461886
+#EXTINF:-1,VH1 FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461955
+#EXTINF:-1,VH1 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462011
+#EXTINF:-1,VH1 MEGAHITS SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461972
+#EXTINF:-1,VIVA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461971
+#EXTINF:-1,VIVA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461970
+#EXTINF:-1,VIVA SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461969
+#EXTINF:-1,WARNER CHANNEL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461885
+#EXTINF:-1,WARNER CHANNEL FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461864
+#EXTINF:-1,WARNER CHANNEL HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461884
+#EXTINF:-1,WARNER CHANNEL SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461883
+#EXTINF:-1,WOOHOO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461968
+#EXTINF:-1,WOOHOO FHD (H265)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461956
+#EXTINF:-1,WOOHOO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461967
+#EXTINF:-1,WOOHOO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461966
+#EXTINF:-1,ZOOMO HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462145
+#EXTINF:-1,ZOOMO SD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462141
+#EXTINF:-1,ZOOMOO FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462181
+#EXTINF:-1,[24H] 3 Palavrinhas
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564011
+#EXTINF:-1,[24H] A Mansão Foster
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564012
+#EXTINF:-1,[24H] As Meninas Superpoderosas
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564013
+#EXTINF:-1,[24h] Bita e os Animais
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564014
+#EXTINF:-1,[24H] Caillou
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564015
+#EXTINF:-1,[24H] Cascão A Turma da Monica
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564016
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564017
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564018
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564019
+#EXTINF:-1,[24H] Caverna do Dragão 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564020
+#EXTINF:-1,[24H] Coragem o Cão Covarde 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564021
+#EXTINF:-1,[24H] Corrida Maluca 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564022
+#EXTINF:-1,[24H] Digimon 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564023
+#EXTINF:-1,[24H] Digimon 15º Aniversário
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564024
+#EXTINF:-1,[24H] Dragon Ball 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564025
+#EXTINF:-1,[24H] Dragon Ball 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564026
+#EXTINF:-1,[24H] Dragon Ball Heroes
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564027
+#EXTINF:-1,[24H] Dragon Ball Super 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564028
+#EXTINF:-1,[24H] Dragon Ball Super 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564029
+#EXTINF:-1,[24H] Dragon Ball Super 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564030
+#EXTINF:-1,[24H] Dragon Ball Z 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564031
+#EXTINF:-1,[24H] Dragon Ball Z 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564032
+#EXTINF:-1,[24H] Formiga Atômica
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564033
+#EXTINF:-1,[24H] Futurama
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564034
+#EXTINF:-1,[24h] Guardiões da Galaxia
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564035
+#EXTINF:-1,[24H] Looney Tunes
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564036
+#EXTINF:-1,[24H] Luluzinha 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564037
+#EXTINF:-1,[24H] Masha e o Urso
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564038
+#EXTINF:-1,[24H] Moranguinho 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564039
+#EXTINF:-1,[24H] Naruto
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564040
+#EXTINF:-1,[24H] O Clube das Winx
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564041
+#EXTINF:-1,[24H] Os Flinstones
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564042
+#EXTINF:-1,[24H] Os Padrinhos Mágicos
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564043
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 02
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564044
+#EXTINF:-1,[24H] Os Simpsons 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564045
+#EXTINF:-1,[24H] Os Simpsons 02
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564046
+#EXTINF:-1,[24H] Os Simpsons 03
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564047
+#EXTINF:-1,[24H] Os Simpsons 04
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564048
+#EXTINF:-1,[24H] Patrulha Canina 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564049
+#EXTINF:-1,[24H] Pica Pau 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564050
+#EXTINF:-1,[24H] Pink-e-Cerebro
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564051
+#EXTINF:-1,[24H] PJ Masks
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564052
+#EXTINF:-1,[24H] Popeye
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564053
+#EXTINF:-1,[24H] Show da Luna
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564054
+#EXTINF:-1,[24H] Tom & Jerry
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564055
+#EXTINF:-1,[24h] Ursinhos Carinhos
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564056
+#EXTINF:-1,24h Peppa Pig
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564057
+#EXTINF:-1,ALADIN 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564058
+#EXTINF:-1,As Meninas Superpoderosas 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564059
+#EXTINF:-1,BEN 10 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564060
+#EXTINF:-1,BOB ESPONJA 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564061
+#EXTINF:-1,CAO CORAGEM 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564062
+#EXTINF:-1,Caverna do Dragão 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564063
+#EXTINF:-1,CENTRAL KIDS 24HRS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564064
+#EXTINF:-1,Chapolin Colorado 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564065
+#EXTINF:-1,CHAVES DESENHO 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564066
+#EXTINF:-1,CINE KIDS 24HRS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564067
+#EXTINF:-1,Corrida Maluca
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564068
+#EXTINF:-1,Denis o Pimentinha 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564069
+#EXTINF:-1,Desenhos Biblicos 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564070
+#EXTINF:-1,Desenhos Disney 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564071
+#EXTINF:-1,Digimon 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564072
+#EXTINF:-1,Doug 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564073
+#EXTINF:-1,DRAGON BALL 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564074
+#EXTINF:-1,DRAGON BALL SUPER 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564075
+#EXTINF:-1,DRAGON BALL Z 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564076
+#EXTINF:-1,Galinha Pintadinha 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564077
+#EXTINF:-1,He-Man 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564078
+#EXTINF:-1,Historias Disney 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564079
+#EXTINF:-1,HOMEM ARANHA 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564080
+#EXTINF:-1,Homem de Ferro 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564081
+#EXTINF:-1,Hércules 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564082
+#EXTINF:-1,Jack-Chan 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564083
+#EXTINF:-1,Jaspion 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564084
+#EXTINF:-1,JIRAYA O Incrível Ninja 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564085
+#EXTINF:-1,Kenan e Kel 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564086
+#EXTINF:-1,Liga da Justica 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564087
+#EXTINF:-1,Luluzinha 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564088
+#EXTINF:-1,Medabots 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564089
+#EXTINF:-1,MegaMan 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564090
+#EXTINF:-1,Mortal Kombat 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564091
+#EXTINF:-1,Mr.Ben 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564092
+#EXTINF:-1,Naruto Shippuden DUB 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564093
+#EXTINF:-1,O Fantástico Mundo de Bobby 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564094
+#EXTINF:-1,O MASKARA 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564095
+#EXTINF:-1,Os Anjinhos - Rugrats 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564096
+#EXTINF:-1,OS CAVALEIROS DO ZODIACO 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564097
+#EXTINF:-1,OS FLINTSTONES 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564098
+#EXTINF:-1,OS SIMPSONS 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564099
+#EXTINF:-1,Os Vingadores 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564100
+#EXTINF:-1,Papa-Léguas 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564101
+#EXTINF:-1,PEQUENOS ESPIOES 24 HRS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564102
+#EXTINF:-1,PERNALONGA 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564103
+#EXTINF:-1,Phineas e Ferb 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564104
+#EXTINF:-1,PICA PAU 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564105
+#EXTINF:-1,Pink-e-Cerebro 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564106
+#EXTINF:-1,POKEMON 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564107
+#EXTINF:-1,Popeye O Marinheiro 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564108
+#EXTINF:-1,Rambo 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564109
+#EXTINF:-1,Scooby-Doo 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564110
+#EXTINF:-1,South Park 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564111
+#EXTINF:-1,Super Choque 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564112
+#EXTINF:-1,Superman 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564113
+#EXTINF:-1,TARTARUGAS NINJAS 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564114
+#EXTINF:-1,Thundercats 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564115
+#EXTINF:-1,TIMAO E PUMBA 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564116
+#EXTINF:-1,Tres Espias Demais 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564117
+#EXTINF:-1,Uma Família da Pesada 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564118
+#EXTINF:-1,X-MAN 24HS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564119
+#EXTINF:-1,YU-GI-OH 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564120
+#EXTINF:-1,YU-YU-Hakusho 24hs
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564121
+#EXTINF:-1,24H: A Feiticeira
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566157
+#EXTINF:-1,24H: A Grande Familia 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566158
+#EXTINF:-1,24H: A Grande Familia 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566159
+#EXTINF:-1,24H: Auto da Comparecida
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566160
+#EXTINF:-1,24H: Chapolin 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566161
+#EXTINF:-1,24H: Chaves 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566162
+#EXTINF:-1,24H: Dois Homens e Meio 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566163
+#EXTINF:-1,24H: Dois Homens e Meio 02
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566164
+#EXTINF:-1,24H: Dois Homens e Meio 03
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566165
+#EXTINF:-1,24H: Dois Homens e Meio 04
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566166
+#EXTINF:-1,24H: Dois Homens e Meio 05
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566167
+#EXTINF:-1,24H: Dois Homens e Meio 06
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566168
+#EXTINF:-1,24H: Dois Homens e Meio 07
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566169
+#EXTINF:-1,24H: Dois Homens e Meio 08
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566170
+#EXTINF:-1,24H: Dois Homens e Meio 09
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566171
+#EXTINF:-1,24H: Dois Homens e Meio 10
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566172
+#EXTINF:-1,24H: Dois Homens e Meio 11
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566173
+#EXTINF:-1,24H: Dois Homens e Meio 12
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566174
+#EXTINF:-1,24H: Escolinha do Professor Raimundo
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566175
+#EXTINF:-1,24H: Eu a Patroa e as Crianças 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566176
+#EXTINF:-1,24H: Eu a Patroa e as Crianças 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566177
+#EXTINF:-1,24H: Eu a Patroa e as Crianças 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566178
+#EXTINF:-1,24H: Eu a Patroa e as Crianças 4
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566179
+#EXTINF:-1,24H: Eu a Patroa e as Crianças 5
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566180
+#EXTINF:-1,24H: Friends 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566181
+#EXTINF:-1,24H: Friends 02
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566182
+#EXTINF:-1,24H: Friends 03
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566183
+#EXTINF:-1,24H: Friends 04
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566184
+#EXTINF:-1,24H: Friends 05
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566185
+#EXTINF:-1,24H: Friends 06
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566186
+#EXTINF:-1,24H: Friends 07
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566187
+#EXTINF:-1,24H: Friends 08
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566188
+#EXTINF:-1,24H: Friends 09
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566189
+#EXTINF:-1,24H: Friends 10
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566190
+#EXTINF:-1,24H: Os Trapalhões
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566191
+#EXTINF:-1,24H: Rick And Morty 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566192
+#EXTINF:-1,24H: Rick And Morty 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566193
+#EXTINF:-1,24H: Rick And Morty 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566194
+#EXTINF:-1,24H: Rick And Morty 4
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566195
+#EXTINF:-1,24H: Smallville 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566196
+#EXTINF:-1,24H: Smallville 02
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566197
+#EXTINF:-1,24H: Smallville 03
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566198
+#EXTINF:-1,24H: Smallville 04
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566199
+#EXTINF:-1,24H: Smallville 05
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566200
+#EXTINF:-1,24H: Smallville 06
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566201
+#EXTINF:-1,24H: Smallville 07
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566202
+#EXTINF:-1,24H: Smallville 08
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566203
+#EXTINF:-1,24H: Smallville 09
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566204
+#EXTINF:-1,24H: Smallville 10
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566205
+#EXTINF:-1,24H: Supernatural 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566206
+#EXTINF:-1,24H: Supernatural 02
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566207
+#EXTINF:-1,24H: Supernatural 03
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566208
+#EXTINF:-1,24H: Supernatural 04
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566209
+#EXTINF:-1,24H: Supernatural 05
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566210
+#EXTINF:-1,24H: Supernatural 06
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566211
+#EXTINF:-1,24H: Supernatural 07
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566212
+#EXTINF:-1,24H: Supernatural 08
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566213
+#EXTINF:-1,24H: Supernatural 09
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566214
+#EXTINF:-1,24H: Supernatural 10
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566215
+#EXTINF:-1,24H: Supernatural 11
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566216
+#EXTINF:-1,24H: Supernatural 12
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566217
+#EXTINF:-1,24H: Supernatural 13
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566218
+#EXTINF:-1,24H: Supernatural 14
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566219
+#EXTINF:-1,24H: Todo Mundo Odeia o Chris 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566220
+#EXTINF:-1,24H: Todo Mundo Odeia o Chris 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566221
+#EXTINF:-1,24H: Todo Mundo Odeia o Chris 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566222
+#EXTINF:-1,24H: Todo Mundo Odeia o Chris 4
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566223
+#EXTINF:-1,24H: Todo Mundo Odeia o Chris 5
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566224
+#EXTINF:-1,24H: Todo Mundo Odeia o Chris 6
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566225
+#EXTINF:-1,24H: Todo Mundo Odeia o Chris 7
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566226
+#EXTINF:-1,24H: Todo Mundo Odeia o Chris 8
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566227
+#EXTINF:-1,24H: Ultraman
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566228
+#EXTINF:-1,24H: Um Maluco no Pedaço 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566229
+#EXTINF:-1,24H: Um Maluco no Pedaço 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566230
+#EXTINF:-1,24H: Um Maluco no Pedaço 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566231
+#EXTINF:-1,24H: Um Maluco no Pedaço 4
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566232
+#EXTINF:-1,24H: Um Maluco no Pedaço 5
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566233
+#EXTINF:-1,24H: Um Maluco no Pedaço 6
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566234
+#EXTINF:-1,24H: Uma Família da Pesada 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566235
+#EXTINF:-1,24H: Vai que Cola 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566236
+#EXTINF:-1,24H: Vai que Cola 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566237
+#EXTINF:-1,24H: Vai que Cola 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566238
+#EXTINF:-1,24H: Vai que Cola 4
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566239
+#EXTINF:-1,24H: Vai que Cola 5
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566240
+#EXTINF:-1,24H: Vai que Cola 6
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566241
+#EXTINF:-1,24H: Vai que Cola 7
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566242
+#EXTINF:-1,24H: Vai que Cola 8
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566243
+#EXTINF:-1,24H: Xena
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566244
+#EXTINF:-1,[24H] Chapolin 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566305
+#EXTINF:-1,[24H] Chaves
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566306
+#EXTINF:-1,[24H] Dois Homens e Meio 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566307
+#EXTINF:-1,[24H] Eu a Patroa e as Crianças 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566308
+#EXTINF:-1,[24H] Eu a Patroa e as Crianças 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566309
+#EXTINF:-1,[24H] Friends 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566310
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566311
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566312
+#EXTINF:-1,[24H] Um Maluco no Pedaço 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566313
+#EXTINF:-1,[24H] Um Maluco no Pedaço 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566314
+#EXTINF:-1,[24H] Vai que Cola 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566315
+#EXTINF:-1,[24H] Vai que Cola 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566316
+#EXTINF:-1,[24H] A Culpa é do Cabral 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566317
+#EXTINF:-1,[24H] Porta dos Fundos 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566318
+#EXTINF:-1,[24H] YT-Delegado Dacunha 01
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566319
+#EXTINF:-1,[24H] YT-Delegado Dacunha 02
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566320
+#EXTINF:-1,[24H] YT-Investigação Criminal
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566321
+#EXTINF:-1,[24H] YT-Policia Militar
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566322
+#EXTINF:-1,UK: SKY Store 1
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789146
+#EXTINF:-1,UK: SKY Store 2
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789147
+#EXTINF:-1,UK: SKY Store 3
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789148
+#EXTINF:-1,UK: SKY Store 4
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789149
+#EXTINF:-1,UK: SKY Store PreOrder 1 OFF
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789150
+#EXTINF:-1,UK: SKY SPORT PREMIER LEAGUE FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789152
+#EXTINF:-1,UK: SKY SPORT PREMIER LEAGUE HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789153
+#EXTINF:-1,UK: SKY SPORT ARENA HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789154
+#EXTINF:-1,UK: SKY SPORT ARENA FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789155
+#EXTINF:-1,UK: SKY SPORT ACTION HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789156
+#EXTINF:-1,UK: SKY SPORT GOLF HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789158
+#EXTINF:-1,UK: SKY SPORT GOLF FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789159
+#EXTINF:-1,UK: SKY SPORT MAIN EVENT HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789160
+#EXTINF:-1,UK: SKY SPORT MAIN EVENT FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789161
+#EXTINF:-1,UK: SKY SPORT CRICKET HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789162
+#EXTINF:-1,UK: SKY SPORT CRICKET FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789163
+#EXTINF:-1,UK: SKY SPORT F1 FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789164
+#EXTINF:-1,UK: SKY SPORT F1 HD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789165
+#EXTINF:-1,UK: SKY SPORT FOOTBALL FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789166
+#EXTINF:-1,UK: SKY SPORT MIX FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789167
+#EXTINF:-1,UK: SKY SPORT NEWS FHD
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789168
+#EXTINF:-1,Sky Sports News
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789170
+#EXTINF:-1,Sky Sports Main Event
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789171
+#EXTINF:-1,Sky Sports Premier League
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789172
+#EXTINF:-1,Sky Sports Cricket
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/789173
+#EXTINF:-1,RECORD RJ HD¹
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878797
+#EXTINF:-1,CONMEBOL TV SD (JOGO 1)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878798
+#EXTINF:-1,CONMEBOL TV SD (JOGO 4)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878799
+#EXTINF:-1,CONMEBOL TV SD (JOGO 2)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878800
+#EXTINF:-1,CONMEBOL TV SD (JOGO 3)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878801
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 1)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878802
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 2)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878803
+#EXTINF:-1,CONMEBOL TV HD (JOGO 1)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878804
+#EXTINF:-1,CONMEBOL TV HD (JOGO 2)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878805
+#EXTINF:-1,CONMEBOL TV FHD (JOGO 3)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878806
+#EXTINF:-1,CONMEBOL TV HD (JOGO 3)
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/878807
