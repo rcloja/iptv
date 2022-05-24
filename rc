@@ -525,7 +525,7 @@ https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w434783942.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/uni.png" group-title="VARIEDADES", UNI TV BURITAMA
 https://stmv1.srvif.com/unifm/unifm/chunklist_w1316000259.m3u8
 
-#EXTINF:-1 tvg-logo="hhttp://milionariohomeoffice.com.br/img/aish.png" group-title="FILMES", AISH TV
+#EXTINF:-1 tvg-logo="hhttp://milionariohomeoffice.com.br/img/aishtv.png" group-title="FILMES", AISH TV
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w985059288.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/metropolitana.png" group-title="VARIEDADES", TV METROPOLITANA RIO
@@ -555,7 +555,7 @@ https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/singular.png" group-title="MÚSICAS", SINGULAR TV
 https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
 
-#EXTINF:-1 tvg-logo="hthttp://milionariohomeoffice.com.br/img/catedralrock.png" group-title="MÚSICAS", CATEDRAL DO ROCK
+#EXTINF:-1 tvg-logo="hthttp://milionariohomeoffice.com.br/img/catedral.png" group-title="MÚSICAS", CATEDRAL DO ROCK
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w1704335745.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/kronehits.png" group-title="MÚSICAS", kRONEHIT
