@@ -390,7 +390,7 @@ https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/chunklist_3655158e-
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/antena1.png" group-title="RÁDIOS", RÁDIO ANTENA1 FM
 https://antenaone.crossradio.com.br/stream
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/98.png" group-title="RÁDIOS",98 FM 
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/98FM.png" group-title="RÁDIOS",98 FM 
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
 
 #EXTINF:-1 tvg-id="Cbn.br" tvg-shift="0" tvg-logo="http://milionariohomeoffice.com.br/img/rádiocbn.png" group-title="RÁDIOS",RÁDIO CBN 
