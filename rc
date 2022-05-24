@@ -867,7 +867,7 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461840
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/kiss.png" group-title="MÚSICAS", KISS TV
 https://cast.cdnseguro.com:19360/8094/8094.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvvieo.png" group-title="VARIEDADES", TVIDEONEWS 
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvvideo.png" group-title="VARIEDADES", TVIDEONEWS 
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/saude.png" group-title="VARIEDADES", CANAL SAÚDE
@@ -927,7 +927,7 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvpantanal.png" group-title="ABERTOS", REDE TV! TV PANTANAL (MT)
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/novelissima.png" group-title="NOVELAS", NOVELISSIMA
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/novelissma.png" group-title="NOVELAS", NOVELISSIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 
 #EXTINF:-1  tvg-logo="http://milionariohomeoffice.com.br/img/sonynovelas.png" group-title="NOVELAS", SONY NOVELAS
