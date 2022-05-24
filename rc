@@ -948,22 +948,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1111
 EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/soul.png" group-title="VARIEDADES" SOUL TV
 https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="ABERTOS",CNN BRASIL
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnn.png" group-title="ABERTOS",CNN BRASIL
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
-#EXTINF:1 group-title="ABERTOS" ,TV CONQUISTA - RECORD TV
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS" ,TV CONQUISTA - RECORD TV
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
-#EXTINF:1 group-title="VARIEDADES" ,TV R
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tvr.png" group-title="VARIEDADES" ,TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 
-#EXTINF:1 group-title="VARIEDADES" ,MODA ZINZANE
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/moda.png" group-title="VARIEDADES" ,MODA ZINZANE
 https://livefocamundo.com:8081/zinzane/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 group-title="VARIEDADES" ,TV A7
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/a7.png" group-title="VARIEDADES" ,TV A7
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 
-#EXTINF:1 group-title="VARIEDADES" ,GLN TV 2
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tv2.png" group-title="VARIEDADES" ,GLN TV 2
 https://srv2.zcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:1 group-title="FILMES" ,CLC TV
