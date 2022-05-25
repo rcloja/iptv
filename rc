@@ -1041,7 +1041,7 @@ http://187.95.95.241:7983/matopiba/tracks-v2a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/florida.png"group-title="VARIEDADES" ,TV FLORIDA
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/all.png" group-title="ESPORTES" ,ALL SPORTS 2
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/allsports.png" group-title="ESPORTES" ,ALL SPORTS 2
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/abc.png" group-title="VARIEDADES" ,TV MAIS ABC
@@ -1065,7 +1065,7 @@ https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/wtv.png"group-title="VARIEDADES" ,WTV BRASIL
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/nações.png" group-title="VARIEDADES" ,TV AVIVANDO NAÇÕES
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/nacoes.png" group-title="VARIEDADES" ,TV AVIVANDO NAÇÕES
 https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/mkk.png" group-title="VARIEDADES" ,MKK TV
@@ -1089,7 +1089,7 @@ http://206.217.202.3:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/asian.png" group-title="VARIEDADES" ,ASIAN TV
 https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/barcelos.png" group-title="VARIEDADES" ,BARCELLOS
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/barcellos.png" group-title="VARIEDADES" ,BARCELLOS
 https://video01.soultv.com.br/barcellos/barcellos/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/agricolas.png" group-title="AGRONEGÓCIOS" ,NOTÍCIAS AGRÍCOLAS
@@ -1152,7 +1152,7 @@ https://video01.soultv.com.br/marcaodopovo/marcaodopovo/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pessoa.png" group-title="VARIEDADES" ,UNIVERSIDADE DA PESSOA
 https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/avança.png" group-title="VARIEDADES" , AVANÇA BRASIL
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/avanca.png" group-title="VARIEDADES" , AVANÇA BRASIL
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/feliz.png" group-title="VARIEDADES" ,FELIZ 7 PLAY
