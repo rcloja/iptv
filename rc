@@ -522,6 +522,9 @@ https://alanza.iptv2022.com/GLN_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvcei.png" group-title="VARIEDADES", TVCEI 
 https://stmv2.samcast.com.br/eduardo7982/eduardo7982/chunklist_w152114165.m3u8
 
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sdp.png" group-title="VARIEDADES", REDE SDP TV_  
+https://video01.kshost.com.br/moobi3963/moobi3963/chunklist_w1375409456.m3u8
+
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sul.png" group-title="FILMES", REDE TV SUL
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w434783942.m3u8
 
