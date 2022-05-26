@@ -393,6 +393,9 @@ https://antenaone.crossradio.com.br/stream
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/98FM.png" group-title="RÁDIOS",98 FM 
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/alpha.png" group-title="RÁDIOS" , ALPHA FM
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLluFzI0R4hFwGIqKyZKi33tuVV7hiwvft-kqTjONApKp)/dm/3/x82yivf/s/live-4.m3u8#cell=lnyc
+
 #EXTINF:-1 tvg-id="Cbn.br" tvg-shift="0" tvg-logo="http://milionariohomeoffice.com.br/img/rádiocbn.png" group-title="RÁDIOS",RÁDIO CBN 
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
@@ -1104,14 +1107,8 @@ https://video01.soultv.com.br/juventude/juventude/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pop.png" group-title="VARIEDADES" ,POP Bola
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/bia.png" group-title="VARIEDADES" ,Bia Kicis
-https://video01.soultv.com.br/biakicis/biakicis/playlist.m3u8
-
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/bwe.png"group-title="VARIEDADES" ,BWE
 https://video01.soultv.com.br/bwe/bwe/playlist.m3u8
-
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/lito.png" group-title="VARIEDADES" ,LITO CAVALCANTI
-https://video01.soultv.com.br/litocavalcanti/litocavalcanti/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/viajandopelobrasil.png" group-title="VARIEDADES" ,Viajando pelo Brasil
 https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
@@ -1142,12 +1139,6 @@ https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/paulo.png" group-title="VARIEDADES" ,PAULO ZORELLO KICKBOXING
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
-
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/barth.png" group-title="VARIEDADES" ,FERNANDA BARTH
-https://video01.soultv.com.br/diretoaoponto/diretoaoponto/playlist.m3u8
-
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/povo.png" group-title="VARIEDADES" ,CANAL MARCÃO DO POVO
-https://video01.soultv.com.br/marcaodopovo/marcaodopovo/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pessoa.png" group-title="VARIEDADES" ,UNIVERSIDADE DA PESSOA
 https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
