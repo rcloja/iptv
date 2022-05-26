@@ -828,7 +828,7 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461824
 #EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="http://milionariohomeoffice.com.br/img/rit.png" group-title="RELIGIOSOS", RIT TV 
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461850
 
-#EXTINF:-1 tvg-id="" tvg-name="Rádio The Goog Life Radi - 102.3 FM" tvg-logo="http://milionariohomeoffice.com.br/img/thegood.png" group-title="RÁDIOS", RÁDIO THE GOOD LIFE RADI
+#EXTINF:-1 tvg-id="tvg-name="Rádio The Goog Life Radi - 102.3 FM" tvg-logo="http://milionariohomeoffice.com.br/img/thegood.png" group-title="RÁDIOS", RÁDIO THE GOOD LIFE RADI
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=36YnV9STBqc
 
 #EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi RJ - 96.5 FM" tvg-logo="http://milionariohomeoffice.com.br/img/radiotupi.png" group-title="RÁDIOS", SUPER RÁDIO TUPI
