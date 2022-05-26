@@ -1,6 +1,6 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo=http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES", BAND SPORTS
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES", BAND SPORTS
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461392
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES",SPORTV
