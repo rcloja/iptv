@@ -951,9 +951,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rcn.png" group-title="NOVELAS", RCN NOVELAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1111
 
-EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/soul.png" group-title="VARIEDADES" SOUL TV
-https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnn.png" group-title="ABERTOS",CNN BRASIL
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
@@ -1157,3 +1154,8 @@ http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/ox.png" group-title="VARIEDADES" ,OX TV
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
+
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pontv.png" group-title="VARIEDADES" ,PONTV
+https://video01.soultv.com.br/canalteste/canalteste/playlist.m3u8
+
+############################### 
