@@ -705,6 +705,9 @@ https://video01.kshost.com.br:4443/marcos1646/marcos1646/chunklist_w1607825996.m
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/novotempo.png" group-title="RELIGIOSOS", TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/920-9203951_esperanza-tv-hope-channel.png" group-title="RELIGIOSOS", ESPERANZA TV
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b4192000.m3u8
+
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rederc.png" group-title="VARIEDADES", REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/chunklist_w168745200.m3u8
 
