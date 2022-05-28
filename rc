@@ -758,11 +758,18 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pegadinhas.png", PEGADINHAS  
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 
-#EXTINF:-1 tvg-id="globo.rs.br" tvg-name="GLOBO RS" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS", GLOBO RBS PORTO ALEGRE RS
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461740
-
-#EXTINF:-1 tvg-id="globo.rs.br" tvg-name="GLOBO ES" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS", GLOBO GAZETA ES
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461636
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA FHD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA FHD
+http://cdn.cteam.me:80/083830/305776/288
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA HD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA HD
+http://cdn.cteam.me:80/083830/305776/289
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA SD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA SD
+http://cdn.cteam.me:80/083830/305776/290
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ FHD
+http://cdn.cteam.me:80/083830/305776/291
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ HD
+http://cdn.cteam.me:80/083830/305776/292
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ SD
+http://cdn.cteam.me:80/083830/305776/293
 
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnn.png" group-title="ABERTOS",CNN BRASIL 2
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462194
