@@ -4,13 +4,13 @@
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461392
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES",SPORTV
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461424
+http://cdn.cteam.me:80/083830/305776/595
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES",ESPN
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461400
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="ESPORTES",COMBATE
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461398
+http://cdn.cteam.me:80/083830/305776/105
 
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="http://milionariohomeoffice.com.br/img/natureza.png" group-title="CURIOSIDADES", NATUREZA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -2386,28 +2386,26 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461872
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461913
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/SPACE.png" group-title="FILMES",SPACE SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461912
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="ESPORTES",SPORTV 2 FHD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461428
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="ESPORTES",SPORTV 2 FHD (H265)
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461429
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="ESPORTES",SPORTV 2 HD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461430
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="ESPORTES",SPORTV 2 SD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461431
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://www.desktop.com.br/wp-content/uploads/2022/03/SporTV-3.png" group-title="ESPORTES",SPORTV 3 FHD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461432
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD (H265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="ESPORTES",SPORTV 3 FHD (H265)
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461433
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="ESPORTES",SPORTV 3 HD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461434
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="ESPORTES",SPORTV 3 SD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461435
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD (H265)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES",SPORTV FHD (H265)
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461425
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES",SPORTV HD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461426
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES",SPORTV SD
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461427
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 FHD" tvg-logo="" group-title=ESPORTES,SPORTV 2 FHD
+http://cdn.cteam.me:80/083830/305776/588
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="" group-title=ESPORTES,SPORTV 2 HD
+http://cdn.cteam.me:80/083830/305776/589
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 SD" tvg-logo="" group-title=ESPORTES,SPORTV 2 SD
+http://cdn.cteam.me:80/083830/305776/590
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 FHD" tvg-logo="" group-title=ESPORTES,SPORTV 3 FHD
+http://cdn.cteam.me:80/083830/305776/591
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD" tvg-logo="" group-title=ESPORTES,SPORTV 3 HD
+http://cdn.cteam.me:80/083830/305776/592
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 SD" tvg-logo="" group-title=ESPORTES,SPORTV 3 SD
+http://cdn.cteam.me:80/083830/305776/593
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4" tvg-logo="" group-title=ESPORTES,SPORTV 4
+http://cdn.cteam.me:80/083830/305776/594
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD" tvg-logo="" group-title=ESPORTES,SPORTV FHD
+http://cdn.cteam.me:80/083830/305776/595
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD" tvg-logo="" group-title=ESPORTES,SPORTV HD
+http://cdn.cteam.me:80/083830/305776/596
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV SD" tvg-logo="" group-title=ESPORTES,SPORTV SD
+
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title="FILMES",STAR CHANNEL FHD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461911
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-aLoYeViBiqc/YBx4UEvHXpI/AAAAAAAAJ4A/2fKw-l73j30BISNKY0BC3ATlFJHqtPxXACLcBGAsYHQ/FOX.png" group-title=" EXCLUSIVOS",STAR CHANNEL FHD (H265)
