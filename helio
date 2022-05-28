@@ -427,12 +427,18 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pegadinhas.png", PEGADINHAS  
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 
-#EXTINF:-1 tvg-id="globo.rs.br" tvg-name="GLOBO RS" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS", GLOBO RBS PORTO ALEGRE RS
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461740
-
-#EXTINF:-1 tvg-id="globo.rs.br" tvg-name="GLOBO ES" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS", GLOBO GAZETA ES
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461636
-
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA FHD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA FHD
+http://cdn.cteam.me:80/083830/305776/288
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA HD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA HD
+http://cdn.cteam.me:80/083830/305776/289
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA SD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA SD
+http://cdn.cteam.me:80/083830/305776/290
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ FHD
+http://cdn.cteam.me:80/083830/305776/291
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ HD
+http://cdn.cteam.me:80/083830/305776/292
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ SD
+http://cdn.cteam.me:80/083830/305776/293
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnn.png" group-title="ABERTOS",CNN BRASIL 2
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462194
 
@@ -744,7 +750,7 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462012
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461954
 #EXTINF:-1 tvg-id="" tvg-name="ARTE 1 SD" tvg-logo="https://lh3.googleusercontent.com/-fpiVO2imhf4/YB1kAESQUfI/AAAAAAAAJ7g/DrG7OC1klgA5u-YcbP3lmRW8zLNbXYUPACLcBGAsYHQ/ARTE%2B1.png" group-title="VARIEDADES",ARTE 1 SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462013
-#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND MINAS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND MINAS HD
+#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND MINAS HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="ABERTOS",BAND MINAS HD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461780
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="JORNALISMO",BAND NEWS FHD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462197
@@ -760,9 +766,9 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461393
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461394
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES",BAND SPORTS SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461395
-#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND TV GOIANIA FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND TV GOIANIA FHD (H265)
+#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND TV GOIANIA FHD (H265)" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="ABERTOS",BAND TV GOIANIA FHD (H265)
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461773
-#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND TV GOIANIA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="BAND",BAND TV GOIANIA HD
+#EXTINF:-1 tvg-id="Band Bahia HD" tvg-name="BAND TV GOIANIA HD" tvg-logo="https://1.bp.blogspot.com/-tLWOgNOLjFQ/YBxY92jVlzI/AAAAAAAAJz4/vCmXPyyDWqUDJ0PdEOy_99upu0jiDc0YQCLcBGAsYHQ/s0/band.png" group-title="ABERTOS",BAND TV GOIANIA HD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461790
 #EXTINF:-1 tvg-id="" tvg-name="BBC WORLD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1280px-BBC_World_News_red.svg.png" group-title="JORNALISMO",BBC WORLD FHD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462198
@@ -968,11 +974,11 @@ http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462185
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462190
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://lh3.googleusercontent.com/-Fui-0y_xQnc/YB608kI_g1I/AAAAAAAAJ_s/QDYTfrUn-6sdi8Wexz19m_q5gZDOS7oXwCLcBGAsYHQ/Globo%2BNews.png" group-title="JORNALISMO",GLOBO NEWS SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462189
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SJRP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="REDE GLOBO",GLOBO SJRP HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SJRP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="ABERTOS",GLOBO SJRP HD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461606
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="REDE GLOBO",GLOBO SJRP SD
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SJRP SD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="ABERTOS",GLOBO SJRP SD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461697
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="REDE GLOBO",GLOBO SP HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="ABERTOS",GLOBO SP HD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461604
 #EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/GNT.png" group-title="VARIEDADES",GNT FHD
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461989
