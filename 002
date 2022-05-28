@@ -1,15 +1,15 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES",BAND SPORTS FHD
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES",BAND SPORTS
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461392
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES",SPORTV FHD
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES",SPORTV
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461424
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES",ESPN FHD
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES",ESPN
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461400
 
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="ESPORTES",COMBATE HD
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="ESPORTES",COMBATE
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461398
 
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="http://milionariohomeoffice.com.br/img/natureza.png" group-title="CURIOSIDADES", NATUREZA
@@ -752,11 +752,18 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s1600/logo_blog_azul.png", PEGADINHAS  
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 
-#EXTINF:-1 tvg-id="globo.rs.br" tvg-name="GLOBO RS" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="ABERTOS", GLOBO RBS PORTO ALEGRE RS
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461740
-
-#EXTINF:-1 tvg-id="globo.rs.br" tvg-name="GLOBO ES" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="ABERTOS", GLOBO GAZETA ES
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461636
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA FHD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA FHD
+http://cdn.cteam.me:80/083830/305776/288
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA HD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA HD
+http://cdn.cteam.me:80/083830/305776/289
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA SD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA SD
+http://cdn.cteam.me:80/083830/305776/290
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ FHD
+http://cdn.cteam.me:80/083830/305776/291
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ HD
+http://cdn.cteam.me:80/083830/305776/292
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ SD
+http://cdn.cteam.me:80/083830/305776/293
 
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="JORNALISMO",CNN BRASIL 2
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462194
