@@ -111,6 +111,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761df
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bmec.png" group-title="JORNALISMO",BM&C NEWS
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/BMCNEWStv/live
 
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/920-9203951_esperanza-tv-hope-channel.png" group-title="RELIGIOSOS", ESPERANZA TV
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b4192000.m3u8
+
 #EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="http://milionariohomeoffice.com.br/img/arnold.png" group-title="HUMOR", ARNOLD - DIFF'RENT STROKES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
