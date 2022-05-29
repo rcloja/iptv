@@ -1070,4 +1070,7 @@ https://cdn2.connectbr.com.br/oxtv/video.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pontv.png" group-title="VARIEDADES" ,PONTV
 https://video01.soultv.com.br/canalteste/canalteste/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="INTERNACIONAIS",AL JAZEERA INGLÊS
+http://i.mjh.nz/nz/tv.46.m3u8
+
 ############################### 
