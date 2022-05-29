@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="http://milionariohomeoffice.com.br/img/natureza.png" group-title="CURIOSIDADES", NATUREZA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="http://milionariohomeoffice.com.br/img/jovempan.png" group-title="VARIEDADES", TV JOVEM PAN
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="602e80c762306a0007179876" tvg-logo="http://milionariohomeoffice.com.br/img/jovempan.png" group-title="VARIEDADES", JOVEM PAN
+http://cdn.cteam.me:80/083830/305776/114153
 
 #EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD" tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS", RECORD
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1274700638.m3u8
@@ -13,7 +13,7 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT 
-http://cdn.cteam.me:80/083830/305776/572
+http://cdn.cteam.me:80/083830/305776/114335
 
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="http://milionariohomeoffice.com.br/img/band.png" group-title="ABERTOS", BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
@@ -43,7 +43,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
 #EXTINF:-1 tvg-id="" tvg-name="AGROMAIS HD" tvg-logo="http://milionariohomeoffice.com.br/img/agro.png" group-title="AGRONEGÓCIO",AGROMAIS
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461842
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461844
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/terraviva.png" group-title="AGRONEGÓCIO", TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
@@ -63,23 +63,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798d
 #EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-logo="http://milionariohomeoffice.com.br/img/babyfirst.png" group-title="INFANTIS", BABYFIRST
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bandnewsfm.png" group-title="RÁDIOS", BANDNEWS FM YT
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live
-
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/gideoes.png" group-title="RELIGIOSOS",TV GIDEÕES
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="http://milionariohomeoffice.com.br/img/maoamiga.png" group-title="RELIGIOSOS",TV MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvt.png" group-title="VARIEDADES", REDE TVT
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/redetvt
-
 #EXTINF:-1 tvg-id="TVMackenzie.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/tvmackenzie.png" group-title="VARIEDADES",TV MACKENZIE
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/unitv.png" group-title="CURIOSIDADES",UNI TV PORTO ALEGRE
-http://unitvaovivo.ufrgs.br:8080/live.ogg
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/xr.png" group-title="CURIOSIDADES", XR HEALTH
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
@@ -107,9 +98,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 
 #EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-logo="http://milionariohomeoffice.com.br/img/turbo.png" group-title="ESPORTES",TURBO
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bmec.png" group-title="JORNALISMO",BM&C NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/BMCNEWStv/live
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/920-9203951_esperanza-tv-hope-channel.png" group-title="RELIGIOSOS", ESPERANZA TV
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b4192000.m3u8
@@ -167,9 +155,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9e
 
 #EXTINF:-1 tvg-id="canaldocriador" tvg-logo="http://milionariohomeoffice.com.br/img/canaldocriador.png" group-title="AGRONEGÓCIO", CANAL DO CRIADOR
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w1923658152_b2596000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="skynewsingles" tvg-logo="http://milionariohomeoffice.com.br/img/skynews.png" group-title="JORNALISMO", SKY NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SkyNews/live
 
 #EXTINF:-1 tvg-id="mundotv" tvg-logo="http://milionariohomeoffice.com.br/img/redemundotv.png" group-title="JORNALISMO", REDE MUNDO TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1636404133.m3u8
@@ -229,7 +214,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/picapau.png" group-title="INFANTIS", PICA PAU
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564050
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/564105
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/viajandopelobrasil.png" group-title="CURIOSIDADES", VIAJANDO PELO BRASIL
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
@@ -363,9 +348,6 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/novaera.png" group-title="JORNALISMO", NOVA ERA TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sagres.png" group-title="JORNALISMO", SAGRES TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/SagresTV/live
-
 #EXTINF:-1 tvg-id="Assembleia.go" tvg-logo="http://milionariohomeoffice.com.br/img/tvalego.png" group-title="JORNALISMO",TV ALEGO
 https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 
@@ -396,9 +378,6 @@ https://antenaone.crossradio.com.br/stream
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/98FM.png" group-title="RÁDIOS",98 FM 
 https://radio98fm-lh.akamaihd.net/i/pp_1@359238/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/alpha.png" group-title="RÁDIOS" , ALPHA FM
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLluFzI0R4hFwGIqKyZKi33tuVV7hiwvft-kqTjONApKp)/dm/3/x82yivf/s/live-4.m3u8
-
 #EXTINF:-1 tvg-id="Cbn.br" tvg-shift="0" tvg-logo="http://milionariohomeoffice.com.br/img/rádiocbn.png" group-title="RÁDIOS",RÁDIO CBN 
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
@@ -420,43 +399,40 @@ https://596639ebdd89b.streamlock.net/8032/8032/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/demand.png" group-title="VARIEDADES", DEMAND AFRICA
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/itv.png" group-title="VARIEDADES",ITV 
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="http://milionariohomeoffice.com.br/img/primer.png" tvg-shift="0" group-title="VARIEDADES", PRIMER TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/premiun.png" group-title="VARIEDADES", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://milionariohomeoffice.com.br/img/pampa.png" group-title="ABERTOS",TV PAMPA - REDE TV RS
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="http://milionariohomeoffice.com.br/img/pampa.png" group-title="ABERTOS",PAMPA - REDE TV RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/carioca.png" group-title="VARIEDADES",TV CARIOCA
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/carioca.png" group-title="VARIEDADES",CARIOCA
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/diariosertão.png" group-title="VARIEDADES", TV DIÁRIO DO SERTÃO
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/diariosertão.png" group-title="VARIEDADES", DIÁRIO DO SERTÃO
 https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
 
-#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/galega.png" group-title="VARIEDADES",TV GALEGA
+#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/galega.png" group-title="VARIEDADES",GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmetropole.br" " tvg-logo="http://milionariohomeoffice.com.br/img/metropole.png" group-title="VARIEDADES", TV METRÓPOLE
+#EXTINF:-1 tvg-id="Tvmetropole.br" " tvg-logo="http://milionariohomeoffice.com.br/img/metropole.png" group-title="VARIEDADES", METRÓPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmon.br"  tvg-logo="http://milionariohomeoffice.com.br/img/tvmon.png"group-title="JORNALISMO", TV MON 
+#EXTINF:-1 tvg-id="Tvmon.br"  tvg-logo="http://milionariohomeoffice.com.br/img/tvmon.png"group-title="JORNALISMO", MON 
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cecilia.png" group-title="VARIEDADES",TV SANTA CECILÍA
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cecilia.png" group-title="VARIEDADES",SANTA CECILÍA
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redeuniao.png" group-title="VARIEDADES",TV UNIÃO BRASÍLIA
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redeuniao.png" group-title="VARIEDADES",UNIÃO BRASÍLIA
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/novaplay.png" group-title="FILMES", TV NOVA PLAY
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/novaplay.png" group-title="FILMES", NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w2132402810.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/osorio.png" group-title="FILMES", TV OSÓRIO NEW
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/osorio.png" group-title="FILMES", OSÓRIO NEW
 https://stmv1.srvif.com/classique/classique/chunklist_w281502717.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rtl.png" group-title="MÚSICAS", RTL (ITÁLIA)
@@ -471,19 +447,19 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/top.png" group-title="MÚSICAS", TOP LATINO TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNT PORTO ALEGRE.br" tvg-logo="http://milionariohomeoffice.com.br/img/cnt.png" group-title="RELIGIOSOS",CNT PORTO ALEGRE
-https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="CNT PORTO ALEGRE.br" tvg-logo="http://milionariohomeoffice.com.br/img/cnt.png" group-title="RELIGIOSOS",CNT
+http://cdn.cteam.me:80/083830/305776/113851
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/channel.png" group-title="FILMES", TV CHANNEL1 LIVE
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/channel.png" group-title="FILMES", CHANNEL1 LIVE
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1940705139.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/classique.png" group-title="FILMES", CLASSIQUE TV WETERN
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w696892955.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aracati.png" group-title="VARIEDADES", TV ARACATI
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aracati.png" group-title="VARIEDADES", ARACATI
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bonstempos.png" group-title="FILMES", TV BONS TEMPOS
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bonstempos.png" group-title="FILMES", BONS TEMPOS
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w183811379.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/peruchannel.png" group-title="VARIEDADES", PERU CHANNEL
@@ -495,28 +471,22 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1566964103.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/canal29.png" group-title="VARIEDADES", CANAL 29 
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/jsid.png" group-title="FILMES", TV J.SID 
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/jsid.png" group-title="FILMES", J.SID 
 https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/classiquetv.png" group-title="FILMES", CLASSIQUE TV CULT MOVIES
 https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w1340472308.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvmaceio.png" group-title="ABERTOS",TV MACEIÓ 
-https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvmar.png" group-title="VARIEDADES",TV MAR
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvmar.png" group-title="VARIEDADES",MAR
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/faap.png" group-title="VARIEDADES",TV FAAP
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/faap.png" group-title="VARIEDADES",FAAP
 https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/confiego.png" group-title="RELIGIOSOS", TV CONFIEGO
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/confiego.png" group-title="RELIGIOSOS", CONFIEGO
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w366353926.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/webtv.png" group-title="VARIEDADES", WEB TV CINE
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w419468724.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loading.png" group-title="INFANTIS", TV LOADING
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loading.png" group-title="INFANTIS", LOADING
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1440029724.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gln.png" group-title="VARIEDADES", GLN TV 
@@ -537,7 +507,7 @@ https://stmv1.srvif.com/unifm/unifm/chunklist_w1316000259.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aishtv.png" group-title="FILMES", AISH TV
 https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w985059288.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/metropolitana.png" group-title="VARIEDADES", TV METROPOLITANA RIO
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/metropolitana.png" group-title="VARIEDADES", METROPOLITANA RIO
 https://alanza.iptv2022.com/METROPOLITANA_RIO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/channel.png" group-title="VARIEDADES", TV CHANNEL NETWORK
@@ -576,7 +546,7 @@ http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/top.png" group-title="MÚSICAS",TOP TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvestado.png" group-title="VARIEDADES", TV ESTADO
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvestado.png" group-title="VARIEDADES", ESTADO
 https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/awtv.png" group-title="VARIEDADES",AWTV
@@ -600,23 +570,17 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/brasiltv.png" group-title="CURIOSIDADES", BRASIL TV
 https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w746475680.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f87e7531472dab790112a8571aa1392.webp" group-title="FILMES", TVS 
-https://stmv.webtv.ninjascast.com.br/solonvieira/solonvieira/chunklist_w1052553587.m3u8
-
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/guaraja.png" group-title="ABERTOS", SBT TV GUAJARA (PA)
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/luzilandia.png" group-title="VARIEDADES",	TV LUZILÂNDIA
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/luzilandia.png" group-title="VARIEDADES",LUZILÂNDIA
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1256406974.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/adesso.png" group-title="VARIEDADES",	ADESSO TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461797
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/wa.png" group-title="FILMES", TV WA
-https://cdn.jmvstream.com/w/LVW-9892/ngrp:LVW9892_PCIeyMXAKy_all/chunklist_b1596000.m3u8
+http://cdn.cteam.me:80/083830/305776/114329
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tve.png" group-title="VARIEDADES", TVE 
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -624,16 +588,16 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/ngt.png" group-title="VARIEDADES", REDE NGT
 https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aberta.png" group-title="VARIEDADES",TV ABERTA SP
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aberta.png" group-title="VARIEDADES",ABERTA SP
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/candides.png" group-title="VARIEDADES",TV CANDIDÉS
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/candides.png" group-title="VARIEDADES",CANDIDÉS
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/japi.png" group-title="VARIEDADES",TV JAPI
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/japi.png" group-title="VARIEDADES",JAPI
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8	
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/granderede.png" group-title="VARIEDADES", TV GRANDE REDE
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/granderede.png" group-title="VARIEDADES", GRANDE REDE
 https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/webtv.png" group-title="MÚSICAS", WEBTVMUSIC
@@ -642,20 +606,14 @@ https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1947850789.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/hot98.png" group-title="RÁDIOS", HOT 98 FM
 https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/chunklist_w450074272.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvgallo.png" group-title="VARIEDADES", TV GALLO
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvgallo.png" group-title="VARIEDADES", GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w963992542.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvjornal.png" group-title="VARIEDADES", TV JORNAL
-https://cdn.jmvstream.com/w/AVJ-9644/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvdestak.png" group-title="VARIEDADES", TV DESTAK 
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvdestak.png" group-title="VARIEDADES", DESTAK 
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvseries.png" group-title="FILMES", TV SÉRIES
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvseries.png" group-title="FILMES", SÉRIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/brasilhits.png" group-title="VARIEDADES", TV BRASIL HITS
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w614729122.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tve.png" group-title="VARIEDADES", TVE 
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1982859985.m3u8
@@ -666,25 +624,22 @@ https://stmv1.srvstm.com/luis5346/luis5346/chunklist_w1170617819.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sou.png" group-title="FILMES", SOU TV
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/chunklist_w1670973484.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/osasco.png" group-title="VARIEDADES", TV OSASCO
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/osasco.png" group-title="VARIEDADES", OSASCO
 https://596639ebdd89b.streamlock.net/8074/8074/chunklist_w163346537.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/catve.png" group-title="ABERTOS", TV CATVE 
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/catve.png" group-title="ABERTOS", CATVE 
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1988979924.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/plan.png" group-title="VARIEDADES", TV PLAN
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/plan.png" group-title="VARIEDADES", PLAN
 https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1271257940.m3u8?867be4bf049218c587185d6370c83e6d
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/jaguar.png" group-title="VARIEDADES", TV JAGUAR 
-https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvnaza.png" group-title="RELIGIOSOS", TV NAZARE
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvnaza.png" group-title="RELIGIOSOS", NAZARE
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1686507449.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cachoeira.png" group-title="RELIGIOSOS", TV CACHOEIRA
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cachoeira.png" group-title="RELIGIOSOS", CACHOEIRA
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gramado.png" group-title="VARIEDADES", TV GRAMADO
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gramado.png" group-title="VARIEDADES", GRAMADO
 https://video01.kshost.com.br:4443/tv4477/tv4477/chunklist_w1113550618.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redesul.png" group-title="VARIEDADES", REDE SUL DE TELEVISÃO
@@ -693,22 +648,22 @@ https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gospelcartoon.png" group-title="RELIGIOSOS", GOSPEL CARTOON  
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w846169558.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/lagos.png" group-title="VARIEDADES", TV LAGOS
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/lagos.png" group-title="VARIEDADES", LAGOS
 https://video01.kshost.com.br:4443/marcos1646/marcos1646/chunklist_w1607825996.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/novotempo.png" group-title="RELIGIOSOS", TV NOVO TEMPO
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/novotempo.png" group-title="RELIGIOSOS", NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rederc.png" group-title="VARIEDADES", REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/chunklist_w168745200.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cidadeoeste.png" group-title="VARIEDADES", TV CIDADE OESTE
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cidadeoeste.png" group-title="VARIEDADES", CIDADE OESTE
 http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/horizontes.png" group-title="RÁDIOS", TV NOVOS HORIZONTES
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/horizontes.png" group-title="RÁDIOS", NOVOS HORIZONTES
 https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/chunklist_w2020237655.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/iracema.png" group-title="RELIGIOSOS", TV IRACEMA
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/iracema.png" group-title="RELIGIOSOS", IRACEMA
 https://stmv1.srvstm.com/iracematv/iracematv/chunklist_w1651668842.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sptv.png" group-title="VARIEDADES", REDE SPTV
@@ -726,7 +681,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvcom.png" group-title="VARIEDADES", TVCOM SANTOS
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/chunklist_w867529203.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/uniao.png" group-title="VARIEDADES", TV UNIÃO DE NATAL
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/uniao.png" group-title="VARIEDADES", UNIÃO DE NATAL
 https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5eb82f6fd9799db20a7129633e7a605b.webp" group-title="VARIEDADES", REDE MUNDO TV
@@ -740,7 +695,7 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/opniao.png" group-title="VARIEDADES", OPINIÃO PLAY
 https://livefocamundo.com:8081/opiniaoplay/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/controles.png" group-title="VARIEDADES", TV CONTROLES
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/controles.png" group-title="VARIEDADES", CONTROLES
 https://livefocamundo.com:8081/tvcontroles/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/master.png" group-title="VARIEDADES",  MASTER TV 
@@ -749,61 +704,57 @@ http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rdc.png" group-title="JORNALISMO", RDC
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/max.png" group-title="VARIEDADES", TV MAX
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/max.png" group-title="VARIEDADES", MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pegadinhas.png", PEGADINHAS  
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA FHD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA FHD
-http://cdn.cteam.me:80/083830/305776/288
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA HD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA HD
-http://cdn.cteam.me:80/083830/305776/289
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA SD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RBS TV POA SD
-http://cdn.cteam.me:80/083830/305776/290
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ FHD
-http://cdn.cteam.me:80/083830/305776/291
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ HD
-http://cdn.cteam.me:80/083830/305776/292
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ SD" tvg-logo="https://imgur.com/x49fNns.png" group-title="ABERTOS",GLOBO RJ SD
-http://cdn.cteam.me:80/083830/305776/293
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="ABERTOS",GLOBO RBS TV POA FHD
+http://cdn.cteam.me:80/083830/305776/114012
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="ABERTOS",GLOBO RBS TV POA HD
+http://cdn.cteam.me:80/083830/305776/114013
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="ABERTOS",GLOBO RBS TV POA SD
+http://cdn.cteam.me:80/083830/305776/114014
+
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP 4K" tvg-logo="http://uppertv.me:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="ABERTOS",GLOBO SP 4K
+http://cdn.cteam.me:80/083830/305776/114035
 
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnn.png" group-title="ABERTOS",CNN BRASIL 2
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462194
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462194
 
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="http://milionariohomeoffice.com.br/img/comedy.png" group-title="HUMOR",COMEDY CENTRAL 2
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461998
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461998
 
 #EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER FHD" tvg-logo="http://milionariohomeoffice.com.br/img/redesuper.png" group-title="RELIGIOSOS",REDE SUPER
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461855
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461855
 
 #EXTINF:-1 tvg-id="" tvg-name="REDE VIDA FHD" tvg-logo="http://milionariohomeoffice.com.br/img/redevida.png" group-title="RELIGIOSOS",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SP FHD" tvg-logo="http://milionariohomeoffice.com.br/img/gazeta.png" group-title="VARIEDADES",TV GAZETA
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461841
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SP FHD" tvg-logo="http://milionariohomeoffice.com.br/img/gazeta.png" group-title="VARIEDADES",GAZETA
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461841
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/yeeah.png" group-title="VARIEDADES", YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvverdes.png" group-title="VARIEDADES", TV VERDES CAMPOS
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvverdes.png" group-title="VARIEDADES", VERDES CAMPOS
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="http://milionariohomeoffice.com.br/img/bandnews.png" group-title="JORNALISMO",BAND NEWS
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462197
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462197
 
 #EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND" tvg-logo="http://milionariohomeoffice.com.br/img/band.png" group-title="ABERTOS",BAND RS
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461786
-
-#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD HD" tvg-logo="http://milionariohomeoffice.com.br/img/bbc.png" group-title="JORNALISMO",BBC WORLD 
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462198
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461786
 
 #EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI HD" tvg-logo="http://milionariohomeoffice.com.br/img/boi.png" group-title="AGRONEGÓCIO",CANAL DO BOI
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461832
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461832
 
-#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA HD" tvg-logo="http://milionariohomeoffice.com.br/img/cancao.png" group-title="RELIGIOSOS",CANÇÃO NOVA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/tvcancaonova/live
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA FHD" tvg-logo="http://milionariohomeoffice.com.br/img/cancao.png" group-title="RELIGIOSOS",CANÇÃO NOVA
+http://cdn.cteam.me:80/083830/305776/113808
 
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://milionariohomeoffice.com.br/img/cartoon.png" group-title="INFANTIS",CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
@@ -815,49 +766,43 @@ https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
 https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA HD" tvg-logo="http://milionariohomeoffice.com.br/img/futura.png" group-title="VARIEDADES",FUTURA
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461792
+http://cdn.cteam.me:80/083830/305776/113959
 
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS HD" tvg-logo="http://milionariohomeoffice.com.br/img/jpnews.png" group-title="JORNALISMO",JOVEM PAN NEWS
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/462183
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="http://milionariohomeoffice.com.br/img/jpnews.png" group-title="JORNALISMO", JOVEM PAN NEWS 4K
+http://cdn.cteam.me:80/083830/305776/114150
+
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="http://milionariohomeoffice.com.br/img/jpnews.png" group-title="JORNALISMO", JOVEM PAN NEWS FHD
+http://cdn.cteam.me:80/083830/305776/114151
 
 #EXTINF:-1 tvg-id="rede.21.br" tvg-name="REDE 21 HD" tvg-logo="http://milionariohomeoffice.com.br/img/21.png" group-title="RELIGIOSOS",REDE 21
-https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b978000.m3u8
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461856
 
-#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://milionariohomeoffice.com.br/img/tvbrasil.png" group-title="VARIEDADES",REDE 
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461831BRASIL
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://milionariohomeoffice.com.br/img/tvbrasil.png" group-title="VARIEDADES", REDE BRASIL
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461831
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redegospel.png" group-title="RELIGIOSOS", REDE GOSPEL
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461852
 
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD" tvg-logo="http://milionariohomeoffice.com.br/img/redetv.png" group-title="ABERTOS", REDE TV
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461824
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://milionariohomeoffice.com.br/img/redetv.png" group-title="ABERTOS", REDE TV
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461825
 
 #EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="http://milionariohomeoffice.com.br/img/rit.png" group-title="RELIGIOSOS", RIT TV 
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461850
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461850
 
-#EXTINF:-1 tvg-id="tvg-name="Rádio The Goog Life Radi - 102.3 FM" tvg-logo="http://milionariohomeoffice.com.br/img/thegoodlife.png" group-title="RÁDIOS", THE GOOD LIFE
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=36YnV9STBqc
-
-#EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi RJ - 96.5 FM" tvg-logo="http://milionariohomeoffice.com.br/img/radiotupi.png" group-title="RÁDIOS", SUPER TUPI
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioTupiRio/live
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rs21.png" group-title="RELIGIOSOS", REDE SÉCULO 21
-https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/riomadeira.png" group-title="VARIEDADES", TV RIO MADEIRA
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/riomadeira.png" group-title="VARIEDADES", RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/atividade.png" group-title="VARIEDADES", TV ATIVIDADE
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/atividade.png" group-title="VARIEDADES", ATIVIDADE
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/valedasartes.png" group-title="VARIEDADES", TV VALE DAS ARTES
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/valedasartes.png" group-title="VARIEDADES", VALE DAS ARTES
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aparecida.png" group-title="RELIGIOSOS",APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL HD" tvg-logo="http://milionariohomeoffice.com.br/img/tvbrasil.png" group-title="ABERTOS",TV BRASIL
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461837
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL FHD" tvg-logo="http://milionariohomeoffice.com.br/img/tvbrasil.png" group-title="ABERTOS",TV BRASIL
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461837
 
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL SD" tvg-logo="http://milionariohomeoffice.com.br/img/redebrasil.png" group-title="ABERTOS", REDE BRASIL 
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w13954468.m3u8
@@ -872,10 +817,7 @@ https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/pla
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="cultura" tvg-name="TV CULTURA" tvg-logo="http://milionariohomeoffice.com.br/img/cultura.png" group-title="ABERTOS",TV CULTURA
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461840
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/kiss.png" group-title="MÚSICAS", KISS TV
-https://cast.cdnseguro.com:19360/8094/8094.m3u8
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461840
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvvideo.png" group-title="VARIEDADES", TVIDEONEWS 
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
@@ -902,16 +844,16 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/c
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 
 #EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO SD" tvg-logo="http://milionariohomeoffice.com.br/img/senado.png" group-title="ABERTOS",TV SENADO 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/tvsenado/live
+http://cdn.cteam.me:80/083830/305776/114503
 
 #EXTINF:-1 tvg-id="tv.justica.br" tvg-name="TV JUSTIÇA SD" tvg-logo="http://milionariohomeoffice.com.br/img/justica.png" group-title="JORNALISMO",TV JUSTIÇA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVJustiçaOficial/live
+http://cdn.cteam.me:80/083830/305776/114491
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT - TV CIDADE VERDE - (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT REDE MASSA (PR)
-http://cdn.cteam.me:80/083830/305776/566
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT 4K
+http://cdn.cteam.me:80/083830/305776/114338
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvparaense.png" group-title="ABERTOS", SBT TV PARAENSE (PA)
 https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
@@ -923,7 +865,7 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/band.png" group-title="ABERTOS", BAND BRASIL
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461775
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/arapuam.png" group-title="ABERTOS", REDE TV! TV ARAPUAN (PB)
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
@@ -952,20 +894,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1111
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnn.png" group-title="ABERTOS",CNN BRASIL
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS" ,TV CONQUISTA - RECORD TV
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS" ,CONQUISTA - RECORD TV
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tvr.png" group-title="VARIEDADES" ,TV R
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tvr.png" group-title="VARIEDADES" ,R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/moda.png" group-title="VARIEDADES" ,MODA ZINZANE
 https://livefocamundo.com:8081/zinzane/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/a7.png" group-title="VARIEDADES" ,TV A7
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/a7.png" group-title="VARIEDADES" ,A7
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
-
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tv2.png" group-title="VARIEDADES" ,GLN TV 2
-https://srv2.zcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/clc.png" group-title="FILMES" ,CLC TV
 http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8
@@ -979,9 +918,6 @@ https://cdn.connectbr.com.br/Queens/video.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/blast.png" group-title="VARIEDADES" ,BLAST CHANNEL 
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/serra.png" group-title="VARIEDADES" ,TV PONTA DA SERRA
-https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
-
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/rsnews.png" group-title="ESPORTES" ,RS NEWS
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
 
@@ -994,11 +930,8 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/elemental.png"group-title="MÚSICAS" ,ELEMENTAL CHANNEL
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/natal.png" group-title="VARIEDADES" ,TV GRANDE NATAL
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/natal.png" group-title="VARIEDADES" ,GRANDE NATAL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/ace.png" group-title="VARIEDADES" ,TV ACE
-https://stmv4.samcast.com.br/associacaocomercialeempresarialdecaraguatatuba9808/associacaocomercialeempresarialdecaraguatatuba9808/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/sol.png" group-title="VARIEDADES" , SOL BRASIL
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
@@ -1015,7 +948,7 @@ https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/utv.png" group-title="VARIEDADES" ,REDE UTV BRASIL
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/king.png" group-title="VARIEDADES" ,TV KING
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/king.png" group-title="VARIEDADES" ,KING
 https://stmv1.srvstm.com/pedropaulomendes3413/pedropaulomendes3413/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/nova.png" group-title="VARIEDADES" ,NOVA TV REGIONAL
@@ -1023,9 +956,6 @@ http://187.95.95.241:7988/regional/index.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/phoenix.png" group-title="VARIEDADES" ,PHOENIX TV
 https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
-
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/litoral.png"group-title="VARIEDADES" ,TV LITORAL
-https://video02.kshost.com.br/angelo2472/angelo2472/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/smart.png" group-title="VARIEDADES" ,REDE SMART
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
@@ -1036,16 +966,16 @@ https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/jpl.png" group-title="VARIEDADES" ,JPL TV
 https://streaming.jplproducoes.com.br/JPL1/video.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/matopiba.png" group-title="VARIEDADES" ,TV MATIPIBA 
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/matopiba.png" group-title="VARIEDADES" ,MATIPIBA 
 http://187.95.95.241:7983/matopiba/tracks-v2a1/mono.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/florida.png"group-title="VARIEDADES" ,TV FLORIDA
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/florida.png"group-title="VARIEDADES" ,FLORIDA
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/allsports.png" group-title="ESPORTES" ,ALL SPORTS 2
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/abc.png" group-title="VARIEDADES" ,TV MAIS ABC
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/abc.png" group-title="VARIEDADES" ,MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/4.png"group-title="JORNALISMO" ,4 POR 4
@@ -1057,7 +987,7 @@ https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/rae.png" group-title="VARIEDADES" ,RAE TV
 https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/net.png" group-title="VARIEDADES" ,TV CHANNEL NETWORK
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/net.png" group-title="VARIEDADES" ,CHANNEL NETWORK
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/astral.png" group-title="VARIEDADES" ,ASTRAL TV
@@ -1066,16 +996,13 @@ https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/wtv.png"group-title="VARIEDADES" ,WTV BRASIL
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/nacoes.png" group-title="VARIEDADES" ,TV AVIVANDO NAÇÕES
-https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
-
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/mkk.png" group-title="VARIEDADES" ,MKK TV
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/awtv.png" group-title="VARIEDADES" ,AWTV
 https://5ad482a77183d.streamlock.net/abraao.farinagmail.com/abraao.farinagmail.com/chunklist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/zoom.png" group-title="VARIEDADES" ,TV ZOOM
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/zoom.png" group-title="VARIEDADES" ,ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/oriental.png" group-title="VARIEDADES" ,EXTREMO ORIENTAL TV
@@ -1087,7 +1014,7 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/espanhol.png" group-title="VARIEDADES" ,BH TV ESPANHOL
 http://206.217.202.3:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/asian.png" group-title="VARIEDADES" ,ASIAN TV
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/asian.png" group-title="VARIEDADES" ,ASIAN
 https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/barcellos.png" group-title="VARIEDADES" ,BARCELLOS
@@ -1099,7 +1026,7 @@ https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/doda.png" group-title="VARIEDADES" ,DODA EQUESTRIAN
 https://video01.soultv.com.br/doda/doda/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/papo.png" group-title="VARIEDADES" ,TV PAPO
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/papo.png" group-title="VARIEDADES" ,PAPO
 https://video01.soultv.com.br/juventude/juventude/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pop.png" group-title="VARIEDADES" ,POP BOLA
@@ -1111,7 +1038,7 @@ https://video01.soultv.com.br/bwe/bwe/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/viajandopelobrasil.png" group-title="VARIEDADES" ,VIAJANDO PELO BRASIL
 https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/inter.png" group-title="VARIEDADES" , TV INTER
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/inter.png" group-title="VARIEDADES" , INTER
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pontv.png" group-title="VARIEDADES" ,PONTV
@@ -1147,7 +1074,7 @@ https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/feliz.png" group-title="VARIEDADES" ,FELIZ 7 PLAY
 https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tvsol.png" group-title="VARIEDADES" ,TV SOL
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tvsol.png" group-title="VARIEDADES" ,SOL
 http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/ox.png" group-title="VARIEDADES" ,OX TV
