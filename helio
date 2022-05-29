@@ -1,7 +1,1218 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CURIOSIDADES", MAIS NA TELA - MODO VIAGEM - GLOBOSAT
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CURIOSIDADES", MAIS NA TELA - MODO VIAGEM - GLOBOSAT
 http://cdn.cteam.me:80/083830/305776/114171
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/2560px-Logotipo_do_Modo_Viagem.svg.png" group-title="CURIOSIDADES", MODO VIAGEM HD
+http://cdn.cteam.me:80/083830/305776/114172
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES", BAND SPORTS
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461392
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES", SPORTV
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461424
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="ESPORTES", COMBATE
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461396
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/natureza.png" group-title="CURIOSIDADES", NATUREZA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/jovempan.png" group-title="VARIEDADES", JOVEM PAN
+http://cdn.cteam.me:80/083830/305776/114153
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS", RECORD
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1274700638.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="JORNALISMO", RECORD NEWS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT
+http://cdn.cteam.me:80/083830/305776/114335
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redetvtocantins.png" group-title="ABERTOS", REDETV TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tve.png" group-title="ABERTOS", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/euronews.png" group-title="JORNALISMO", EURONEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/lovenature.png" group-title="CURIOSIDADES", LOVE NATURE ESPANHOL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/lovenature.png" group-title="CURIOSIDADES", LOVE NATURE INGLÊS
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/paramountmais.png" group-title="VARIEDADES", PARAMOUNT+ APRESENTA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/babyfirst.png" group-title="INFANTIS", BABYFIRST
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gideoes.png" group-title="RELIGIOSOS", TV GIDEÕES
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/maoamiga.png" group-title="RELIGIOSOS", TV MÃO AMIGA
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/xr.png" group-title="CURIOSIDADES", XR HEALTH
+http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/geek.png" group-title="ESPORTES", GEEK E TECH
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/mtv.png" group-title="VARIEDADES", MTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/mtvareyoutheone.png" group-title="VARIEDADES", MTV ARE YOUT THE ONE?
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/mtvex.png" group-title="VARIEDADES", MTV COM O EX
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/younger.png" group-title="HUMOR", YOUNGER
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/prontosocorro.png" group-title="CURIOSIDADES", PRONTO SOCORRO - HISTÓRIAS MÉDICAS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sesctv.png" group-title="VARIEDADES", SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/turbo.png" group-title="ESPORTES", TURBO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/arnold.png" group-title="HUMOR", ARNOLD - DIFF'RENT STROKES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bet.png" group-title="HUMOR", BET
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bcc.png" group-title="VARIEDADES", BCC TV
+https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/dmaistv.png" group-title="VARIEDADES", D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/documentarios.png" group-title="CURIOSIDADES", DOCUMENTÁRIOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/oencantadordecaes.png" group-title="CURIOSIDADES", O ENCANTADOR DE CÃES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/vidareal.png" group-title="CURIOSIDADES", VIDA REAL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redemundotv.png" group-title="JORNALISMO", REDE MUNDO TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1636404133.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/conectamaisweb.png" group-title="VARIEDADES", CONECTA MAIS TV
+http://189.14.239.62:1935/webtv/livestream1/chunklist_w1853358201.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/seventv.png" group-title="VARIEDADES", SEVEN TV
+https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/vivaweb.png" group-title="VARIEDADES", VIVA WEB
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w53904826.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvodia.png" group-title="VARIEDADES", TV O DIA - REDE TV
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w591356671.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aplus.png" group-title="VARIEDADES", APLUS
+https://stmv1.voxtvhd.com.br/aplustv/aplustv/chunklist_w1545562427.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvc.png" group-title="VARIEDADES", TVC 16
+https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvcapital.png" group-title="VARIEDADES", TV CAPITAL - TERESINA
+https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w1840936183.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rbc.png" group-title="VARIEDADES", TV RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w1365170441.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/qtalchannel.png" group-title="VARIEDADES", CANAL QTAL - REDE QDM
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w1823759840.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/viajandopelobrasil.png" group-title="CURIOSIDADES", VIAJANDO PELO BRASIL
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/brazitv.png" group-title="VARIEDADES", BRAZITV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/canal11.png" group-title="VARIEDADES", CANAL 11 PORTUGAL
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tbo.png" group-title="VARIEDADES", TBO BRASIL OESTE
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/culturadopara.png" group-title="ABERTOS", CULTURA DO PARÁ
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tbc.png" group-title="VARIEDADES", TBC
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cghost.png" group-title="VARIEDADES", C-GHOST
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/fashion.png" group-title="VARIEDADES", FASHION STREAM
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821632-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3a1c0715-7e54-4c98-b40d-facafa1841d1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/fuel.png" group-title="ESPORTES", FUEL TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6144d088516ea8000739076a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3bf99bf4-e584-11eb-a5e5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/hollywire.png" group-title="VARIEDADES", HOLLYWIRE
+https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/investigacao.png" group-title="CURIOSIDADES", INVESTIGAÇÃO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/masterchef.png" group-title="VARIEDADES", MASTERCHEF
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/minhaobsessao.png" group-title="CURIOSIDADES", MINHA OBSESSÃO FAVORITA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d6cc25d6-e662-11eb-8628-0242ac110003&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/miss.png" group-title="VARIEDADES", MISS UNIVERSO BR
+https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/misterios.png" group-title="CURIOSIDADES", MISTÉRIOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/motorvision.png" group-title="ESPORTES", MOTORVISION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/nosey.png" group-title="CURIOSIDADES", NOSEY ESCÂNDALOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=0651cfd7-3dba-4a55-99ce-263e1c29297a&clientModelNumber=na&deviceDNT=false&deviceId=0651cfd7-3dba-4a55-99ce-263e1c29297a&deviceLat=-16.6391&deviceLon=-49.2622&deviceMake=Opera&deviceModel=web&deviceType=web&deviceVersion=73.0.3856.421&marketingRegion=BR&serverSideAds=true&sessionID=f913e75f-9703-11eb-8cd8-0242ac110002&sid=f913e75f-9703-11eb-8cd8-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tastemade.png" group-title="VARIEDADES", TASTEMADE
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bloomberg.png" group-title="JORNALISMO", BLOOMBERG
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/novaera.png" group-title="JORNALISMO", NOVA ERA TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvalego.png" group-title="JORNALISMO", ALEGO
+https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cbtv.png" group-title="VARIEDADES", CBTV NOW
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/combrasil.png" group-title="JORNALISMO", COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/demand.png" group-title="VARIEDADES", DEMAND AFRICA
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/primer.png" group-title="VARIEDADES", PRIMER TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/premiun.png" group-title="VARIEDADES", REDE PREMIUM TV
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pampa.png" group-title="ABERTOS", PAMPA - REDE TV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/carioca.png" group-title="VARIEDADES", TV CARIOCA
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1896676795.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/diariosertão.png" group-title="VARIEDADES", DIÁRIO DO SERTÃO
+https://5a2b083e9f360.streamlock.net/pdsertaotv/pdsertaotv.sdp/chunklist_w1456507595.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/galega.png" group-title="VARIEDADES", GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/metropole.png" group-title="VARIEDADES", TV METRÓPOLE
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvmon.png" group-title="JORNALISMO", TV MON
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cecilia.png" group-title="VARIEDADES", TV SANTA CECILÍA
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redeuniao.png" group-title="VARIEDADES", TV UNIÃO BRASÍLIA
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aracati.png" group-title="VARIEDADES", ARACATI
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/peruchannel.png" group-title="VARIEDADES", PERU CHANNEL
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/chunklist_w1851846373.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvmar.png" group-title="VARIEDADES", MAR
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/faap.png" group-title="VARIEDADES", FAAP
+https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gln.png" group-title="VARIEDADES", GLN TV
+https://alanza.iptv2022.com/GLN_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvcei.png" group-title="VARIEDADES", TVCEI
+https://stmv2.samcast.com.br/eduardo7982/eduardo7982/chunklist_w152114165.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sdp.png" group-title="VARIEDADES", REDE SDP TV
+https://video01.kshost.com.br/moobi3963/moobi3963/chunklist_w1375409456.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/uni.png" group-title="VARIEDADES", UNI TV BURITAMA
+https://stmv1.srvif.com/unifm/unifm/chunklist_w1316000259.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/metropolitana.png" group-title="VARIEDADES", METROPOLITANA RIO
+https://alanza.iptv2022.com/METROPOLITANA_RIO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/channel.png" group-title="VARIEDADES", TV CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w754624974.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvbrasil.png" group-title="ABERTOS", TV BRASIL - JOINVILLE
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/centraltv.png" group-title="VARIEDADES", CENTRAL TV
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w897959726.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvestado.png" group-title="VARIEDADES", ESTADO
+https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/awtv.png" group-title="VARIEDADES", AWTV
+https://video01.logicahost.com.br/awtv/awtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redefamilia.png" group-title="VARIEDADES", REDE FAMÍLIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/futura.png" group-title="ABERTOS", FDR -FUTURA (CE)
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/guaraja.png" group-title="ABERTOS", SBT TV GUAJARA (PA)
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/luzilandia.png" group-title="VARIEDADES", TV LUZILÂNDIA
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1256406974.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/adesso.png" group-title="VARIEDADES", ADESSO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT
+http://cdn.cteam.me:80/083830/305776/114329
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tve.png" group-title="VARIEDADES", TVE
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/ngt.png" group-title="VARIEDADES", REDE NGT
+https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aberta.png" group-title="VARIEDADES", ABERTA SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/candides.png" group-title="VARIEDADES", CANDIDÉS
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/japi.png" group-title="VARIEDADES", JAPI
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/granderede.png" group-title="VARIEDADES", GRANDE REDE
+https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvgallo.png" group-title="VARIEDADES", GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w963992542.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvdestak.png" group-title="VARIEDADES", DESTAK
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tve.png" group-title="VARIEDADES", TVE
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1982859985.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redecaxias.png" group-title="VARIEDADES", REDE CAXIAS TV
+https://stmv1.srvstm.com/luis5346/luis5346/chunklist_w1170617819.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/osasco.png" group-title="VARIEDADES", OSASCO
+https://596639ebdd89b.streamlock.net/8074/8074/chunklist_w163346537.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/catve.png" group-title="ABERTOS", CATVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1988979924.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/plan.png" group-title="VARIEDADES", PLAN
+https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1271257940.m3u8?867be4bf049218c587185d6370c83e6d
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/gramado.png" group-title="VARIEDADES", GRAMADO
+https://video01.kshost.com.br:4443/tv4477/tv4477/chunklist_w1113550618.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redesul.png" group-title="VARIEDADES", REDE SUL DE TELEVISÃO
+https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/lagos.png" group-title="VARIEDADES", LAGOS
+https://video01.kshost.com.br:4443/marcos1646/marcos1646/chunklist_w1607825996.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rederc.png" group-title="VARIEDADES", REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/chunklist_w168745200.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cidadeoeste.png" group-title="VARIEDADES", CIDADE OESTE
+http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sptv.png" group-title="VARIEDADES", REDE SPTV
+https://video01.logicahost.com.br/websptv/websptv/chunklist_w703004531.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cwb.png" group-title="VARIEDADES", CWB TV
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/chunklist_w496711638.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/eutv.png" group-title="VARIEDADES", EU TV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvcom.png" group-title="VARIEDADES", TVCOM SANTOS
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/chunklist_w867529203.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/uniao.png" group-title="VARIEDADES", UNIÃO DE NATAL
+https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/clone.png" group-title="VARIEDADES", REDE CLONE TV
+https://stmv2.samcast.com.br/redeclonetv/redeclonetv/chunklist_w1759721039.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redeminas.png" group-title="VARIEDADES", REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/opniao.png" group-title="VARIEDADES", OPINIÃO PLAY
+https://livefocamundo.com:8081/opiniaoplay/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/controles.png" group-title="VARIEDADES", CONTROLES
+https://livefocamundo.com:8081/tvcontroles/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/master.png" group-title="VARIEDADES", MASTER TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rdc.png" group-title="JORNALISMO", RDC
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pegadinhas.png" group-title="VARIEDADES", PEGADINHAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="ABERTOS", GLOBO RBS TV POA FHD
+http://cdn.cteam.me:80/083830/305776/114012
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="ABERTOS", GLOBO RBS TV POA HD
+http://cdn.cteam.me:80/083830/305776/114013
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="ABERTOS", GLOBO RBS TV POA SD
+http://cdn.cteam.me:80/083830/305776/114014
+
+#EXTINF:-1 tvg-logo="http://uppertv.me:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="ABERTOS", GLOBO SP 4K
+http://cdn.cteam.me:80/083830/305776/114035
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/yeeah.png" group-title="VARIEDADES", YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvverdes.png" group-title="VARIEDADES", VERDES CAMPOS
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bandnews.png" group-title="JORNALISMO", BAND NEWS
+http://cdn.cteam.me:80/083830/305776/113774
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/boi.png" group-title="AGRONEGÓCIO", CANAL DO BOI
+http://cdn.cteam.me:80/083830/305776/113806
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/futura.png" group-title="VARIEDADES", FUTURA
+http://cdn.cteam.me:80/083830/305776/113959
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/jpnews.png" group-title="JORNALISMO", JOVEM PAN NEWS 4K
+http://cdn.cteam.me:80/083830/305776/114150
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/jpnews.png" group-title="JORNALISMO", JOVEM PAN NEWS FHD
+http://cdn.cteam.me:80/083830/305776/114151
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/atividade.png" group-title="VARIEDADES", ATIVIDADE
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/valedasartes.png" group-title="VARIEDADES", VALE DAS ARTES
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redebrasil.png" group-title="ABERTOS", REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w13954468.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/utv.png" group-title="VARIEDADES", REDE UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/morena.png" group-title="VARIEDADES", VIA MORENA
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cultura.png" group-title="ABERTOS", TV CULTURA
+http://cdn.cteam.me:80/083830/305776/114475
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvvideo.png" group-title="VARIEDADES", TVIDEONEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/saude.png" group-title="VARIEDADES", CANAL SAÚDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/senado.png" group-title="ABERTOS", TV SENADO
+http://cdn.cteam.me:80/083830/305776/114503
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/justica.png" group-title="JORNALISMO", TV JUSTIÇA
+http://cdn.cteam.me:80/083830/305776/114491
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT - TV CIDADE VERDE - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sbt.png" group-title="ABERTOS", SBT 4K
+http://cdn.cteam.me:80/083830/305776/114338
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvparaense.png" group-title="ABERTOS", SBT TV PARAENSE (PA)
+https://streaming.portaltvparaense.com.br/rtp_live/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS", RECORD TV MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS", RECORD TV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/arapuam.png" group-title="ABERTOS", REDE TV! TV ARAPUAN (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvpantanal.png" group-title="ABERTOS", REDE TV! TV PANTANAL (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cnn.png" group-title="ABERTOS", CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS", CONQUISTA - RECORD TV
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvr.png" group-title="VARIEDADES", R
+https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/moda.png" group-title="VARIEDADES", MODA ZINZANE
+https://livefocamundo.com:8081/zinzane/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/a7.png" group-title="VARIEDADES", A7
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/queens.png" group-title="VARIEDADES", QUEENS UNITED TV
+https://cdn.connectbr.com.br/Queens/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/blast.png" group-title="VARIEDADES", BLAST CHANNEL
+https://video01.logicahost.com.br/blast/blast/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rsnews.png" group-title="ESPORTES", RS NEWS
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/central2.png" group-title="VARIEDADES", CENTRAL TV 2
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/natal.png" group-title="VARIEDADES", GRANDE NATAL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sol.png" group-title="VARIEDADES", SOL BRASIL
+https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/portugal.png" group-title="VARIEDADES", PORTUGALTV
+https://livefocamundo.com:8081/tvmaxrio/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvc.png" group-title="VARIEDADES", REDE TVC BRASIL
+https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/wtj.png" group-title="VARIEDADES", WTJ TV
+https://video01.kshost.com.br:4443/wladimir4773/wladimir4773/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/utv.png" group-title="VARIEDADES", REDE UTV BRASIL
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/king.png" group-title="VARIEDADES", KING
+https://stmv1.srvstm.com/pedropaulomendes3413/pedropaulomendes3413/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/nova.png" group-title="VARIEDADES", NOVA TV REGIONAL
+http://187.95.95.241:7988/regional/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/phoenix.png" group-title="VARIEDADES", PHOENIX TV
+https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/smart.png" group-title="VARIEDADES", REDE SMART
+https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/abba.png" group-title="VARIEDADES", ABBA RTV
+https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/jpl.png" group-title="VARIEDADES", JPL TV
+https://streaming.jplproducoes.com.br/JPL1/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/matopiba.png" group-title="VARIEDADES", MATIPIBA
+http://187.95.95.241:7983/matopiba/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/florida.png" group-title="VARIEDADES", FLORIDA
+https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/abc.png" group-title="VARIEDADES", MAIS ABC
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/4.png" group-title="JORNALISMO", 4 POR 4
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/araruna.png" group-title="VARIEDADES", ARARUNA TV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rae.png" group-title="VARIEDADES", RAE TV
+https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/net.png" group-title="VARIEDADES", CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/astral.png" group-title="VARIEDADES", ASTRAL TV
+https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/wtv.png" group-title="VARIEDADES", WTV BRASIL
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/mkk.png" group-title="VARIEDADES", MKK TV
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/awtv.png" group-title="VARIEDADES", AWTV
+https://5ad482a77183d.streamlock.net/abraao.farinagmail.com/abraao.farinagmail.com/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/zoom.png" group-title="VARIEDADES", ZOOM
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/oriental.png" group-title="VARIEDADES", EXTREMO ORIENTAL TV
+http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/espanhol.png" group-title="VARIEDADES", BH TV ESPANHOL
+http://206.217.202.3:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/asian.png" group-title="VARIEDADES", ASIAN
+https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/barcellos.png" group-title="VARIEDADES", BARCELLOS
+https://video01.soultv.com.br/barcellos/barcellos/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/doda.png" group-title="VARIEDADES", DODA EQUESTRIAN
+https://video01.soultv.com.br/doda/doda/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/papo.png" group-title="VARIEDADES", PAPO
+https://video01.soultv.com.br/juventude/juventude/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pop.png" group-title="VARIEDADES", POP BOLA
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bwe.png" group-title="VARIEDADES", BWE
+https://video01.soultv.com.br/bwe/bwe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/viajandopelobrasil.png" group-title="VARIEDADES", VIAJANDO PELO BRASIL
+https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/inter.png" group-title="VARIEDADES", INTER
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pontv.png" group-title="VARIEDADES", PONTV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bemmelhor.png" group-title="VARIEDADES", BEM MELHOR
+https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/inova.png" group-title="VARIEDADES", INOVA 360
+https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/china.png" group-title="VARIEDADES", E-FEITO NA CHINA
+https://video01.soultv.com.br/efeitonachina/efeitonachina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/ifun.png" group-title="VARIEDADES", IFUN TV
+https://video01.soultv.com.br/ifun/ifun/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sport.png" group-title="VARIEDADES", FEVER PITCH SPORT
+https://video01.soultv.com.br/feverpitchsports/feverpitchsports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/guide.png" group-title="VARIEDADES", THE MARKET GUIDE
+https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/paulo.png" group-title="VARIEDADES", PAULO ZORELLO KICKBOXING
+https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pessoa.png" group-title="VARIEDADES", UNIVERSIDADE DA PESSOA
+https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/avanca.png" group-title="VARIEDADES", AVANÇA BRASIL
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvsol.png" group-title="VARIEDADES", SOL
+http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/ox.png" group-title="VARIEDADES", OX TV
+https://cdn2.connectbr.com.br/oxtv/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="EXCLUSIVOS", AMAZON PRIME JOGO 1
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461543
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="EXCLUSIVOS", AMAZON PRIME JOGO 2
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461542
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="EXCLUSIVOS", AMAZON PRIME JOGO 3
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461541
+
+#EXTINF:-1 tvg-logo="https://logospng.org/download/prime-video/logo-prime-video-512.png" group-title="EXCLUSIVOS", AMAZON PRIME JOGO 4
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461540
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CURIOSIDADES", ANIMAL PLANET FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462067
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ANIMAL%20PLANET.png" group-title="CURIOSIDADES", ANIMAL PLANET FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462026
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CURIOSIDADES", ANIMAL PLANET HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462068
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vWgZvQvGbUI/YBxYy6fPSXI/AAAAAAAAJxE/pqvtOqYnbMUi9dRcO2EPgmxxe2v7GjQSACLcBGAsYHQ/s0/Animal%2BPlanet.png" group-title="CURIOSIDADES", ANIMAL PLANET SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462066
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fpiVO2imhf4/YB1kAESQUfI/AAAAAAAAJ7g/DrG7OC1klgA5u-YcbP3lmRW8zLNbXYUPACLcBGAsYHQ/ARTE%2B1.png" group-title="VARIEDADES", ARTE 1 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462013
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2zKhIgG2QGA/YB60S40BVaI/AAAAAAAAJ_k/GqXLkvpbUV87r0-8FudkjaqFDFdtnP-KgCLcBGAsYHQ/BAND%2BNEWS.png" group-title="JORNALISMO", BAND NEWS HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462196
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES", BAND SPORTS FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461393
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES", BAND SPORTS HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461394
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES", BAND SPORTS SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461395
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/BIS.png" group-title="VARIEDADES", BIS HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462000
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/BIS.png" group-title="VARIEDADES", BIS SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461999
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_chef-tv-brazil_m.png" group-title="VARIEDADES", CHEFE TV HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462008
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="JORNALISMO", CNN BRASIL HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462193
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rSzaEcTyR4I/YB63J2WGAWI/AAAAAAAAKAE/Ny-ENxau-aUW15QDCLW1FNSD463TeEDhwCLcBGAsYHQ/CNN%2BBrasil.png" group-title="JORNALISMO", CNN BRASIL SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462192
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="ESPORTES", COMBATE FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461397
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="ESPORTES", COMBATE HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461398
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/COMBATE.png" group-title="ESPORTES", COMBATE SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461399
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="EXCLUSIVOS", CONMEBOL TV 2 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461524
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="EXCLUSIVOS", CONMEBOL TV 4 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461526
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="CURIOSIDADES", DISCOVERY CHANNEL FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462065
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20CHANNEL.png" group-title="CURIOSIDADES", DISCOVERY CHANNEL FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462025
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="CURIOSIDADES", DISCOVERY CHANNEL HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462064
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y58afh772xQ/YBxY_FteQaI/AAAAAAAAJ0Q/VSeNDMTJRloowbk-iaD9r3dcxjNqXy5AACLcBGAsYHQ/s0/discovery-channel.png" group-title="CURIOSIDADES", DISCOVERY CHANNEL SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462063
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="CURIOSIDADES", DISCOVERY H&H FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462062
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="CURIOSIDADES", DISCOVERY H&H FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462024
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="CURIOSIDADES", DISCOVERY H&H HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462061
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Wx7zVokWRqg/YBxY-8i1HuI/AAAAAAAAJ0M/raRZqkwIKJcaqSKJnePcvOp1E924GC7rgCLcBGAsYHQ/s0/discovery%2Bh%2B%2526%2Bh.png" group-title="CURIOSIDADES", DISCOVERY H&H SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462060
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="CURIOSIDADES", DISCOVERY SCIENCE HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462058
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CDqjg6CJss4/YB1atPTRMTI/AAAAAAAAJ6w/sLy5dPruwDw9UGpiqU5-IYdGjEaDhq76gCLcBGAsYHQ/DISCOVERY%2BSCIENCE.png" group-title="CURIOSIDADES", DISCOVERY SCIENCE SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462057
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="CURIOSIDADES", DISCOVERY THEATER FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462056
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MDvYo4VAxYA/YB1doX6th2I/AAAAAAAAJ68/pGBjUo77NAgIlz9VRgCy_t_6xS7C7HL5ACLcBGAsYHQ/DISCOVERY%2BTHEATER.png" group-title="CURIOSIDADES", DISCOVERY THEATER HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462055
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/DISCOVERY%20TURBO.png" group-title="CURIOSIDADES", DISCOVERY TURBO FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462021
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="CURIOSIDADES", DISCOVERY TURBO HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462052
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-JXabrkdYRNI/YB1fGcGViOI/AAAAAAAAJ7I/a1LlZt4oJwQAjKouz3hZXIIiWUMiEm5EACLcBGAsYHQ/DISCOVERY%2BTURBO.png" group-title="CURIOSIDADES", DISCOVERY TURBO SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462051
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eNs1uxOSSDk/YB1hjBFMERI/AAAAAAAAJ7U/ubz_aAbk1xMo-9XZKoTR-Y8yG4zefGSGACLcBGAsYHQ/DISCOVERY%2BWORLD.png" group-title="CURIOSIDADES", DISCOVERY WORLD SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462048
+
+#EXTINF:-1 tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz/images/VARIEDADES/E.png" group-title="VARIEDADES", E! FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461963
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/E.png" group-title="VARIEDADES", E! HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461994
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="EXCLUSIVOS", Eleven Sports 01 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461547
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="EXCLUSIVOS", Eleven Sports 05 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461551
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="EXCLUSIVOS", Eleven Sports 06 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461552
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="EXCLUSIVOS", Eleven Sports 08 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461554
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="EXCLUSIVOS", Eleven Sports 09 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461555
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fSb6Gjth9xg/YT0nraBVSCI/AAAAAAAAKjo/zhJDqTfYRqgEx6_4QjGf2wT6We3VfdFDwCLcBGAsYHQ/eleven.png" group-title="EXCLUSIVOS", Eleven Sports 10 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461556
+
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="ESPORTES", ESPN 2 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461404
+
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="ESPORTES", ESPN 2 FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461405
+
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="ESPORTES", ESPN 2 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461406
+
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/08/RS2652_ESPN2_CLR_Pos-scr.jpg" group-title="ESPORTES", ESPN 2 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461407
+
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="ESPORTES", ESPN 3 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461408
+
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="ESPORTES", ESPN 3 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461410
+
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="ESPORTES", ESPN 3 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461411
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="ESPORTES", ESPN 4 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461412
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="ESPORTES", ESPN 4 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461414
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="ESPORTES", ESPN 4 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461415
+
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="ESPORTES", ESPN EXTRA FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461416
+
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="ESPORTES", ESPN EXTRA FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461417
+
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="ESPORTES", ESPN EXTRA HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461418
+
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="ESPORTES", ESPN EXTRA SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461419
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES", ESPN FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461400
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES", ESPN FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461401
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES", ESPN HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461402
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/Esportes/ESPN.png" group-title="ESPORTES", ESPN SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461403
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="EXCLUSIVOS", ESTADIO TNT SPORTS 1 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461518
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="EXCLUSIVOS", ESTADIO TNT SPORTS 3 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461520
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="EXCLUSIVOS", ESTADIO TNT SPORTS 4 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461521
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png" group-title="EXCLUSIVOS", ESTADIO TNT SPORTS 5 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461522
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-s3Dd7ciieHQ/YBxY2DFXl7I/AAAAAAAAJx8/gGr736hrQKk65wifWgTTGRsbN6LkJcAfwCLcBGAsYHQ/s0/Fish%2BTV.png" group-title="CURIOSIDADES", FISH TV HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462071
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-s3Dd7ciieHQ/YBxY2DFXl7I/AAAAAAAAJx8/gGr736hrQKk65wifWgTTGRsbN6LkJcAfwCLcBGAsYHQ/s0/Fish%2BTV.png" group-title="CURIOSIDADES", FISH TV SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462072
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/FOOD.png" group-title="VARIEDADES", FOOD NETWORK HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461992
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/FOX_SPORT2.png" group-title="ESPORTES", FOX SPORTS 2 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461420
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/FOX_SPORT2.png" group-title="ESPORTES", FOX SPORTS 2 FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461421
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/FOX_SPORT2.png" group-title="ESPORTES", FOX SPORTS 2 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461422
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/FOX_SPORT2.png" group-title="ESPORTES", FOX SPORTS 2 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461423
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="ABERTOS", FUTURA SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461827
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="EXCLUSIVOS", HBO MAX 01 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461513
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="EXCLUSIVOS", HBO MAX 03 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461527
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="EXCLUSIVOS", HBO MAX 04 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461528
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="EXCLUSIVOS", HBO MAX 06 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461546
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="CURIOSIDADES", HGTV FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462014
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="CURIOSIDADES", HGTV HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462041
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CURIOSIDADES", HISTORY 2 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462045
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CURIOSIDADES", HISTORY 2 FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462019
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/H2.png" group-title="CURIOSIDADES", HISTORY 2 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462043
+
+#EXTINF:-1 tvg-logo="http://dash.liveboxtv.xyz:9105/resize.php?max=42&url=http://trenduhd.xyz:80/images/DOCUMENTARIOS/HISTORY.png" group-title="CURIOSIDADES", HISTORY FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462018
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/HISTORY.png" group-title="CURIOSIDADES", HISTORY HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462039
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/HISTORY.png" group-title="CURIOSIDADES", HISTORY SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462038
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ID.png" group-title="CURIOSIDADES", ID DISCOVERY HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462036
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/ID.png" group-title="CURIOSIDADES", ID DISCOVERY SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462035
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="JORNALISMO", JOVEM PAN NEWS FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462202
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="JORNALISMO", JOVEM PAN NEWS HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462184
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5snFkE.png" group-title="JORNALISMO", JOVEM PAN NEWS SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462201
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="VARIEDADES", LIFETIME FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461986
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="VARIEDADES", LIFETIME SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461983
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png" group-title="CURIOSIDADES", LOVE NATURE FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462069
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", MOSAICO PREMIERE FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461468
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", MOSAICO PREMIERE HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461467
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="VARIEDADES", MTV HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461984
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MTV.png" group-title="VARIEDADES", MTV SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461981
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="VARIEDADES", MULTISHOW FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461980
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="VARIEDADES", MULTISHOW FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461958
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="VARIEDADES", MULTISHOW HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461979
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/MULTISHOW.png" group-title="VARIEDADES", MULTISHOW SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461978
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/NATGEO.png" group-title="CURIOSIDADES", NATGEO FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462016
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/NATGEO.png" group-title="CURIOSIDADES", NATGEO SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462032
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/NOTICIAS/NHK.png" group-title="CURIOSIDADES", NHK WORLD HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462028
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/NOTICIAS/NHK.png" group-title="CURIOSIDADES", NHK WORLD SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462027
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title="ESPORTES", OFF HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461438
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sVZuVBZoYSk/YBxY4uH9OTI/AAAAAAAAJyo/drXf5kzqFqE3tc4fwwiTYlCX8SVbcD1YQCLcBGAsYHQ/s0/OFF.png" group-title="ESPORTES", OFF SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461439
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 2 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461444
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 2 FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461445
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 3 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461448
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 3 FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461449
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 3 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461450
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 3 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461451
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 4 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461452
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 4 FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461453
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 4 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461454
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 5 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461456
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 5 FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461457
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 5 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461458
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 5 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461459
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 6 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461460
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 6 FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461461
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 6 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461462
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 6 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461463
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 7 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461464
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 7 FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461469
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE 7 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461465
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE CLUBES FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461440
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE CLUBES FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461441
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE CLUBES HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461442
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/Esportes/PREMIERE.png" group-title="EXCLUSIVOS", PREMIERE CLUBES SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461443
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="CANAIS | RECORD", RECORD MINAS SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461496
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="JORNALISMO", RECORD NEWS FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462199
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="JORNALISMO", RECORD NEWS HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462188
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="JORNALISMO", RECORD NEWS SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462187
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="ABERTOS", RECORD RJ HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461477
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="ABERTOS", RECORD RS FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461485
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/RECORD.png" group-title="ABERTOS", RECORD RS HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461476
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="ABERTOS", REDE BRASIL
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461831
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="ABERTOS", REDE TV FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461818
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/ABERTOS/REDETV.png" group-title="ABERTOS", REDE TV HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461824
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4tLxjBZ1hlk/YBxZBCqhrRI/AAAAAAAAJ04/D_B2VjxFY1MA7INMZNdXfTropbG6hBSfQCLcBGAsYHQ/s0/sbt.png" group-title="ABERTOS", SBT BRASILIA HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461811
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="ESPORTES", SPORTV 2 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461428
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="ESPORTES", SPORTV 2 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461430
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SporTV2_2021.png/799px-SporTV2_2021.png" group-title="ESPORTES", SPORTV 2 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461431
+
+#EXTINF:-1 tvg-logo="https://www.desktop.com.br/wp-content/uploads/2022/03/SporTV-3.png" group-title="ESPORTES", SPORTV 3 FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461432
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="ESPORTES", SPORTV 3 FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461433
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="ESPORTES", SPORTV 3 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461434
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/SporTV3_2021.png" group-title="ESPORTES", SPORTV 3 SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461435
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES", SPORTV FHD (H265)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461425
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES", SPORTV HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461426
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png" group-title="ESPORTES", SPORTV SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461427
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="VARIEDADES", TLC FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461975
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="VARIEDADES", TLC HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461974
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz:80/images/DOCUMENTARIOS/TLC.png" group-title="VARIEDADES", TLC SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461973
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Fiw4brPaCjU/YBxZDBx9i3I/AAAAAAAAJ1c/SlnstmbOAT0pvdjfA7QkRR8xuM6aGnN5QCLcBGAsYHQ/s0/tru%2Btv.png" group-title="VARIEDADES", TRUTV FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462005
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="ABERTOS", TV BRASIL HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461836
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DheWJ_pUPiQ/YB1DqDzkh1I/AAAAAAAAJ5I/kttnnjEOomAcHHC-b4xquxHeCWZ3zqW4gCLcBGAsYHQ/TV%2BBRASIL%2BRE.png" group-title="ABERTOS", TV BRASIL SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461838
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GAijnROUhNU/YB1HohJOn-I/AAAAAAAAJ5w/Tdh_j1l8Qf47lzGGEwWZHUjLnsv55nBggCLcBGAsYHQ/TV%2BCamara.png" group-title="ABERTOS", TV CAMARA SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461822
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JZGBv9SHgQE/YBxY0WMdxcI/AAAAAAAAJxc/iOadVf2hblYte8kXjT-X1iyDGKbBuV0DwCLcBGAsYHQ/s0/CULTURA.png" group-title="ABERTOS", TV CULTURA HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461840
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iQw-T74c1Is/YBxY2ikKYPI/AAAAAAAAJyA/pFcciwizOj4n9q7qyN2dgv0CrwmnJZfFwCLcBGAsYHQ/s0/GASETA.png" group-title="ABERTOS", TV GAZETA SP FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461841
+
+#EXTINF:-1 tvg-logo="https://tvnsports-assets.s3.sa-east-1.amazonaws.com/App/Channel/000/000/028/pwa_logo/120/tvn.png" group-title="EXCLUSIVOS", TV NSPORTS HD (JOGO 1)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461538
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS", TV PAMPA RS FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461833
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OwB7L5cQnyc/YBxY5ZgwPnI/AAAAAAAAJy0/1D_T7J0H7_cln2ZUTlhwSVDHG92dUdEHwCLcBGAsYHQ/s0/REDE%2BTV.png" group-title="ABERTOS", TV PAMPA RS HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461834
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="VARIEDADES", VIVA FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461971
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="VARIEDADES", VIVA HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461970
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/VARIEDADES/VIVA.png" group-title="VARIEDADES", VIVA SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461969
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="VARIEDADES", WOOHOO HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461967
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/INFANTIL/WOOHOO.png" group-title="VARIEDADES", WOOHOO SD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461966
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_store.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY Store 1
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789146
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_store.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY Store 2
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789147
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_store.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY Store 3
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789148
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_store.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY Store 4
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789149
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_store.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY Store PreOrder 1 OFF
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789150
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/SKYSPORTSPREMIERLEAGUE.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY SPORT PREMIER LEAGUE FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789152
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_sports_premier_league.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY SPORT PREMIER LEAGUE HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789153
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/SKYSPORTSARENA.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY SPORT ARENA FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789155
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_sports_main_event_ie.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY SPORT MAIN EVENT HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789160
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/SKYSPORTSCRICKET.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY SPORT CRICKET HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789162
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/SKYSPORTSCRICKET.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY SPORT CRICKET FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789163
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_sports_f1.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY SPORT F1 HD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789165
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/sky_uk_sports_mix.png" group-title="CANAIS |  SKY ESPORTES INTERNACIONAIS", UK: SKY SPORT MIX FHD
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/789167
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="EXCLUSIVOS", CONMEBOL TV SD (JOGO 1)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/878798
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="EXCLUSIVOS", CONMEBOL TV SD (JOGO 4)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/878799
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="EXCLUSIVOS", CONMEBOL TV SD (JOGO 2)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/878800
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="EXCLUSIVOS", CONMEBOL TV SD (JOGO 3)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/878801
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="EXCLUSIVOS", CONMEBOL TV FHD (JOGO 2)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/878803
+
+#EXTINF:-1 tvg-logo="http://trenduhd.xyz/images/EXCLUSIVOS/Conmebol.png" group-title="EXCLUSIVOS", CONMEBOL TV HD (JOGO 1)
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/878804
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Modo Viagem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/2560px-Logotipo_do_Modo_Viagem.svg.png" group-title="CURIOSIDADES", MODO VIAGEM HD
 http://cdn.cteam.me:80/083830/305776/114172
