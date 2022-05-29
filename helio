@@ -903,10 +903,6 @@ http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461423
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461792
 #EXTINF:-1 tvg-id="" tvg-name="FUTURA SD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/FUTURA.png" group-title="ABERTOS",FUTURA SD
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461827
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/GNT.png" group-title="VARIEDADES",GNT FHD
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461989
 #EXTINF:-1 tvg-id="" tvg-name="GNT FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/GNT.png" group-title="VARIEDADES",GNT FHD (H265)
@@ -915,30 +911,6 @@ http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461961
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461988
 #EXTINF:-1 tvg-id="" tvg-name="GNT SD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/GNT.png" group-title="VARIEDADES",GNT SD
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461987
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 FHD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462126
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 2 FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 FHD (H265)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462105
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 HD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462125
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO2.png" group-title="CANAIS | REDE HBO",HBO 2 SD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462124
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Familly FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO Familly FHD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462123
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Familly FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO Familly FHD (H265)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462104
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Familly HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO Familly HD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462122
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Familly SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20FAMILY.png" group-title="CANAIS | REDE HBO",HBO Familly SD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462121
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="CANAIS | REDE HBO",HBO FHD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462120
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="CANAIS | REDE HBO",HBO FHD (H265)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462103
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="CANAIS | REDE HBO",HBO HD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462119
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD (LEG)" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="CANAIS | LEGENDADO",HBO HD (LEG)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461366
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="EXCLUSIVOS",HBO MAX 01 HD
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461513
 #EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02 HD" tvg-logo="https://lh3.googleusercontent.com/-5jNytbXl-aQ/YT0lSY_jMkI/AAAAAAAAKjY/-W77vW9jBdIBny4Vu9dCDrn7tswJa1wOACLcBGAsYHQ/champiosa.png" group-title="EXCLUSIVOS",HBO MAX 02 HD
@@ -953,66 +925,6 @@ http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461545
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461546
 #EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD" tvg-logo="https://1.bp.blogspot.com/-rFXTA8AArtw/YBxY3ZLz_5I/AAAAAAAAJyM/ik9z1JJnR-McLHVIsgmiao1Z_PXEQkr9QCLcBGAsYHQ/s0/HBO%2BMUND.png" group-title="CANAIS | LEGENDADO",HBO MUNDI FHD
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461367
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20MUNDI.png" group-title="CANAIS | REDE HBO",HBO MUNDI FHD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462118
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20MUNDI.png" group-title="CANAIS | REDE HBO",HBO MUNDI FHD (H265)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462102
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20MUNDI.png" group-title="CANAIS | REDE HBO",HBO MUNDI HD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462117
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20MUNDI.png" group-title="CANAIS | REDE HBO",HBO MUNDI SD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462127
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20PLUS.png" group-title="CANAIS | REDE HBO",HBO PLUS FHD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462116
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20PLUS.png" group-title="CANAIS | REDE HBO",HBO PLUS FHD (H265)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462101
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20PLUS.png" group-title="CANAIS | REDE HBO",HBO PLUS HD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462115
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS HD (LEG)" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="CANAIS | LEGENDADO",HBO PLUS HD (LEG)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461369
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20PLUS.png" group-title="CANAIS | REDE HBO",HBO PLUS SD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462114
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS SD (LEG)" tvg-logo="https://1.bp.blogspot.com/-0ZxVMtbbb5w/YBxY3bEY-aI/AAAAAAAAJyQ/2b8TcEozy40T6z1oMid2TNrANUAfN9rggCLcBGAsYHQ/s0/HBO%2BPLUS.png" group-title="CANAIS | LEGENDADO",HBO PLUS SD (LEG)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461370
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20POP.png" group-title="CANAIS | REDE HBO",HBO POP FHD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462113
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20POP.png" group-title="CANAIS | REDE HBO",HBO POP FHD (H265)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462100
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20POP.png" group-title="CANAIS | REDE HBO",HBO POP HD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462110
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD (LEG)" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="CANAIS | LEGENDADO",HBO POP HD (LEG)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461371
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="HBO POP SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20POP.png" group-title="CANAIS | REDE HBO",HBO POP SD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462128
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP SD (LEG)" tvg-logo="https://1.bp.blogspot.com/-SpQCy6RNe6o/YBxY3rTMb5I/AAAAAAAAJyU/lH06IN9kcpcVlYsAreQAyJvFnOyWhGxyQCLcBGAsYHQ/s0/HBO%2BPOP.png" group-title="CANAIS | LEGENDADO",HBO POP SD (LEG)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461372
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO.png" group-title="CANAIS | REDE HBO",HBO SD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462109
-#EXTINF:-1 tvg-id="" tvg-name="HBO SD (LEG)" tvg-logo="https://lh3.googleusercontent.com/-gGfVe49jgcQ/YByAyqgSoyI/AAAAAAAAJ4w/fmvtmqezypwbJ-X435aMHpWuTm2o3laNwCLcBGAsYHQ/HBO.png" group-title="CANAIS | LEGENDADO",HBO SD (LEG)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461373
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="CANAIS | LEGENDADO",HBO SIGNATURE FHD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461374
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE FHD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462111
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE FHD (H265)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462099
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://1.bp.blogspot.com/-ctso4YZl2cM/YBxY3zFdKcI/AAAAAAAAJyY/osPY1mUaerAmZzoMPtMjzPacIj2uEnAQwCLcBGAsYHQ/s0/HBO%2BSIGNATURE.png" group-title="CANAIS | LEGENDADO",HBO SIGNATURE HD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461375
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE HD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462112
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20SIGNATURE.png" group-title="CANAIS | REDE HBO",HBO SIGNATURE SD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462107
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20Xtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462108
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME FHD (H265)" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20Xtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME FHD (H265)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462098
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20Xtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME HD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462106
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD (LEG)" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="CANAIS | LEGENDADO",HBO XTREME HD (LEG)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461376
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD" tvg-logo="http://trenduhd.xyz/images/HBO/HBO%20Xtreme.png" group-title="CANAIS | REDE HBO",HBO XTREME SD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462129
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME SD (LEG)" tvg-logo="https://1.bp.blogspot.com/-M7I_zu8tvUQ/YBxY4CGJjVI/AAAAAAAAJyc/24aVbIN0Fs0fm6NVfHB4fXkclpx44NS9wCLcBGAsYHQ/s0/HBO%2BXTRE.png" group-title="CANAIS | LEGENDADO",HBO XTREME SD (LEG)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461377
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="CURIOSIDADES",HGTV FHD
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462042
 #EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD (H265)" tvg-logo="http://trenduhd.xyz/images/VARIEDADES/HG.png" group-title="CURIOSIDADES",HGTV FHD (H265)
