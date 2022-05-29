@@ -1,8 +1,5 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
-#EXTINF:-1 tvg-id="E! Entertainment Television FHD" tvg-name="MODO VIAGEM FHD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CURIOSIDADES",MAIS TV - MODO VIAGEM GLOBOSAT
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461923
-
 #EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="CURIOSIDADES",MODO VIAGEM FHD (H265)
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461875
 
