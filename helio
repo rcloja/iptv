@@ -1,10 +1,10 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM FHD (H265)" tvg-logo="https://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="CURIOSIDADES",MODO VIAGEM FHD (H265)
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461875
+#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CURIOSIDADES", MAIS NA TELA - MODO VIAGEM - GLOBOSAT
+http://cdn.cteam.me:80/083830/305776/114171
 
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="http://trenduhd.xyz/images/ABERTOS/GLOBO.png" group-title="CURIOSIDADES", MODO VIAGEM HD
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461922
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/2560px-Logotipo_do_Modo_Viagem.svg.png" group-title="CURIOSIDADES", MODO VIAGEM HD
+http://cdn.cteam.me:80/083830/305776/114172
 
 #EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://trenduhd.xyz:80/images/Esportes/BAND_SPORTS.png" group-title="ESPORTES", BAND SPORTS
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461392
