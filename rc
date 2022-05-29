@@ -18,6 +18,9 @@ http://cdn.cteam.me:80/083830/305776/114335
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="http://milionariohomeoffice.com.br/img/band.png" group-title="ABERTOS", BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="INTERNACIONAIS",AL JAZEERA INGLÊS
+http://i.mjh.nz/nz/tv.46.m3u8
+
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redetvtocantins.png" group-title="ABERTOS", REDETV TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
@@ -68,9 +71,6 @@ https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="http://milionariohomeoffice.com.br/img/maoamiga.png" group-title="RELIGIOSOS",TV MÃO AMIGA
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-
-#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://milionariohomeoffice.com.br/img/tvmackenzie.png" group-title="VARIEDADES",TV MACKENZIE
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/xr.png" group-title="CURIOSIDADES", XR HEALTH
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
@@ -468,14 +468,8 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/chunklist_w1851846373.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/telaviva.png" group-title="FILMES", TELA VIVA TV
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1566964103.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/canal29.png" group-title="VARIEDADES", CANAL 29 
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/jsid.png" group-title="FILMES", J.SID 
 https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/classiquetv.png" group-title="FILMES", CLASSIQUE TV CULT MOVIES
-https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w1340472308.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvmar.png" group-title="VARIEDADES",MAR
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
@@ -539,9 +533,6 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w1704335745.m3u
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/kronehits.png" group-title="MÚSICAS", KRONEHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/marajoara.png" group-title="VARIEDADES", REDE BRASIL - TV MARAJOARA
-http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/top.png" group-title="MÚSICAS",TOP TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
@@ -726,7 +717,7 @@ http://cdn.cteam.me:80/083830/305776/114035
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462194
 
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="http://milionariohomeoffice.com.br/img/comedy.png" group-title="HUMOR",COMEDY CENTRAL 2
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461998
+http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461997
 
 #EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER FHD" tvg-logo="http://milionariohomeoffice.com.br/img/redesuper.png" group-title="RELIGIOSOS",REDE SUPER
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461855
@@ -743,18 +734,17 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvverdes.png" group-title="VARIEDADES", VERDES CAMPOS
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="http://milionariohomeoffice.com.br/img/bandnews.png" group-title="JORNALISMO",BAND NEWS
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/462197
+http://cdn.cteam.me:80/083830/305776/113774
 
 #EXTINF:-1 tvg-id="band.rio.grande.do.sul.br" tvg-name="BAND" tvg-logo="http://milionariohomeoffice.com.br/img/band.png" group-title="ABERTOS",BAND RS
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461786
 
-#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI HD" tvg-logo="http://milionariohomeoffice.com.br/img/boi.png" group-title="AGRONEGÓCIO",CANAL DO BOI
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461832
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="http://milionariohomeoffice.com.br/img/boi.png" group-title="AGRONEGÓCIO",CANAL DO BOI
+http://cdn.cteam.me:80/083830/305776/113806
 
 #EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANCAO NOVA FHD" tvg-logo="http://milionariohomeoffice.com.br/img/cancao.png" group-title="RELIGIOSOS",CANÇÃO NOVA
-http://cdn.cteam.me:80/083830/305776/113808
+http://cdn.cteam.me:80/083830/305776/113809
 
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://milionariohomeoffice.com.br/img/cartoon.png" group-title="INFANTIS",CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
@@ -781,13 +771,13 @@ http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461856
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461831
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redegospel.png" group-title="RELIGIOSOS", REDE GOSPEL
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461852
+http://cdn.cteam.me:80/083830/305776/114303
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://milionariohomeoffice.com.br/img/redetv.png" group-title="ABERTOS", REDE TV
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461825
 
 #EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV HD" tvg-logo="http://milionariohomeoffice.com.br/img/rit.png" group-title="RELIGIOSOS", RIT TV 
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461850
+http://cdn.cteam.me:80/083830/305776/114314
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/riomadeira.png" group-title="VARIEDADES", RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
@@ -817,7 +807,7 @@ https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/pla
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="cultura" tvg-name="TV CULTURA" tvg-logo="http://milionariohomeoffice.com.br/img/cultura.png" group-title="ABERTOS",TV CULTURA
-http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461840
+http://cdn.cteam.me:80/083830/305776/114475
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvvideo.png" group-title="VARIEDADES", TVIDEONEWS 
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
