@@ -99,7 +99,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761df
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/920-9203951_esperanza-tv-hope-channel.png" group-title="RELIGIOSOS", ESPERANZA TV
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b4192000.m3u8
 
-#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="http://milionariohomeoffice.com.br/img/arnold.png" group-title="HUMOR", ARNOLD - DIFF'RENT STROKES
+#EXTINF:-1 tvg-id="61f1d27a189ed10007b7393e" tvg-logo="http://milionariohomeoffice.com.br/img/arnold.png" group-title="HUMOR", DIFF'RENT STROKES
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5ff768b6a4c8b80008498610" tvg-logo="http://milionariohomeoffice.com.br/img/bet.png" group-title="HUMOR",BET
@@ -576,7 +576,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/ngt.png" group-title="VARIEDADES", REDE NGT
 https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aberta.png" group-title="VARIEDADES",ABERTA SP
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/aberta.png" group-title="VARIEDADES", TV ABERTA
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/candides.png" group-title="VARIEDADES",CANDIDÉS
@@ -698,16 +698,16 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/pegadinhas.png", PEGADINHAS  
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2047
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="ABERTOS",GLOBO RBS TV POA FHD
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS",GLOBO RBS TV POA FHD
 http://cdn.cteam.me:80/083830/305776/114012
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="ABERTOS",GLOBO RBS TV POA HD
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA HD" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS",GLOBO RBS TV POA HD
 http://cdn.cteam.me:80/083830/305776/114013
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/eccf7d732d94464e73dab755d7fe8bbb.png" group-title="ABERTOS",GLOBO RBS TV POA SD
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA SD" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS",GLOBO RBS TV POA SD
 http://cdn.cteam.me:80/083830/305776/114014
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo SP 4K" tvg-logo="http://uppertv.me:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="ABERTOS",GLOBO SP 4K
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP 4K" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS",GLOBO SP 4K
 http://cdn.cteam.me:80/083830/305776/114035
 
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnn.png" group-title="ABERTOS",CNN BRASIL 2
