@@ -953,7 +953,7 @@ https://video01.kshost.com.br:4443/adilson8953/adilson8953/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/jpl.png" group-title="VARIEDADES",JPL TV
 https://streaming.jplproducoes.com.br/JPL1/video.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/matopiba.png" group-title="VARIEDADES ,MATIPIBA 
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/matopiba.png" group-title="VARIEDADES",MATIPIBA 
 http://187.95.95.241:7983/matopiba/tracks-v2a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/florida.png"group-title="VARIEDADES",FLORIDA
@@ -995,7 +995,7 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/oriental.png" group-title="VARIEDADES" ,EXTREMO ORIENTAL TV
 http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/agrotour.png" group-title="AGRONEGÓCIO", NOVA TV AGROTOUR
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/agrotour.png"  group-title="AGRONEGÓCIO", NOVA TV AGROTOUR
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/espanhol.png" group-title="VARIEDADES" ,BH TV ESPANHOL
