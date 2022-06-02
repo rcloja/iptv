@@ -417,7 +417,7 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvmetropole.br" " tvg-logo="http://milionariohomeoffice.com.br/img/metropole.png" group-title="VARIEDADES", TV METRÓPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmon.br"  tvg-logo="http://milionariohomeoffice.com.br/img/tvmon.png"group-title="JORNALISMO", TV MON 
+#EXTINF:-1 tvg-id="Tvmon.br"  tvg-logo="http://milionariohomeoffice.com.br/img/tvmon.png" group-title="JORNALISMO", TV MON 
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cecilia.png" group-title="VARIEDADES",TV SANTA CECILÍA
