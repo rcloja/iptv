@@ -183,7 +183,7 @@ https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w384766910.m3
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvcapital.png" group-title="VARIEDADES", TV CAPITAL - TERESINA
 https://stmv2.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w1840936183.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rtl.png" group-title="MÚSICAS", RTL CLASSICS
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rtlclassics.png" group-title="MÚSICAS", RTL CLASSICS
 https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/chunklist_w1520620066.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rbc.png" group-title="VARIEDADES", TV RBC
