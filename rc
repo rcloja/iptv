@@ -351,7 +351,7 @@ https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="60a8126a0ac3970007f850fe" tvg-logo="http://milionariohomeoffice.com.br/img/being.png" group-title="FILMES", BEING MARY JANE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=e61e81d1-c6d5-4eea-a605-2651410462b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=357672e9-e58c-11eb-b36a-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" group-title="HUMOR" tvg-logo="http://milionariohomeoffice.com.br/img/comedy.png", COMEDY CENTRAL 1
+#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="http://milionariohomeoffice.com.br/img/comedy.png" group-title="HUMOR", COMEDY CENTRAL 1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="http://milionariohomeoffice.com.br/img/fail.png" group-title="HUMOR", FAILARMY 
@@ -974,97 +974,97 @@ https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/rae.png" group-title="VARIEDADES",RAE TV
 https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/net.png" group-title="VARIEDADES" ,CHANNEL NETWORK
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/net.png" group-title="VARIEDADES",CHANNEL NETWORK
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/astral.png" group-title="VARIEDADES" ,ASTRAL TV
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/astral.png" group-title="VARIEDADES",ASTRAL TV
 https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/wtv.png"group-title="VARIEDADES" ,WTV BRASIL
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/wtv.png"group-title="VARIEDADES",WTV BRASIL
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/mkk.png" group-title="VARIEDADES" ,MKK TV
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/mkk.png" group-title="VARIEDADES",MKK TV
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/awtv.png" group-title="VARIEDADES" ,AWTV
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/awtv.png" group-title="VARIEDADES",AWTV
 https://5ad482a77183d.streamlock.net/abraao.farinagmail.com/abraao.farinagmail.com/chunklist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/zoom.png" group-title="VARIEDADES" ,ZOOM
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/zoom.png" group-title="VARIEDADES",ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/oriental.png" group-title="VARIEDADES" ,EXTREMO ORIENTAL TV
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/oriental.png" group-title="VARIEDADES",EXTREMO ORIENTAL TV
 http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/agrotour.png"  group-title="AGRONEGÓCIO", NOVA TV AGROTOUR
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/espanhol.png" group-title="VARIEDADES" ,BH TV ESPANHOL
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/espanhol.png" group-title="VARIEDADES",BH TV ESPANHOL
 http://206.217.202.3:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/asian.png" group-title="VARIEDADES" ,ASIAN
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/asian.png" group-title="VARIEDADES",ASIAN
 https://video01.soultv.com.br/asiantv/asiantv/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/barcellos.png" group-title="VARIEDADES" ,BARCELLOS
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/barcellos.png" group-title="VARIEDADES",BARCELLOS
 https://video01.soultv.com.br/barcellos/barcellos/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/agricolas.png" group-title="AGRONEGÓCIO",NOTÍCIAS AGRÍCOLAS
 https://video01.soultv.com.br/noticiasagricolas/noticiasagricolas/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/doda.png" group-title="VARIEDADES" ,DODA EQUESTRIAN
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/doda.png" group-title="VARIEDADES",DODA EQUESTRIAN
 https://video01.soultv.com.br/doda/doda/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/papo.png" group-title="VARIEDADES" ,PAPO
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/papo.png" group-title="VARIEDADES",PAPO
 https://video01.soultv.com.br/juventude/juventude/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pop.png" group-title="VARIEDADES" ,POP BOLA
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pop.png" group-title="VARIEDADES",POP BOLA
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/bwe.png"group-title="VARIEDADES" ,BWE
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/bwe.png" group-title="VARIEDADES",BWE
 https://video01.soultv.com.br/bwe/bwe/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/viajandopelobrasil.png" group-title="VARIEDADES" ,VIAJANDO PELO BRASIL
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/viajandopelobrasil.png" group-title="VARIEDADES",VIAJANDO PELO BRASIL
 https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/inter.png" group-title="VARIEDADES" , INTER
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/inter.png" group-title="VARIEDADES", INTER
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pontv.png" group-title="VARIEDADES" ,PONTV
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pontv.png" group-title="VARIEDADES",PONTV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/bemmelhor.png" group-title="VARIEDADES" , BEM MELHOR
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/bemmelhor.png" group-title="VARIEDADES", BEM MELHOR
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/inova.png" group-title="VARIEDADES" ,INOVA 360
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/inova.png" group-title="VARIEDADES",INOVA 360
 https://video01.soultv.com.br/inova360/inova360/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/china.png" group-title="VARIEDADES" ,E-FEITO NA CHINA
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/china.png" group-title="VARIEDADES",E-FEITO NA CHINA
 https://video01.soultv.com.br/efeitonachina/efeitonachina/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/ifun.png" group-title="VARIEDADES" ,IFUN TV
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/ifun.png" group-title="VARIEDADES",IFUN TV
 https://video01.soultv.com.br/ifun/ifun/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/sport.png" group-title="VARIEDADES" ,FEVER PITCH SPORT
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/sport.png" group-title="VARIEDADES",FEVER PITCH SPORT
 https://video01.soultv.com.br/feverpitchsports/feverpitchsports/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/guide.png" group-title="VARIEDADES" ,THE MARKET GUIDE
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/guide.png" group-title="VARIEDADES",THE MARKET GUIDE
 https://video01.soultv.com.br/tvmarketguide/tvmarketguide/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/paulo.png" group-title="VARIEDADES" ,PAULO ZORELLO KICKBOXING
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/paulo.png" group-title="VARIEDADES",PAULO ZORELLO KICKBOXING
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pessoa.png" group-title="VARIEDADES" ,UNIVERSIDADE DA PESSOA
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/pessoa.png" group-title="VARIEDADES",UNIVERSIDADE DA PESSOA
 https://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/avanca.png" group-title="VARIEDADES" , AVANÇA BRASIL
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/avanca.png" group-title="VARIEDADES", AVANÇA BRASIL
 https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/feliz.png" group-title="VARIEDADES" ,FELIZ 7 PLAY
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/feliz.png" group-title="VARIEDADES",FELIZ 7 PLAY
 https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tvsol.png" group-title="VARIEDADES" ,SOL
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/tvsol.png" group-title="VARIEDADES",SOL
 http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/ox.png" group-title="VARIEDADES" ,OX TV
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/ox.png" group-title="VARIEDADES",OX TV
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
 
 #EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="INTERNACIONAIS",AL JAZEERA INGLÊS
