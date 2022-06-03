@@ -1448,7 +1448,7 @@ http://cdn.cteam.me:80/083830/305776/114150
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="http://milionariohomeoffice.com.br/img/jpnews.png" group-title="JORNALISMO", JOVEM PAN NEWS FHD
 http://cdn.cteam.me:80/083830/305776/114151
 
-#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://milionariohomeoffice.com.br/img/tvbrasil.png" group-title="VARIEDADES", REDE BRASIL
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://milionariohomeoffice.com.br/img/redebrasil.png" group-title="VARIEDADES", REDE BRASIL
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461831
 
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV FHD" tvg-logo="http://milionariohomeoffice.com.br/img/redetv.png" group-title="ABERTOS", REDE TV
