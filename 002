@@ -770,7 +770,7 @@ http://cdn.cteam.me:80/083830/305776/114151
 #EXTINF:-1 tvg-id="rede.21.br" tvg-name="REDE 21 HD" tvg-logo="http://milionariohomeoffice.com.br/img/21.png" group-title="RELIGIOSOS",REDE 21
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461856
 
-#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://milionariohomeoffice.com.br/img/tvbrasil.png" group-title="VARIEDADES", REDE BRASIL
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="REDE BRASIL SD" tvg-logo="http://milionariohomeoffice.com.br/img/redebrasil.png" group-title="VARIEDADES", REDE BRASIL
 http://dns.hdbr.tech:80/c2rjwxuf/x68cim84/461831
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/redegospel.png" group-title="RELIGIOSOS", REDE GOSPEL
