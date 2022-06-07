@@ -1397,7 +1397,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playl
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/qwestmix.png" group-title="MÚSICAS", QWEST TV MIX
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/radioontact.png" group-title="MÚSICAS", RADIO CONTACT
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/radiocontact.png" group-title="MÚSICAS", RADIO CONTACT
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/radioitalia.png" group-title="MÚSICAS", RADIO ITALIA TV
@@ -1418,7 +1418,7 @@ https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/radioweser.png" group-title="MÚSICAS", RADIO WESER TV BREMEN
 https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rck.png" group-title="MÚSICAS", RCK TV
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rcktv.png" group-title="MÚSICAS", RCK TV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/realtv.png" group-title="MÚSICAS", REAL TV
@@ -1505,46 +1505,46 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziostingrayambiance/CDN/playlis
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingrayrock.png" group-title="MÚSICAS", STINGRAY CLASSIC ROCK
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sluhaydjazz.png" group-title="MÚSICAS", STINGRAY DJAZZ
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraydjazz.png" group-title="MÚSICAS", STINGRAY DJAZZ
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgray.png" group-title="MÚSICAS", STINGRAY EVERYTHING 80S
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingray.png" group-title="MÚSICAS", STINGRAY EVERYTHING 80S
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgraymusic.png" group-title="MÚSICAS", STINGGRAY FLASHBACK 70S
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraymusic.png" group-title="MÚSICAS", STINGGRAY FLASHBACK 70S
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgraymusic.png" group-title="MÚSICAS", STINGRAY GREATEST HITS
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraymusic.png" group-title="MÚSICAS", STINGRAY GREATEST HITS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgray.png" group-title="MÚSICAS", STINGRAY HIT LIST
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingray.png" group-title="MÚSICAS", STINGRAY HIT LIST
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgraymusic.png" group-title="MÚSICAS", STINGRAY HOLIDAY HITS
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraymusic.png" group-title="MÚSICAS", STINGRAY HOLIDAY HITS
 https://stirr.ott-channels.stingray.com/155/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgraymusic.png" group-title="MÚSICAS", STINGRAY HOT COUNTRY
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraymusic.png" group-title="MÚSICAS", STINGRAY HOT COUNTRY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgraykaraoke.png" group-title="MÚSICAS", STINGRAY KARAOKE
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraykaraoke.png" group-title="MÚSICAS", STINGRAY KARAOKE
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgraymusic.png" group-title="MÚSICAS", STINGRAY POP ADULT
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraymusic.png" group-title="MÚSICAS", STINGRAY POP ADULT
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgraymusic.png" group-title="MÚSICAS", STINGRAY QELLO CONCERTS
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraymusic.png" group-title="MÚSICAS", STINGRAY QELLO CONCERTS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgrayrock.png" group-title="MÚSICAS", STINGRAY ROCK ALTERNATIVE
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingrayrock.png" group-title="MÚSICAS", STINGRAY ROCK ALTERNATIVE
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgraymusic.png" group-title="MÚSICAS", STINGRAY SOUL STORM
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraymusic.png" group-title="MÚSICAS", STINGRAY SOUL STORM
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgraymusic.png" group-title="MÚSICAS", STINGRAY TODAY'S LATIN POP
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraymusic.png" group-title="MÚSICAS", STINGRAY TODAY'S LATIN POP
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/sintgraymusic.png" group-title="MÚSICAS", STINGRAY URBAN BEAT
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/stingraymusic.png" group-title="MÚSICAS", STINGRAY URBAN BEAT
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/streetmusic.png" group-title="MÚSICAS", STREET MUSIC 4U
@@ -1571,13 +1571,13 @@ http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/top.png" group-title="MÚSICAS", TOP LATINO TV
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/512px-Trace_Urban_logo_2010.svg.png" group-title="MÚSICAS", TRACE URBAN (AUSTRÁLIA)
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/trace.png" group-title="MÚSICAS", TRACE URBAN (AUSTRÁLIA)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="MÚSICAS", TURBO MIX RADIO TV
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/turbomix.png" group-title="MÚSICAS", TURBO MIX RADIO TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvbno.com.br/images/LOGOTIPO-BNO-1.png" group-title="MÚSICAS", TV BNO
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/bno.png" group-title="MÚSICAS", TV BNO
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0bBxZ5x.png" group-title="MÚSICAS", TV PERUANÍSSIMA
