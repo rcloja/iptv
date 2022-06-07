@@ -882,9 +882,6 @@ https://cdn2.connectbr.com.br/oxtv/video.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="INTERNACIONAIS", AL JAZEERA INGLÊS
 http://i.mjh.nz/nz/tv.46.m3u8
 
-
-########novos########
-
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/cgtn.png" group-title="INTERNACIONAIS", CGTN
 http://live.cgtn.com/500/prog_index.m3u8
 
