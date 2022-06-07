@@ -879,8 +879,9 @@ http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/ox.png" group-title="VARIEDADES",OX TV
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
 
-#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="INTERNACIONAIS",AL JAZEERA INGLÊS
+#EXTINF:1 tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="INTERNACIONAIS", AL JAZEERA INGLÊS
 http://i.mjh.nz/nz/tv.46.m3u8
+
 
 ########novos########
 
@@ -1674,9 +1675,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="INTERNACIONAIS",NBC NEWS NOW
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Reuters TV" tvg-logo="https://i.imgur.com/AbvCnoH.png" group-title="NEWS",Reuters TV
-https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-name="PBS America" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="INTERNACIONAIS", PBS AMERICA
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
@@ -1701,7 +1699,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 #EXTINF:-1 tvg-id="FashionTVMidnite.fr" tvg-logo="https://p1.hiclipart.com/preview/914/560/43/tv-channel-icons-pack-fashion-tv-white-png-icon.jpg" group-title="INTERNACIONAIS",FASHION TV MIDNIGHT SECRETS
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="FASHION",WORLD FASHION CHANNEL 
+#EXTINF:-1 tvg-id="WorldFashion.ru" tvg-logo="https://www.akado.ru/lp/wfc/WF_logo_.jpg" group-title="INTERNACIONAIS",WORLD FASHION CHANNEL 
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GlobalFashion.us" tvg-logo="https://s3.amazonaws.com/ctm-tm/016759516.JPG" group-title="INTERNACIONAIS",GLOBAL FASHION CHANNEL
