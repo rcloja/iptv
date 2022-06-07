@@ -1431,7 +1431,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playli
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/retroplus.png" group-title="MÚSICAS", RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/retrotv.png" group-title="MÚSICAS", ROCK TV
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rocktv.png" group-title="MÚSICAS", ROCK TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rotana.png" group-title="MÚSICAS", ROTANA KHALIJIA
