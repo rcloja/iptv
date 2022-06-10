@@ -774,7 +774,7 @@ https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/allsports.png" group-title="ESPORTES",ALL SPORTS 2
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/abc.png" group-title="VARIEDADES",MAIS ABC
+#EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/abc2.png" group-title="VARIEDADES",MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/4.png"group-title="JORNALISMO",4 POR 4
@@ -1666,7 +1666,7 @@ http://live.chdrstatic.com/cheddar/index.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="http://milionariohomeoffice.com.br/img/cnninternacional.png" group-title="INTERNACIONAIS",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="http://milionariohomeoffice.com.br/img/abc.png" group-title="INTERNACIONAIS",ABC NEWS LIVE
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="http://milionariohomeoffice.com.br/img/abcnews.png" group-title="INTERNACIONAIS",ABC NEWS LIVE
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="http://milionariohomeoffice.com.br/img/nbc.png" group-title="INTERNACIONAIS",NBC NEWS NOW
@@ -1701,5 +1701,6 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GlobalFashion.us" tvg-logo="http://milionariohomeoffice.com.br/img/globalfashion.png" group-title="INTERNACIONAIS",GLOBAL FASHION CHANNEL
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
+
 
 
