@@ -534,7 +534,7 @@ http://conexaoonline.top:80/6339721/3230605/185
 #EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA SD" tvg-logo="http://milionariohomeoffice.com.br/img/globo.png" group-title="ABERTOS",GLOBO RBS TV POA 2
 http://conexaoonline.top:80/6339721/3230605/186
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnnbrasil2.png" group-title="ABERTOS",CNN BRASIL 2
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnnbrasil2.png" group-title="ABERTOS",CNN BRASIL
 http://conexaoonline.top:80/6339721/3230605/234932
 
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FHD (H265)" tvg-logo="http://milionariohomeoffice.com.br/img/comedy.png" group-title="HUMOR",COMEDY CENTRAL 2
@@ -692,9 +692,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/rcn.png" group-title="NOVELAS",RCN NOVELAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1111
-
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL" tvg-logo="http://milionariohomeoffice.com.br/img/cnnbrasil.png" group-title="ABERTOS",CNN BRASIL
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
 #EXTINF:1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS",CONQUISTA - RECORD TV
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
