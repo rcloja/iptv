@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS",RECORD TV MT
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS",RECORD TV 1
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS",RECORD TV MT 2
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/record.png" group-title="ABERTOS",RECORD TV 2
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/guaraja.png" group-title="ABERTOS", SBT
